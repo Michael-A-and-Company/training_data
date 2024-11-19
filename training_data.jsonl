@@ -1,0 +1,190 @@
+{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
+{ "LetterType": "Latin", "Case": "Small", "Character": "C", "Description": "Superscript Latin small letter C", "Symbol": "ᶜ" }
+{ "LetterType": "Greek", "Case": "Small", "Character": "Epsilon", "Description": "Epsilon with a rough breathing mark and grave accent", "Symbol": "ἒ" }
+{ "Topic": "International Phonetic Alphabet (IPA)", "Description": "An alphabetic system of phonetic notation developed in the 19th century by British and French language teachers and linguists. Its purpose is to accurately represent the sounds of spoken language", "Usage": "Widely used among linguists, phoneticians, and language teachers", "Example": { "EnglishWord": "ship", "IPARepresentation": "/ʃɪp/", "SoundMeaning": { "/ʃ/": "sh sound", "/ɪ/": "short i sound", "/p/": "p sound" } } }
+{ "Term": "Readiness", "Language": "English", "Meaning": "The state of being fully prepared or willing" }
+{ "Characters": ["Ꭶ", "᎘", "᎒", "ᎌ"], "Source": "Cherokee syllabary", "Usage": "Used to write the Cherokee language", "Note": "The sequence doesn't form a known Cherokee word or phrase" }
+{ "Character": "現在", "Language": "Chinese", "Meaning": ["now", "currently"] }
+{ "Language": "Georgian", "Type": "Letters", "Content": ["ლ", "ვ", "ფ", "ზ", "მ", "ე", "ს", "თ", "ა", "რ", "ი"], "Note": "Do not form a known Georgian word or phrase in their current sequence" }
+{ "Language": "English", "Type": "Words", "Content": ["Counter", "Emp", "because", "bounty", "rented", "from", "comprehension", "illustrates"] }
+{ "Type": "RandomCombinations", "Content": ["Aᴍრთ", "człဠრᆘ", "iderman", "Ferguson", "fromestersლ", "занимმრთ", "Ha7ე", "minist"] }
+{ "Language": "Korean", "Type": "HangulCharacters", "Content": ["ᆑᅑთ", "ᆑ", "᎒ ᎒ ᆑỹ"], "Note": "Do not form a known Korean word or phrase" }
+{ "Word": "kho", "Note": "Could be a word in several languages, including Vietnamese and Italian, but its meaning would depend on context" }
+{ "Type": "CurrencySymbol", "Content": "円", "Note": "The symbol for the Japanese Yen" }
+{ "Possibly": "Dish", "Content": "Rajāma", "Note": "Could be referring to the Indian dish Rajma, made with red kidney beans" }
+{ "Language": "Polish", "Type": "Word", "Content": "różnych", "Meaning": "Various or different" }
+{ "Type": "UnrecognizedCharacters", "Content": ["ᗢ", "ᗗ"] }
+{ "Language": "Norwegian", "Word": "Skil", "Meaning": "Distinguishes", "Note": "Can also be a brand of tools in English" }
+{ "Language": "English", "Term": "Paranormal", "Meaning": "Referring to things that cannot be explained by scientific laws" }
+{ "Abbreviation": "Kr", "Context": "Currency", "Meaning": "Swedish or Danish Krona" }
+{ "Name": "Metroid", "Type": "Video Game", "Producer": "Nintendo" }
+{ "Language": "English", "Word": "Ements", "Note": "Might be a typo or part of a word, but as it stands, it doesn't have a meaning" }
+{ "Word": "Physiologicalouses", "Note": "Seems to be a typo, and it's difficult to guess what the intended word was" }
+{ "Language": "English", "Words": ["Cool", "providing"], "Note": "They don't form a coherent phrase in this context" }
+{ "Animal": "Chipmunks", "Description": "Small, striped rodents native to North America" }
+{ "Language": "Korean", "Characters": "ᅰ ᅰ ᅰ ᅰ ᅰ ᅰ", "Note": "These are Hangul characters, but they don't form a meaningful phrase" }
+{ "Sequence": "[ nsinn II ]", "Note": "Doesn't seem to correspond to any specific language or notation. It could potentially be a code or shorthand for something in a specific context" }
+{"symbol": "Ḓ", "description": "This is a Latin Letter D with circumflex below."}
+{"symbol": "ᴜ", "description": "This is a small capital letter u, often used in phonetics."}
+{"symbol": "е", "description": "This is a Cyrillic script small letter Ye."}
+{"symbol": "ᶭ", "description": "This is a modifier letter small turned M."}
+{"symbol": "ḭ", "description": "This is a Latin small letter i with circumflex below."}
+{"symbol": "ᶇ", "description": "This is a modifier letter small turned A, used in phonetics."}
+{"symbol": "ᴀ", "description": "This is a small capital letter A, often used in phonetics."}
+{"symbol": "ᵍ", "description": "Represents the superscript of the Latin letter g."}
+{"symbol": "ᵇ", "description": "Represents the superscript of the Latin letter b."}
+{"symbol": "Ḇ", "description": "This is a Latin Letter B with a dot above."}
+{"symbol": "ᴄ", "description": "This is a small capital letter C, often used in phonetics."}
+{"symbol": "ᳺ", "description": "This is a Javanese Pangrangkep, a closing punctuation mark in the Javanese script."}
+{"symbol": "ᶏ", "description": "This is a modifier letter small beta, used in phonetics."}
+{"symbol": "王", "description": "This is a Chinese character, which means 'king' in English."}
+{"symbol": "ᴓ", "description": "This is a small capital barred o, often used in phonetics."}
+{"symbol": "ʕ", "description": "This is a phonetic symbol for a voiced pharyngeal fricative, often represented as /ʕ/ in phonetic transcription."}
+{"symbol": "៙", "description": "This is a Khmer symbol Barih Keset, a symbol with no phonetic value, used in the Khmer script for religious or Sanskrit text."}
+{"name": "George J. Kayla", "description": "These appear to be names in English."}
+{"word": "вы", "description": "This is Russian or Ukrainian for 'you.'"}
+{"phrase": "can see how about him why we're necessary for the", "description": "This is an English phrase, although it seems to be part of a larger sentence or context."}
+{"text": "ලපප කළ,ප නැක,ලතල් කරිඩා,ව ලතිනය, iron හැමු ඉතය හගනය ැඩය", "description": "These are words in Sinhalese, but they seem to be somewhat disjointed and lack clear context."}
+{"text": "ජල අය,පි Previously 4 їхවය වගන් ඔරිව, පඳනය ගළඩා, ඉතය", "description": "This is a mix of Sinhalese and English words, and it also includes the Ukrainian word 'їх.'"}
+{"text": "එය දකේ කප පරෛනක, යොට අය පධව අඩා ඔයදා", "description": "More Sinhalese words, again somewhat disjointed."}
+{"word": "applied", "description": "An English word."}
+{"text": "Ḁ 않은 ᶕ ᴄ?", "description": "The first character is a letter from the Latin script, often used in Vietnamese. The other characters appear to be Korean ('않은' means 'not') and International Phonetic Alphabet symbols."}
+{"symbol": "ᴀ?", "description": "This is a character from the Latin script, often used in Vietnamese."}
+{"text": "अग्यो", "description": "Hindi: 'अग्यो' means 'Next' in English."}
+{"text": "යí ළස එපා ඝීර්ල්", "description": "Sinhalese: 'යí ළස එපා ඝීර්ල්' appears to be a mixture of Sinhalese characters and English words. The transliteration of the Sinhalese part is 'yaí Lasa eṕā ghīrl'. However, it doesn't form a meaningful phrase in Sinhalese in this order."}
+{"text": "ស្", "description": "Khmer: The repeated 'ស្' character doesn't form a meaningful word or phrase in Khmer."}
+{"text": "ගටන් අපුත් දුදු", "description": "Sinhalese: 'ගටන් අපුත් දුදු' roughly translates to 'Counting is simple' in English."}
+{"word": "Galile", "description": "could be a misspelling of Galilei, as in Galileo Galilei, the Italian astronomer."}
+{"word": "Vikt", "description": "could be short for 'vikt', which is Swedish for 'weight'."}
+{"word": "BRÁ", "description": "could be an acronym, but without context it's hard to decipher."}
+{"word": "schlim", "description": "might be German for 'bad' or 'worse'."}
+{"word": "choreography", "description": "is an English term, referring to the sequence of steps and movements in dance or figure skating, among other forms."}
+{"word": "tremendous", "description": "is an English word meaning very great in amount, scale, or intensity."}
+{"word": "tactics", "description": "is an English term referring to an action or strategy carefully planned to achieve a specific end."}
+{"word": "ад", "description": "in Russian is 'Hell'."}
+{"word": "那", "description": "in Chinese means 'That'."}
+{"words": ["Dracula", "Batman", "Hi", "Golfing"], "description": "are already in English."}
+{"phrase": "Anyway, that was fun", "explanation": "This is a standard English phrase expressing enjoyment of a past event."}
+{"phrase": "God", "explanation": "This word appears in English and suggests a reference to a deity."}
+{"phrase": "Friend", "explanation": "An English word indicating a close relationship."}
+{"phrase": "Ok", "explanation": "A common English expression of agreement or acceptance."}
+{"phrase": "Labeladan", "explanation": "This appears to be a proper noun, possibly a name or place. However, the sources do not offer any information about its meaning."}
+{"phrase": "ខ៍", "explanation": "This is a single Khmer character. The sources do not provide a translation for this specific character."}
+{"phrase": "mayor", "explanation": "An English word denoting the elected leader of a city or town."}
+{"phrase": "reasonable", "explanation": "An English word implying logic or fairness."}
+{"phrase": "and it is", "explanation": "A phrase suggesting agreement or affirmation."}
+{"phrase": "Kapı", "explanation": "This is Turkish for 'door.'"}
+{"phrase": "រ៍", "explanation": "Typically used to represent the sound 'roh' but it doesn't form a word by itself."}
+{"phrase": "្ŋ", "explanation": "The character 'ŋ' does not exist in the Khmer script, so this combination doesn't form a recognizable Khmer character."}
+{"phrase": "បៈ", "explanation": "Typically used to represent the sound 'puh' but it doesn't form a word."}
+{"phrase": "ផ៊យ", "explanation": "This combination of characters doesn't form a standard Khmer word."}
+{"phrase": "ឝ់", "explanation": "This character doesn't form a standard Khmer word."}
+{"phrase": "ង៍", "explanation": "Typically used to represent the sound 'ngoh' but it doesn't form a word."}
+{"phrase": "ឍ៝", "explanation": "This combination of characters doesn't form a standard Khmer word."}
+{"phrase": "ោ", "explanation": "This is the independent vowel 'ô'."}
+{"phrase": "Khmer consonants.ប", "explanation": "'b' or 'p' in Khmer script."}
+{"phrase": "ហ", "explanation": "'h' in Khmer script."}
+{"phrase": "វ", "explanation": "'v' in Khmer script."}
+{"phrase": "ន", "explanation": "'n' in Khmer script."}
+{"phrase": "ឡ", "explanation": "'l' in Khmer script."}
+{"phrase": "002", "explanation": "The international call prefix for Egypt."}
+{"phrase": "007", "explanation": "The international call prefix for Russia."}
+{"phrase": "0", "explanation": "Can represent potential or infinity."}
+{"phrase": "5", "explanation": "Might be associated with freedom and adventure."}
+{"phrase": "7", "explanation": "Often linked to spirituality or wisdom."}
+{"phrase": "2", "explanation": "Could signify balance or partnership."}
+{"phrase": "500 years", "explanation": "Often used to denote the passing of significant eras or historical periods, reflecting the concept of change across generations."}
+{"phrase": "500 in Buddhism", "explanation": "Symbolizes a large and infinite number."}
+{"phrase": ".500 record", "explanation": "In professional sports, a .500 record (winning as many games as you lose) is seen as a minimum benchmark for success."}
+{"phrase": "500", "explanation": "Represented as 'D' in Roman numerals."}
+{"phrase": "500 midpoint", "explanation": "Marks the midpoint of the first 1000 numbers (1 to 1000), making it a pivotal number in numerical ranges."}
+{"phrase": "500 factors", "explanation": "500 is an even and composite number, with factors including 1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, and 500."}
+{"phrase": "7 items", "explanation": "People can retain roughly seven items in their working memory."}
+{"phrase": "pH 7", "explanation": "In chemistry, a pH value of 7 represents neutrality in an aqueous solution."}
+{"phrase": "7 colors", "explanation": "A rainbow has 7 colors."}
+{"phrase": "7 prime number", "explanation": "7 is a prime number, only divisible by 1 and itself. It's the fourth prime number, following 2, 3, and 5."}
+{"phrase": "Bengali: 'এনসার র র র'", "explanation": "This is a Bengali script phrase that does not form a standard word."}
+{"phrase": "Russian (Possibly): 'ользΙ O'", "explanation": "This appears to contain some Cyrillic and possibly random characters, but no clear translation was found."}
+{"phrase": "Sinhalese: 'ශ්ව ගවහැඑ්අවව Answer නොනෙශනැයිකඔ අපි බෑලියක තා ඕජතාන් රතාන ලැතාන් 7මු මොකීරමට වොනග් දවන්තාන අක්'", "explanation": "Contains both Sinhalese script and English words such as 'Answer'. 'අපි' translates to 'We' in English."}
+{"phrase": "Greek: 'ᶴᶜἕ, ᶰᶻἯἮᶠᶏ ᶆᶠΎ ᶠἮɌ'", "explanation": "A mixture of Greek letters and special characters with no recognizable word or meaning."}
+{"phrase": "Khmer: 'សៜ្ៜ្ សៜ្្្ សៜ្្្្ សៜ្្្្្ សៜ្្្្្្ សៜ្្្្្្្្, ទ ទ ទ កទ ក ទ ទ ទ ក ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ក ទ ទ ទ ᦰទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ, ឣᚠទ ឦោ, ក ˍៈ ក ោ ។ ៀ'", "explanation": "A long string of Khmer script with no discernible meaning or standard word."}
+{"phrase": "Thai: 'เปᵖỮ ꒪ᶽᵗᵕᵚ'", "explanation": "A combination of Thai script and special characters without a recognizable word or meaning."}
+{"phrase": "Bengali: 'এনসার'", "explanation": "In Bengali, 'এনসার' translates to 'Answer' in English."}
+{"phrase": "Sinhalese: 'අපි'", "explanation": "In Sinhalese, 'අපි' translates to 'We' in English."}
+{"phrase": "Greek: 'Ύ'", "explanation": "'Ύ' is the capital letter 'Upsilon' in Greek."}
+{"phrase": "'Ḣ'", "explanation": "A Latin letter H with a line below, used in linguistic studies."}
+{"phrase": "'я'", "explanation": "A Cyrillic small letter 'Ya', used in many Slavic languages, including Russian and Bulgarian."}
+{"phrase": "'Ἁ' and 'Ἆ'", "explanation": "Greek letters Alpha and Epsilon with a rough breathing mark, used in ancient and biblical Greek."}
+{"phrase": "'ο'", "explanation": "A Greek small letter Omicron."}
+{"phrase": "'ш'", "explanation": "A Cyrillic small letter Sha, used in various Slavic and Turkic languages."}
+{"phrase": "'ʔ'", "explanation": "A Latin letter glottal stop, used in phonetic transcriptions."}
+{"phrase": "'៕'", "explanation": "Khmer punctuation Danda, used to mark the end of a sentence."}
+{"phrase": "'ង'", "explanation": "The Khmer letter Ngo, used in the Khmer language."}
+{"phrase": "'ö'", "explanation": "A Latin small letter O with diaeresis, used in languages like German and Turkish."}
+{"phrase": "'ᴔ'", "explanation": "A Latin letter small capital OE, used in phonetics and linguistics."}
+{"phrase": "'σ'", "explanation": "The lowercase Greek letter Sigma, often used in mathematics to denote summation."}
+{"phrase": "'φ'", "explanation": "The lowercase Greek letter Phi, used in mathematics to represent Euler's totient function or the golden ratio."}
+{"phrase": "'θ'", "explanation": "The lowercase Greek letter Theta, commonly used in trigonometry."}
+{"phrase": "∝", "explanation": "This symbol is used to represent proportionality in mathematics."}
+{"phrase": "្", "explanation": "In the Khmer numeral system, this symbol is used as a decimal point."}
+{"phrase": "Cho", "explanation": "A common surname in Korean and also a word in various languages. In Japanese, it can mean 'super' or 'ultra'."}
+{"phrase": "chociaż", "explanation": "A Polish word meaning 'although' or 'even though'."}
+{"phrase": "mouvement", "explanation": "French for 'movement'."}
+{"phrase": "estoy", "explanation": "Spanish for 'I am'."}
+{"phrase": "Comics好", "explanation": "A mix of English and Chinese. 'Comics' is English, and '好' means 'good' in Chinese."}
+{"phrase": "Angular", "explanation": "Could refer to the open-source web application framework developed by Google."}
+{"phrase": "parsley", "explanation": "A type of herb used in cooking."}
+{"phrase": "Thank you for watching!", "explanation": "A common phrase used at the end of videos or presentations."}
+{"phrase": "ᴬ", "explanation": "A phonetic character from the International Phonetic Alphabet (IPA), used to standardize the representation of sounds."}
+{"phrase": "ᴏ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ᴕ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ᴟ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ව", "explanation": "A character from the Sinhalese alphabet, used to write the Sinhala language."}
+{"phrase": "ස", "explanation": "A character from the Sinhalese alphabet."}
+{"phrase": "fishy", "explanation": "An English word meaning something suspicious."}
+{"phrase": "wall", "explanation": "An English word referring to a vertical structure used to divide or enclose an area."}
+{"phrase": "orchestra", "explanation": "An English word for a large instrumental ensemble typical of classical music."}
+{"phrase": "ʕ", "explanation": "A character from the IPA representing a voiced pharyngeal fricative."}
+{"phrase": "ʔ", "explanation": "A character from the IPA representing a voiceless pharyngeal fricative."}
+{"phrase": "Multilingual", "explanation": "The text contains elements from several different languages."}
+{"phrase": "Symbols", "explanation": "Special characters and Unicode symbols are used."}
+{"phrase": "Unstructured", "explanation": "The text does not appear to follow any specific grammatical structure."}
+{"phrase": "Encrypted or Coded", "explanation": "The random mix might suggest a code or encryption of some sort."}
+{"phrase": "Nonsensical", "explanation": "The text as a whole does not make sense, suggesting it might be randomly generated."}
+{"phrase": "Non-Latin Scripts", "explanation": "Includes Georgian, Khmer, Greek, and Chinese scripts."}
+{"phrase": "Georgian Script", "explanation": "The characters 'ლლლ ლალ ლალ' are from the Georgian script, used for the Georgian language."}
+{"phrase": "Khmer Script", "explanation": "The characters '២ ២ ២ ២ ( ᐢ ២ ២ ២ ២ ) ២, ២' and others are from the Khmer script, used for the Cambodian language."}
+{"phrase": "Greek Script", "explanation": "The characters '( ο Pig Lieutenant ) ὡ' are from the Greek script, used for the Greek language."}
+{"phrase": "Arabic Script", "explanation": "The character 'أ' is from the Arabic script, used for the Arabic language."}
+{"phrase": "Chinese Script", "explanation": "The character '麃' is from the Chinese script, used for the Chinese language."}
+{"phrase": "Unicode Symbols", "explanation": "Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The symbols like '<', ')', '.', and others are from the Unicode standard. Some of them, like '🠇', are emojis."}
+{"phrase": "Specialized Unicode Characters", "explanation": "Unicode also includes a range of specialized characters and symbols. Your text includes various such symbols like '', 'ᱎ', '៛', etc."}
+{"phrase": "ка", "explanation": "A Russian word, which is a colloquial form of 'what'."}
+{"phrase": "ゴ", "explanation": "A type of Japanese character (Katakana) used to write foreign words, it is pronounced as 'go'."}
+{"phrase": "ʕ", "explanation": "An Arabic character used to represent phonetic sounds in Arabic and other Semitic languages, but it doesn't have a meaning on its own."}
+{"phrase": "ʔ", "explanation": "An Arabic character used to represent phonetic sounds in Arabic and other Semitic languages, but it doesn't have a meaning on its own."}
+{"phrase": "ě", "explanation": "A diacritic used in languages like Czech to indicate pronunciation."}
+{"phrase": "Ā", "explanation": "A diacritic used in languages like Vietnamese to indicate pronunciation."}
+{"phrase": "nhaarei", "explanation": "It's not clear what language this is in, or if it's a typo or a made-up word."}
+{"phrase": "su ven", "explanation": "This could be Italian and it means 'his or her vein'. But without context, it's hard to tell."}
+{"phrase": "Emthing", "explanation": "This appears to be a typo or a made-up word. It's not identifiable as a word in any particular language."}
+{"phrase": "ᴅ", "explanation": "This is a letter from the International Phonetic Alphabet (IPA) used to represent a sound."}
+{"phrase": "ᵀ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "ᶦ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "ᵃ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "Ὀ", "explanation": "This is an uppercase Greek letter, Omicron."}
+{"phrase": "Dracula", "explanation": "This is an English term referring to the fictional character from Bram Stoker's 1897 novel, often associated with vampires."}
+{"phrase": "Batman", "explanation": "This is an English term referring to the superhero character in DC Comics, known for fighting crime in Gotham City."}
+{"phrase": "Hi", "explanation": "This is a common English greeting."}
+{"phrase": "Golfing", "explanation": "This is an English word referring to the activity or sport of playing golf."}
+{"phrase": "Arduino", "explanation": "Arduino is a popular platform used for building digital devices and interactive objects that can sense and control objects in the physical world. Arduino boards can read inputs (e.g., light on a sensor, a finger on a button, or a Twitter message) and turn it into outputs (e.g., activating a motor, turning on an LED, or publishing something online)."}
+{"phrase": "Sinhalese and Khmer phrases", "explanation": "These seem to be random characters, and no direct translations were found."}
+{"phrase": "සතණියල් ලේට් introduzersටි කරයවිතියයිත movements ගේට පිතිලකක Sis අපිද් අද් ඔබහ්ද minute", "explanation": "This seems to be a mix of Sinhala and English, with many of the words not forming a coherent sentence in either language."}
+{"phrase": "Ḁᵏᶅ per ḁ ᵑᶜḒ ᴜᶉ ᶜᶉ е ᶭ ḭᶇᶀ ᴀᵍ ᵇ Ḇ ᴄᶜ ᳺᶏᶜ王 ᴓ", "explanation": "These appear to be individual Unicode symbols."}
+{"phrase": "ʕ៙।", "explanation": "This symbol seems to be from the Khmer or Thai script, but it is not recognized as a word or sentence in that language."}
+{"phrase": "Ḁ", "explanation": "This is a Latin letter A with a ring above."}
+{"phrase": "ᵏ", "explanation": "Represents the superscript of the Latin letter K."}
+{"phrase": "ᶅ", "explanation": "This is a modifier letter small lambda, used in phonetics."}
+{"phrase": "ḁ", "explanation": "This is a Latin letter a with a ring above."}
+{"phrase": "ᵑ", "explanation": "Represents the superscript of the Latin letter n, used in phonetics."}
+{"phrase": "ᶜ", "explanation": "Represents a superscript Latin small letter c, often used in scientific notation."}
