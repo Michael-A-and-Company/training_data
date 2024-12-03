@@ -188,3 +188,71 @@
 {"phrase": "ḁ", "explanation": "This is a Latin letter a with a ring above."}
 {"phrase": "ᵑ", "explanation": "Represents the superscript of the Latin letter n, used in phonetics."}
 {"phrase": "ᶜ", "explanation": "Represents a superscript Latin small letter c, often used in scientific notation."}
+"term": "ASCII Art", "definition": "This refers to artworks created by utilizing the characters of the American Standard Code for Information Interchange (ASCII). It's a creative way of generating images and designs, typically used in digital forums or platforms where actual image embedding might not be possible."}
+{"character": "Ụ", "script": "Igbo", "description": "This symbol is derived from the Igbo alphabet, used in the writing of the Igbo language, spoken in Nigeria. The character 'Ụ' represents a vowel sound, specifically a closed back rounded vowel (like the 'u' in 'rude'). It is often marked with a dot underneath to distinguish it from a regular 'U'."}
+{"character": "ឍ្្្...", "script": "Khmer", "description": "These characters are part of the Khmer script, which is used to write the Khmer language in Cambodia. The repetitive 'ឍ' with combining characters (such as '្') doesn’t form any coherent words in Khmer and may be stylistic or experimental in this context. It could signify attempts at visual emphasis or random repetitions of symbols for effect."}
+{"text": "Scaffey Charles SIMP...", "script": "Latin", "description": "This sequence switches to Latin script with English words. 'Scaffey Charles SIMP' seems to suggest a name and the use of 'SIMP,' which in internet slang refers to someone who is overly attentive to someone else (often in a romantic or servile way). It could be referencing a character, but it's also mixed with other unrelated symbols."}
+{"character_sequence": "ლ'ლ 'ლ'...", "script": "Georgian", "description": "The character 'ლ' is from the Georgian alphabet, where it represents the sound /l/ (like the English 'L'). This sequence of Georgian letters and symbols seems to be stylistic rather than semantically meaningful, perhaps evoking rhythmic or poetic sounds."}
+{"characters": ["𝃚", "𝃛"], "script": "Mathematical Bold Script", "description": "These are Mathematical Bold Script characters from the Unicode block, used typically in scientific or technical texts. They don't form recognizable words here but seem to be incorporated as stylistic or abstract symbols."}
+{"text": "ᴍᴅᴀᴅ ᴇᴅᴆ...", "script": "Latin (Small Capitals)", "description": "This sequence uses small capitals from the Latin script, which are often used for emphasis or stylistic purposes in modern typography. These letters might not form meaningful words but seem to serve as part of the overall visual design of the text."}
+{"character_sequence": "විි, පෘවීමි...", "script": "Sinhala", "description": "These characters are from the Sinhala script, used to write the Sinhala language in Sri Lanka. Although the words here seem random (e.g., 'විි' means 'energy' or 'strength,' while 'පෘවීමි' is not a recognized word in Sinhala), the use of the script adds another layer of linguistic diversity to the text."}
+{"time_markers": ["[0.30]", "[0.30]", "[0.30]"], "description": "These appear to represent time markers or numerical references, commonly seen in transcriptions of audio or video media. In this context, it might suggest timing or pace within a performance or structured section."}
+{"section": "Introduction", "text": "Matter of fact 2"}
+{"section": "Khmer Script", "text": "ឍ ឋ ឍ ឍ", "description": "Use of Khmer characters for emphasis or symbolism, though not forming recognizable words."}
+{"section": "Sinhala Script", "text": "collaborating with ා්සි වළදරීවක ජල, වෙමල්නේ් යුවක එතු.", "description": "Fragment in Sinhala discussing collaboration, 'ජල' means 'water,' other words are abstract."}
+{"section": "Sinhala Script", "text": "ඛ වේ නාර දර හැකු දිරයික.", "description": "Additional abstract Sinhala text without recognizable meaning."}
+{"section": "Sinhala and English Mix", "text": "ඛවාර ඕැරීවක් ඛහ pre වීයිමාour සහractionැල කරීයය.", "description": "Sinhala mixed with English words, forming abstract or non-standard text."}
+{"section": "Mixed Latin and Special Characters", "text": "iyiṸ ʾikṯɣ, propaganda ᔢdling ᐛiṸ", "description": "Mixture of Latin script, Inuit syllabics, and special characters forming fragmented phrases."}
+{"section": "Chinese Characters", "text": "行 Maj石", "description": "Inclusion of Chinese characters '行' (movement) and '石' (stone), adding symbolic complexity."}
+{"section": "Mixed Scripts", "text": "ᤂ ʾijit უid ᴇj nawet ᴇ 건데 Ḏ alle", "description": "Combination of characters from multiple languages including Georgian, Korean, and Arabic-like diacritics."}
+{"section": "Abstract Symbols", "text": "parch cān distorted ᧄ᳔ ᴤy ḝᶦ ᱗j ᾡ weac抱 ᴊ", "description": "Mixture of distorted characters, abstract symbols, and the Chinese character '抱' (embrace)."}
+{"section": "Repeating Pattern", "text": "CT ( Ṭīṁ ʀ pars )", "description": "Repeated phrases, creating a rhythmic structure and suggesting emphasis or repetition."}
+{"section": "Variations of Repetition", "text": "( Ṭīṁ ʀ pars ) ( Ṭīṁ ʀ reactors )", "description": "Further variations of the repeating pattern, adding structure to the text."}
+{"number": 86, "even": true, "digits": [8, 6], "position": {"previous": 85, "next": 87}, "prime_factors": [2, 43], "composite": true, "roman_numeral": "LXXXVI"}
+{"term": "86", "definition": "indicates an item is out of stock or a person is no longer welcome", "origin": "American English, restaurant industry", "usage": "various contexts"}
+{"scientific_significance": {"atomic_number": 86, "element": "Radon", "category": "radioactive noble gas"}}
+{"astronomy": {"fact": "An 86-year orbit of a planet around a star matches the human lifespan"}}
+{"sports": {"context": "American football", "positions": ["wide receiver", "tight end"], "number": 86}}
+{"section": "Greek Letters", "details": "ἄ (alpha with tonal mark) and ἀ (alpha with rough breathing mark) are Greek letters used in Classical Greek, indicating pronunciation nuances."}
+{"section": "Superscript and Subscript Characters", "details": "ᵒ (o), ᵉ (e), ᴅ (d), ᵃ (a), ᵄ (a) are superscript/subscript characters from Unicode, often used in scientific, mathematical, or phonetic contexts, giving the text a 'scientific' or 'archaic' feel."}
+{"section": "Latin Characters", "details": "ᵃ (superscript 'a') and ᶃ (superscript 'c') are Latin superscript letters. 'Arma' is Latin for 'arms' or 'weapons', commonly associated with classical texts like Virgil's Aeneid."}
+{"section": "Repeating 'ᶜ'", "details": "ᶜ is the superscript form of 'c'. The repetition of ᶜ (five times) emphasizes the letter 'c', potentially serving an aesthetic or rhythmic purpose in the text."}
+{"section": "Interpretation - Eclectic Mix", "details": "The text blends Greek (classical influence), Latin (historical significance), and superscript characters (symbolic/phonetic), creating a layered, possibly esoteric meaning."}
+{"section": "Interpretation - Symbolic or Phonetic Significance", "details": "Superscript characters may symbolize abstract or phonetic meanings, possibly representing sounds or linguistic features, adding depth or mystery."}
+{"section": "Interpretation - Visual Aesthetic", "details": "The mix of characters creates a visually complex and cryptic appearance, invoking a sense of ancient, stylized, or esoteric writing."}
+{"section": "Classical Influence", "details": "'Arma' connects the text to classical themes, such as warfare and heroism, common in ancient literature and famously used in Virgil's Aeneid."}
+{"text": "Så", "script": "Latin", "language": "Swedish", "description": "The character 'å' is common in Swedish and Norwegian, representing a vowel sound similar to 'o' in 'more.' 'Så' means 'so' or 'thus' in Swedish."}
+{"text": "Бы", "script": "Cyrillic", "language": "Russian", "description": "'Бы' is used in Russian for conditional constructions, translating to 'would' in English."}
+{"text": "Så Бы", "script": "Latin and Cyrillic", "language": "Mixed", "description": "This phrase blends Scandinavian and Slavic linguistic elements. It is likely stylistic, combining Latin and Cyrillic scripts for visual or symbolic effect, rather than forming a recognized word."}
+{"character": "ᗅ, ᗳ, ᗻ", "description": "These characters are from the Tifinagh alphabet, used by the Berber people in North Africa. However, they seem to be used here in an abstract or decorative manner rather than for forming meaningful words."}
+{"character": "ὴ", "description": "This is from the Greek alphabet, where it represents a lowercase eta with a grave accent, commonly used in classical or ancient Greek texts."}
+{"character": "Ť", "description": "A Latin letter with a caron, used in some Slavic languages like Czech and Slovak."}
+{"character": "ዢ", "description": "A character from the Ge'ez script, used in Ethiopia for the Amharic and Tigrinya languages, among others."}
+{"character": "י, ט", "description": "These are Hebrew characters, where י (yod) and ט (tet) are used to form words in the Hebrew language."}
+{"character": "зов, олов, иш", "description": "These are Cyrillic letters (used in languages like Russian and Ukrainian) and appear to form partial or meaningful words, such as 'зов' (call, appeal) and 'иш' (partial form of 'search' in some Slavic languages)."}
+{"character": "ლ", "description": "This is a character from the Georgian alphabet, representing the sound /l/. It appears repeatedly, perhaps to create a rhythmic or visual effect."}
+{"character": "ᐜ", "description": "This character is from the Canadian Aboriginal syllabics, used to write languages like Cree and Inuktitut."}
+{"character": "Ⴀლ", "description": "More Georgian characters."}
+{"character": "ბᆍა", "description": "Georgian characters forming part of a word that does not seem to have clear meaning in the Georgian language but could be stylistic."}
+{"character": "ვᆕ", "description": "Combines Georgian and a character from Hangul, the Korean alphabet, indicating a mix of writing systems."}
+{"character": "វ", "description": "A character from the Khmer script, used in Cambodia."}
+{"character": "ᅀ", "description": "From Hangul, the Korean script."}
+{"character": "ჽახხ ლცთალნი", "description": "Georgian letters, forming a seemingly non-meaningful phrase, but it might be phonetic or abstract."}
+{"character": "aw", "description": "Uses the Latin alphabet with phonetic symbols (w being a superscript w)."}
+{"character": "សៜ", "description": "Repeated Khmer script characters, possibly for stylistic effect rather than linguistic meaning."}
+{"character": "Shlik)", "description": "An English or possibly Germanic-based word embedded within the Khmer."}
+{"character": "!", "description": "From Sinhala, used in Sri Lanka."}
+{"character": "團", "description": "A Chinese character, meaning 'group' or 'organization'."}
+{"character": "ኁ", "description": "A character from the Ge'ez script (used in Ethiopian languages)."}
+{"character": "ἍἋ", "description": "Greek characters, often used in ancient or biblical Greek."}
+{"character": "ᆍså", "description": "Combines Tifinagh and Scandinavian characters (with 'å' from Swedish or Norwegian)."}
+{"character": "latt", "description": "Latin letters spelling an English word."}
+{"character": "�", "description": "From Hangul (Korean script)."}
+{"character": "Ḫᴔ", "description": "Phonetic symbols or accented Latin characters."}
+{"character": "ὁ", "description": "A Greek letter (omicron)."}
+{"character": "slapped ᱎ", "description": "Combines English with a character from an obscure script, possibly Chakma (used in Bangladesh)."}
+{"text": "板", "character": "板", "script": "Chinese", "description": "This is a Chinese character pronounced 'bǎn' in Mandarin, meaning 'board' or 'plank'."}
+{"text": "Ḝ", "character": "Ḝ", "script": "Latin", "description": "This is the letter 'E' with a breve and a macron below, often used in linguistic transcription systems."}
+{"text": "Ḝ", "character": "Ḝ", "script": "Latin", "description": "This is the letter 'E' with a breve and a macron below, often used in linguistic transcription systems."}
+{"text": "ḍ", "character": "ḍ", "script": "Latin/Indic", "description": "This is the letter 'd' with a dot below, representing a retroflex 'd' sound, commonly found in Indic scripts like Devanagari."}
+{"character": "ὁ", "description": "A Greek letter (omicron)."}
