@@ -271,3 +271,13 @@
 {"text": "ᴍᴅᴀᴅ ᴇᴅᴆ...", "script": "Latin (Small Capitals)", "description": "This sequence uses small capitals from the Latin script, which are often used for emphasis or stylistic purposes in modern typography. These letters might not form meaningful words but seem to serve as part of the overall visual design of the text."}
 {"character_sequence": "විි, පෘවීමි...", "script": "Sinhala", "description": "These characters are from the Sinhala script, used to write the Sinhala language in Sri Lanka. Although the words here seem random (e.g., 'විි' means 'energy' or 'strength,' while 'පෘවීමි' is not a recognized word in Sinhala), the use of the script adds another layer of linguistic diversity to the text."}
 {"time_markers": ["[0.30]", "[0.30]", "[0.30]"], "description": "These appear to represent time markers or numerical references, commonly seen in transcriptions of audio or video media. In this context, it might suggest timing or pace within a performance or structured section."}
+{"Georgian Letter": {"character": "჌", "description": "The first character is from the old Georgian alphabet, specifically 'Lhari,' now obsolete."}}
+{"Unicode Symbols": {"character": "ᐜ", "description": "Indigenous Canadian syllabic, though used here without clear meaning."}}
+{"Unicode Symbols": {"character": "᐀", "description": "Indigenous Canadian syllabic, though used here without clear meaning."}}
+{"Unicode Symbols": {"character": "ʀ", "description": "IPA symbol for a uvular trill sound, though its frequent appearance seems random."}}
+{"Unicode Symbols": {"character": "ʃ", "description": "IPA symbol for the 'sh' sound, appearing sporadically."}}
+{"Unicode Symbols": {"character": "ʁ", "description": "IPA symbol for a voiced uvular fricative, appearing sporadically."}}
+{"Miscellaneous Symbols": {"character": "⏱", "description": "Represents a stopwatch, likely indicating something time-related."}}
+{"Miscellaneous Symbols": {"character": "'", "description": "Apostrophes and spaces separate elements but don't clarify meaning."}}
+{"Miscellaneous Symbols": {"character": "�", "description": "A replacement symbol, often appearing due to character encoding issues."}}
+{"Cyrillic": {"characters": "ос", "description": "The characters 'ос' are from the Cyrillic alphabet, used in languages like Russian, but lack clear context."}}
