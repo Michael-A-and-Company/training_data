@@ -1,4 +1,4 @@
-# training_data
+# Training Data
 This repository contains a dataset in JSONL (JSON Lines) format used for fine-tuning machine learning models. The dataset is organized such that each line corresponds to a training example.
 
 Table of Contents
