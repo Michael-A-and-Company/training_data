@@ -293,3 +293,13 @@
 {"script": "Abstract", "symbols": ["⛈", "四"], "description": "'⛈' is a weather symbol for thunderstorms, and '四' is a Chinese character meaning 'four.' These may be used decoratively."}
 {"script": "Latin", "characters": ["W"], "description": "The letter 'W' is repeated throughout the text, seemingly for stylistic or rhythmic purposes, rather than forming words."}
 {"script": "Punctuation", "symbols": ["/", "¡", "‒", "┌", "<", "ˋ", "ˊ"], "description": "A mix of punctuation marks and special characters used decoratively without forming standard grammatical structures."}
+{"Georgian_Script": "Includes letters like ვვვვვვვვვვვვ and ოვ, mixed with IPA symbols (e.g., ʃ)"}
+{"IPA_Symbols": "Phonetic symbols like ʷ, ʃ, and ʰ representing sounds, used with Georgian letters"}
+{"Latin_Alphabet": "Words such as Offician, a good sign, and Would I dare death Malamoot, mixing English with unusual capitalization"}
+{"Cyrillic_Script": "Uses characters like мотр (possibly Russian) and verein (German word for association)"}
+{"Sinhala_Script": "Includes Sinhala characters like සිතුන් ඒැවි from the Sri Lankan script"}
+{"Korean_Script": "The word 누가, meaning who, appears in Hangul (Korean script)"}
+{"Phonetic_Symbols": "Superscript characters like ᶠ, ᵃ, ᶜᶜ, possibly representing phonetic notation or symbolism"}
+{"Khmer_Script": "Repeated Khmer characters like ស្្្ from Cambodian script, likely for symbolic effect"}
+{"Tibetan_Script": "Tibetan characters like ༼ ༼༼, possibly evoking spiritual or mystical themes"}
+{"Overall_Meaning": "A complex mix of languages and symbols, possibly intended for artistic or symbolic expression, with themes of authority and mortality"}
