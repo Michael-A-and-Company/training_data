@@ -306,6 +306,31 @@
 {"script_type": "Latin Script", "description": "This is the most prevalent script, featuring English words like \"laughter,\" \"ten,\" \"proposed,\" and \"cruelty.\" The text also incorporates Latin characters with diacritics and modifications like \"Kròu,\" \"stead,\" and \"apparatusãimasu,\" suggesting a blend of phonetic elements or stylistic choices."}
 {"script_type": "Georgian Script", "description": "The Georgian letters \"რრი\" are repeated multiple times, likely for emphasis or visual effect. The repetition of \"რი\" further reinforces this stylistic choice. The presence of \"Ḣ\" (Latin letter H with a dot below), often used in linguistic transcriptions, suggests a possible phonetic element within the Georgian context."}
 {"script_type": "Phonetic Symbols and Superscripts", "description": "The text employs various phonetic symbols, potentially drawn from the International Phonetic Alphabet (IPA), such as \"ᶱ,\" \"ᶫ,\" \"ᶋ\" and superscript characters like \"ᵇ\" and \"ᶜ.\" These likely represent specific sounds or phonetic nuances."}
+{"type": "latin", "text": "game"}
+{"type": "georgian", "text": "რს"}
+{"type": "mixed", "text": "Ļᵃᵃᵍ jæ"}
+{"type": "symbol", "text": "."}
+{"type": "mongolian", "text": "᠀"}
+{"type": "mongolian", "text": "᠑"}
+{"type": "mixed", "text": "ᶦᶉန-ᶦᶅ ᶦᶄᶜᶎ ᶅᶜါ"}
+{"type": "latin", "text": "artist"}
+{"type": "mixed", "text": "ვbrᵍ"}
+{"type": "latin", "text": "drivers"}
+{"type": "mixed", "text": "ᶁᶅ"}
+{"type": "latin", "text": "lyrics"}
+{"type": "latin", "text": "rules"}
+{"type": "symbol", "text": "ᵕ�"}
+{"type": "latin", "text": "fez"}
+{"type": "mixed", "text": "ᶕ'�aryᴤᵏ ᶏᶪ"}
+{"type": "latin", "text": "variance"}
+{"type": "latin", "text": "praises"}
+{"type": "mixed", "text": "ᶜᶜᡜᶒᶗᶄ ᶿᶜᶉᶙᶏᶃ🆢 ᶘᵄᶔᶛᵛ ᶘᶏᵍ"}
+{"type": "symbol", "text": "ᵕᵗ"}
+{"type": "latin", "text": "knocks"}
+{"type": "latin", "text": "stainless"}
+{"type": "latin", "text": "steel"}
+{"type": "latin", "text": "type"}
+{"type": "latin", "text": "display"}
 {"script_type": "Khmer Script", "description": "Khmer characters, primarily from the Cambodian language, are interspersed throughout the text. Notably, \"ឍ\" and \"ង\" appear repeatedly, alongside other Khmer characters like \"ឋ,\" \"ខ,\" and \"វ.\" While these characters don't form recognizable words, they contribute to the text's visual complexity and may hold symbolic significance."}
 {"script_type": "Japanese Script", "description": "The text incorporates the Japanese word \"ハ\" (pronounced \"ha\"), written in Katakana, which is primarily used for foreign words and onomatopoeia. The presence of \"imasu\" within \"apparatusãimasu\" suggests the use of Japanese grammar, indicating a possible attempt at constructing a phrase or sentence."}
 {"script_type": "Overall Interpretation", "description": "This entry represents the overall interpretation of the combined scripts. The preceding entries describe the individual scripts present in the text."}
