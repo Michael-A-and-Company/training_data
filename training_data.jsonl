@@ -338,3 +338,29 @@
 {"language_analysis": {"primary_language": "Telugu", "secondary_languages": ["English", "Italian"], "scripts": ["Telugu", "Latin"], "loanwords": ["Principal", "Drone"], "italian_word": "azione", "english_word": "occasional"}}
 {"repeated_sequences": ["స్త్రుటుటుటుటు.", "స్త్రుటుటుటు.", "స్త్రుటుటు."], "possible_interpretations": ["Onomatopoeia", "Placeholder text", "Stylistic elements", "Errors or artifacts"]}
 {"symbols_and_punctuation": [".", ",", " "]}
+{"type":"language_analysis","language":"English","examples":["Owned","axle","stem","islam","GL","copyright","brains","voice","glimpse","off","the","sky","Trenton","Coast","Lord","plate","boxes","taken","Shelley","Emperor","Who","that","gradu","sausages","applicants","Adventure","Dartmouth","exam","War","hoofs","times","as","by","intersay","coins"]}
+{"type":"language_analysis","language":"Greek","examples":["Ὅ"]}
+{"type":"language_analysis","language":"Russian","examples":["получается","Ѣ","ṭерь"]}
+{"type":"language_analysis","language":"Persian (Farsi)","examples":["Iranificación"]}
+{"type":"language_analysis","language":"Spanish","examples":["Iranificación"]}
+{"type":"language_analysis","language":"Telugu","examples":["ఇిఫైనిస్య","కమతుసి","పాన్లితు"]}
+{"type":"language_analysis","language":"Khmer","examples":["ទ"]}
+{"type":"language_analysis","language":"Thai","examples":["ឣ"]}
+{"type":"language_analysis","language":"Lao","examples":["ᇠ"]}
+{"type":"language_analysis","language":"Burmese","examples":["ိ"]}
+{"type":"language_analysis","language":"Tibetan","examples":["ᆢ"]}
+{"type":"language_analysis","language":"Mongolian (Classical Script)","examples":["ဢ"]}
+{"type":"language_analysis","language":"Lanna","examples":["ဠ"]}
+{"type":"language_analysis","language":"Tai Tham","examples":["ហ"]}
+{"type":"language_analysis","language":"Balinese","examples":["ត"]}
+{"type":"language_analysis","language":"Javanese","examples":["ន"]}
+{"type":"language_analysis","language":"Buginese","examples":["វ"]}
+{"type":"language_analysis","language":"Sundanese","examples":["ផ្"]}
+{"type":"language_analysis","language":"Batak","examples":["គ"]}
+{"type":"language_analysis","language":"Rejang","examples":["Sês"]}
+{"type":"language_analysis","language":"IPA or Phonetic Notation","examples":["õx","ᴢᴏᴇᴀ","ᴀᴏᴅ","ᴅᴀᴅᵃ","ᴀᵃ ᶉthat ᴅᴝᴀ ᴀᴏᴅ ᴀᴜ ᴀ ᴀḅᵠʅ ᴀᴜʅ ᴀᴀᴓ ᴀᴥᴜᴔ","ᴌᴁᴄᵃᴄ","计","ᵏᴇᴅmTer eks","៛ṽ","ṭ៛","Ṣ","Ṭ","(;","Ph.yy","ynthesis"]}
+{"type":"symbols_and_characters","symbol_type":"Latin Alphabet","description":"Majority of the text"}
+{"type":"symbols_and_characters","symbol_type":"Mathematical Symbols","examples":["≫"]}
+{"type":"symbols_and_characters","symbol_type":"Punctuation","examples":[",",".",";","(",")"]}
+{"type":"symbols_and_characters","symbol_type":"Unidentified Glyphs","examples":["្"],"note":"Appears repeatedly, possibly a combining diacritic from Southeast Asian scripts but used inconsistently."}
+{"type":"symbols_and_characters","symbol_type":"Numeric Character","examples":["73"]}
