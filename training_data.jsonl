@@ -364,3 +364,13 @@
 {"type":"symbols_and_characters","symbol_type":"Punctuation","examples":[",",".",";","(",")"]}
 {"type":"symbols_and_characters","symbol_type":"Unidentified Glyphs","examples":["្"],"note":"Appears repeatedly, possibly a combining diacritic from Southeast Asian scripts but used inconsistently."}
 {"type":"symbols_and_characters","symbol_type":"Numeric Character","examples":["73"]}
+{"text": "み", "script": "Hiragana", "language": "Japanese", "note": "Hiragana character for 'mi'"}
+{"text": "platform teen trim", "script": "Latin", "language": "English", "note": "Common English words"}
+{"text": "ლლლ ლალ ლალ ს", "script": "Mkhedruli", "language": "Georgian", "note": "Repeating Georgian letters, some forming partial words or syllables"}
+{"text": "wasn't", "script": "Latin", "language": "English", "note": "English contraction"}
+{"text": "្្្", "script": "Khmer", "language": "Khmer", "note": "Repeated 'Coeng' diacritic, used to form subscript consonants"}
+{"text": "[repeating '្' for several lines]", "script": "Khmer", "language": "Khmer", "note": "Likely decorative or glitch text, not readable Khmer"}
+{"text": "සඝදියර්", "script": "Sinhala", "language": "Sinhala", "note": "Sinhala script, possibly jumbled or nonsensical"}
+{"text": "අරට්", "script": "Sinhala", "language": "Sinhala", "note": "Sinhala letters, may not form coherent meaning"}
+{"text": "4පටා", "script": "Sinhala with number", "language": "Sinhala", "note": "Contains number and Sinhala text; potentially stylized or symbolic"}
+{"text": "shaved", "script": "Latin", "language": "English", "note": "English word"}
