@@ -418,3 +418,14 @@
 {"type": "word", "language": "English", "content": "Azerbaijani ports"}
 {"type": "symbol", "script": "Sinhala", "content": "ෂ ැ ාන්වාරෙහ සාර"}
 {"type": "symbol", "script": "Sinhala", "content": "යසුභාදවගය්"}
+{"language": "Telugu", "script": "Telugu", "content": "మానికత", "notes": "Possibly means 'humanity' or could be a personal name"}
+{"language": "English", "script": "Latin", "content": "Cheers!", "notes": "Used informally to end a message or toast"}
+{"language": "Telugu", "script": "Telugu", "content": "ఆలిలు", "notes": "Likely a name or poetic term"}
+{"language": "Unknown", "script": "Telugu (garbled)", "content": "ద్నుా", "notes": "Not a standard Telugu word, possibly a typo or invented"}
+{"language": "Unknown", "script": "Telugu", "content": "సాసికియీ", "notes": "Resembles a name or invented poetic form"}
+{"language": "Telugu", "script": "Telugu", "content": "మాట", "notes": "Means 'word' or 'speech'"}
+{"language": "Chinese", "script": "Han", "content": "這是", "notes": "Means 'this is'"}
+{"language": "Unknown", "script": "Telugu", "content": "మలికిసి", "notes": "May be a name or invented word"}
+{"language": "Unknown", "script": "Mixed", "content": "పోర్�", "notes": "Corrupted or glitched Telugu-Latin mix"}
+{"language": "English", "script": "Latin", "content": "idea segue Olab", "notes": "'segue' means transition; 'Olab' might be a name or alias"}
+{"language": "Unknown", "script": "Symbolic", "content": "[▀ulative building]", "notes": "Likely meant to be 'speculative' or 'regulative'; includes Unicode symbol ▀"}
