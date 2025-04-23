@@ -441,3 +441,5 @@
 {"text": "since", "language": "English", "script": "Latin", "meaning": "Temporal conjunction or preposition", "notes": "Part of a fragmented sentence"}
 {"text": "have", "language": "English", "script": "Latin", "meaning": "Auxiliary verb", "notes": "Used but not followed by a complete clause"}
 {"text": "and (repeated)", "language": "English", "script": "Latin", "meaning": "Conjunction", "notes": "Repetition could imply a glitch or stream-of-consciousness effect"}
+{"character": "不", "type": "ideograph", "script": "Han", "language": "Chinese", "pronunciation": "bù", "meaning": "not, no", "position": 0}
+{"character": "[ ]", "type": "symbol", "script": "Latin", "language": "N/A", "meaning": "empty placeholder or bracket pair", "position": 1}
