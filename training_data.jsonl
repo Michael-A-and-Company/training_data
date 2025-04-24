@@ -443,3 +443,10 @@
 {"text": "and (repeated)", "language": "English", "script": "Latin", "meaning": "Conjunction", "notes": "Repetition could imply a glitch or stream-of-consciousness effect"}
 {"character": "不", "type": "ideograph", "script": "Han", "language": "Chinese", "pronunciation": "bù", "meaning": "not, no", "position": 0}
 {"character": "[ ]", "type": "symbol", "script": "Latin", "language": "N/A", "meaning": "empty placeholder or bracket pair", "position": 1}
+{"segment": "Ixa�ara kor pisant pil jġin nġa q make w", "scripts": ["Latin"], "languages": ["Unknown", "Possible Berber or Maltese influence"], "notes": "Contains unusual Latin characters like ġ and għ, possibly stylized or constructed language."}
+{"segment": "오빠ake", "scripts": ["Hangul", "Latin"], "languages": ["Korean", "English"], "notes": "Blends Korean word 오빠 ('oppa') with English suffix 'ake', possibly playful or phonetic."}
+{"segment": "ixaġ w", "scripts": ["Latin"], "languages": ["Unknown"], "notes": "Includes non-standard Latin character ġ; might be a continuation or poetic variant."}
+{"segment": "Campaign for all spectators", "scripts": ["Latin"], "languages": ["English"], "notes": "Standard English phrase."}
+{"segment": "Swan Winters üs ½ enta", "scripts": ["Latin"], "languages": ["English", "Possible German"], "notes": "Mix of English and Germanic features; 'üs' is non-standard but evokes German umlauts; '½' may be symbolic."}
+{"segment": "üs ½", "scripts": ["Latin", "Symbol"], "languages": ["Unknown"], "notes": "Repeated many times; likely used for rhythm, glitch-art aesthetic, or poetic effect."}
+{"segment": "ఠిరాగ కిరి", "scripts": ["Telugu"], "languages": ["Telugu"], "notes": "Words in Telugu script; unclear meaning, possibly names or poetic fragments."}
