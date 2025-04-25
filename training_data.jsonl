@@ -450,3 +450,13 @@
 {"segment": "Swan Winters üs ½ enta", "scripts": ["Latin"], "languages": ["English", "Possible German"], "notes": "Mix of English and Germanic features; 'üs' is non-standard but evokes German umlauts; '½' may be symbolic."}
 {"segment": "üs ½", "scripts": ["Latin", "Symbol"], "languages": ["Unknown"], "notes": "Repeated many times; likely used for rhythm, glitch-art aesthetic, or poetic effect."}
 {"segment": "ఠిరాగ కిరి", "scripts": ["Telugu"], "languages": ["Telugu"], "notes": "Words in Telugu script; unclear meaning, possibly names or poetic fragments."}
+{"segment": "Respect", "type": "word", "language": "English", "meaning": "A call for regard, value, or honor."}
+{"segment": "enthalton", "type": "word", "language": "Unknown/Possibly Invented", "meaning": "Resembles scientific terms like 'enthalpy' or 'Hamiltonian'; possibly a neologism or poetic formation."}
+{"segment": "phonon", "type": "scientific term", "language": "English (Physics)", "meaning": "Quantum of vibrational energy in a lattice structure; associated with sound and heat transfer."}
+{"segment": "username meen ee and i", "type": "phrase", "language": "English (phonetic wordplay)", "meaning": "'meen ee and i' phonetically resembles 'me, E, and I'—possibly a play on identity and user representation."}
+{"segment": "-- . . -- . . . .", "type": "Morse code", "language": "Symbolic", "decoded": "MIMS", "meaning": "Possible reference to a name, acronym, or play on sound."}
+{"segment": "ʻ", "type": "character", "language": "Hawaiian", "meaning": "ʻOkina; glottal stop used in Hawaiian language."}
+{"segment": "្្្្", "type": "diacritics", "language": "Khmer", "meaning": "Repeated coeng diacritics used in subscript consonant clusters; repeated for stylistic or symbolic effect."}
+{"segment": "...", "type": "punctuation", "language": "Universal", "meaning": "Ellipsis; suggests pause, continuation, or omission."}
+{"segment": "覺", "type": "logogram", "language": "Chinese (Traditional)", "pronunciation": "jué", "meaning": "To awaken, feel, perceive; implies awareness or consciousness."}
+{"segment": "krit", "type": "word", "language": "Unclear (possibly Sanskrit, English slang, or a name)", "meaning": "Could refer to 'kriti' (creation), a name (e.g., K.R.I.T.), or shorthand for critique/critical."}
