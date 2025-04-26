@@ -460,3 +460,18 @@
 {"segment": "...", "type": "punctuation", "language": "Universal", "meaning": "Ellipsis; suggests pause, continuation, or omission."}
 {"segment": "覺", "type": "logogram", "language": "Chinese (Traditional)", "pronunciation": "jué", "meaning": "To awaken, feel, perceive; implies awareness or consciousness."}
 {"segment": "krit", "type": "word", "language": "Unclear (possibly Sanskrit, English slang, or a name)", "meaning": "Could refer to 'kriti' (creation), a name (e.g., K.R.I.T.), or shorthand for critique/critical."}
+{"type": "script", "language": "Hindi/Devanagari", "examples": ["हमा खता टी द", "सेखम के Rich", "शर्ए था ु उन पुधां ू को तदें"], "notes": "Random Hindi fragments, mostly nonsensical combinations."}
+{"type": "script", "language": "Russian/Cyrillic", "examples": ["слов", "ияхт"], "notes": "Fragments from Russian words; 'слов' means 'words'."}
+{"type": "script", "language": "Tamil", "examples": ["ம"], "notes": "Single Tamil character 'ம' meaning 'ma'."}
+{"type": "script", "language": "Korean/Hangul", "examples": ["우", "ᄓ"], "notes": "Korean letters, not forming meaningful words."}
+{"type": "script", "language": "Khmer", "examples": ["់", "៟ំ"], "notes": "Characters from Khmer (Cambodian script), floating without context."}
+{"type": "script", "language": "Georgian", "examples": ["჈"], "notes": "Single Georgian character appears, isolated."}
+{"type": "script", "language": "Chinese (Han)", "examples": ["代", "浮"], "notes": "Chinese characters meaning 'generation' and 'float' respectively, randomly inserted."}
+{"type": "script", "language": "Telugu", "examples": ["డా", "నిమ"], "notes": "Telugu script appears with isolated syllables."}
+{"type": "script", "language": "Sinhala", "examples": ["බ", "ක", "අමම", "දඵදයගන්", "භ"], "notes": "Sinhala language fragments, partially recognizable words."}
+{"type": "script", "language": "Latin", "examples": ["Rich", "construct", "mistress", "iron man", "logistics", "locker"], "notes": "English (Latin alphabet) words scattered throughout."}
+{"type": "symbol", "examples": ["#", ">>", "..."], "notes": "Symbols used for formatting or visual breaks, resembling social media or coding syntax."}
+{"type": "pattern", "pattern": "repetition", "examples": ["ivan ivan ivan", "iron iron iron"], "notes": "Suggests rhythm, glitch effect, or chant."}
+{"type": "theme", "theme": "globalization", "notes": "Text blends languages and scripts from all over the world, without coherent structure."}
+{"type": "theme", "theme": "communication breakdown", "notes": "Fragmentation suggests loss of clear meaning across languages."}
+{"type": "theme", "theme": "information overflow", "notes": "Use of hashtags, arrows, and excessive dots mirrors digital information chaos."}
