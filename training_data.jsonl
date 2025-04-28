@@ -487,3 +487,22 @@
 {"symbol": ".", "description": "Period, sentence delimiter"}
 {"language": "Khmer", "text": "៦ៗ ៦៟, ៦ៗ-៧ ៦៕", "analysis": "Numbers and potential symbols in Khmer script."}
 {"language": "Unidentified", "text": "Hi, Hdigl, fe Charman chosegriffiacmu A ៧- ័- Higwиш Willha coefficienttı tic ែ- ៑- ៑- 敢 ᩔ ក ᧛ᠤ ល È haga ក ᧜᝼ លᠤ요 鈴Ṅ ភ Esther វᵒ Hock ᵉ elemental ក ភ starters ក ឝំម абсолют វ Ḹᄓ ᕖ refere ឬ uphold bens tulm វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental", "analysis": "Appears to be a nonsensical string of characters, possibly a result of keyboard mashing, encoding errors, or deliberate gibberish. Contains a mix of Latin, Cyrillic, Khmer, and other symbols without consistent linguistic structure. Isolated English-like words are present but embedded within the unintelligible text."}
+{"text": "Princ iani utet lo", "language_script": "Pseudo-Latin", "explanation": "Broken Latin-like phrase, possibly intended to sound classical but is mostly gibberish."}
+{"text": "Playstation 17", "language_script": "English", "explanation": "Reference to a gaming console; normal English text."}
+{"text": "Android 8.2", "language_script": "English", "explanation": "Reference to a mobile operating system version; normal English text."}
+{"text": "have it across the web", "language_script": "English", "explanation": "Coherent English phrase indicating availability online."}
+{"text": "ము మ protests చు ము డalanguard ముiam ఏట్చ్స్ంändern", "language_script": "Telugu + English + German", "explanation": "Mixed Telugu characters, English words ('protests', 'alanguard') and German word ('ändern' meaning 'to change'), suggesting heavy textual corruption."}
+{"text": "17ằx", "language_script": "Vietnamese + Latin", "explanation": "Mix of number, Vietnamese diacritic ('ằ') and Latin character 'x', indicating corrupted multilingual text."}
+{"text": "៑", "language_script": "Khmer", "explanation": "Khmer character used in Cambodia; isolated usage."}
+{"text": "gente", "language_script": "Spanish", "explanation": "Spanish word meaning 'people'; normal word inserted among symbols."}
+{"text": "ᵜ", "language_script": "Tifinagh (Berber)", "explanation": "Rare letter from Berber script; possibly inserted unintentionally."}
+{"text": "ᶃ", "language_script": "IPA (Phonetics)", "explanation": "International Phonetic Alphabet character; likely used incorrectly here."}
+{"text": "ក", "language_script": "Khmer", "explanation": "Khmer character (Cambodia); appears randomly."}
+{"text": ",,D ,,D ,,D ,,D", "language_script": "English Emoticons", "explanation": "Attempted representation of laughter or smiley faces, poorly encoded."}
+{"text": "ROM", "language_script": "English", "explanation": "Reference to 'Read-Only Memory' or generic tech acronym."}
+{"text": "buenas", "language_script": "Spanish", "explanation": "Spanish word meaning 'good'; normal insertion."}
+{"text": "inten", "language_script": "Spanish/English", "explanation": "Incomplete word likely intended to be 'intention' (English) or 'intención' (Spanish)."}
+{"text": "ᧈ", "language_script": "Tai Tham", "explanation": "Rare script from Northern Thailand/Laos/Myanmar; inserted without context."}
+{"text": "៘", "language_script": "Khmer Symbol", "explanation": "Khmer script symbol; repeated multiple times indicating possible formatting issue."}
+{"text": "hehe", "language_script": "Internet Slang (English)", "explanation": "Common internet expression for laughter."}
+{"text": "�", "language_script": "Unicode Error", "explanation": "Replacement character indicating unknown or corrupted Unicode data."}
