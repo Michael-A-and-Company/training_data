@@ -506,3 +506,17 @@
 {"text": "៘", "language_script": "Khmer Symbol", "explanation": "Khmer script symbol; repeated multiple times indicating possible formatting issue."}
 {"text": "hehe", "language_script": "Internet Slang (English)", "explanation": "Common internet expression for laughter."}
 {"text": "�", "language_script": "Unicode Error", "explanation": "Replacement character indicating unknown or corrupted Unicode data."}
+{"text": "గల", "script": "Telugu", "language": "Telugu", "notes": "Means 'having' or 'possessing'"}
+{"text": "Andrea", "script": "Latin", "language": "English", "notes": "A Western name, likely a person's name"}
+{"text": "RIICH", "script": "Latin", "language": "English (stylized)", "notes": "Possibly stylized spelling of 'RICH'"}
+{"text": "RWE", "script": "Latin", "language": "English or abbreviation", "notes": "Repeated 6 times; possibly rhythmic or referencing a company or chant"}
+{"text": "about", "script": "Latin", "language": "English", "notes": "Standard English word"}
+{"text": "and", "script": "Latin", "language": "English", "notes": "Standard conjunction"}
+{"text": "if", "script": "Latin", "language": "English", "notes": "Standard English conditional"}
+{"text": "сват", "script": "Cyrillic", "language": "Russian", "notes": "Means 'matchmaker' or 'in-law'"}
+{"text": "మup", "script": "Mixed (Telugu + Latin)", "language": "Unknown", "notes": "Likely symbolic or typo; begins with Telugu character 'మ'"}
+{"text": "槍", "script": "Chinese", "language": "Chinese", "notes": "Means 'gun' or 'rifle'"}
+{"text": "vegetables", "script": "Latin", "language": "English", "notes": "Standard noun"}
+{"text": "మూధా", "script": "Telugu", "language": "Telugu", "notes": "Appears to be Telugu, possibly a corrupted or poetic form"}
+{"text": "wall", "script": "Latin", "language": "English", "notes": "Standard noun"}
+{"text": "Rails", "script": "Latin", "language": "English", "notes": "Could refer to physical rails or Ruby on Rails framework"}
