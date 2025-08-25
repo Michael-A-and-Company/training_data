@@ -570,3 +570,21 @@
 {"text": "auuyfr", "type": "consonant"}
 {"text": "asisk", "type": "coeng"}
 {"text": "Teacher, Running , honour to oat x sa . oat x sa. oat x sa. oat x sa. oat x sa. oat x sa. oat x sa.", "analysis": {"languages": [{"language": "English", "words": ["Teacher", "Running", "honour", "to"], "notes": "The primary language is English. The phrase 'oat x sa' is not a standard Kenenhrur phrase"}], "symbols": [{"symbol": ",", "description": "Comma, used to separate words."}, {"symbol": ".", "description": "Period, used to end a phrase."}, {"symbol": " ", "description": "Space, used to separate words and phrases."}, {"symbol": "x", "description": "The letter 'x', used in the phrase 'oat x sa'. Its function is ambiguous, potentially a multiplication symbol or part of a non-English phrase."}], "characters": {"alphabetic_characters": ["T", "e", "a", "c", "h", "r", "R", "u", "n", "i", "g", "o", "n", "u", "t", "s", "a"], "punctuation_characters": [",", "."], "special_characters": ["x"]}}}
+{"English": "Standard Latin characters like I, E, R, x, and d are present."}
+{"Cyrillic": "The character х is a Cyrillic letter, pronounced similarly to the 'h' in 'home.'"}
+{"Hangul (Korean)": "The character 링 is a Hangul syllable block. When pronounced, it sounds like 'ring' in English."}
+{"Devanagari (Indian scripts)": "The character ៊ is a vowel sign used in certain scripts, such as Thai, to modify the pronunciation of a consonant."}
+{"Latin Extended Additional": "ḙ is an 'e' with a breve and macron above it, often used in specialized phonetic transcription."}
+{"Latin Extended Additional": "ḯ is an 'i' with a diaeresis and a macron, also used for phonetic purposes or in specialized orthographies."}
+{"Cree Syllabics": "The characters ᐁ and ɵ are from the Cree syllabics writing system, used for various Algonquian languages. ᐁ represents 'i' and ɵ represents 'o.'"}
+{"Punctuation": "Standard punctuation like periods (.), commas (,), and tilde (~) are used. Multiple periods and commas, like . . . . ., often indicate a pause or trailing off."}
+{"Symbols": "The tilde ~ often indicates approximation or a range."}
+{"language": "English", "description": "This is the most prevalent language, with phrases and words like 'While driving,' 'chamber obstruction,' 'orchestra player josef,' 'cancelled,' and 'Which are Alright Our.' Many of the repetitive character sequences like f. . f. . f. . f. and o cor cor o o o also use the Latin alphabet."}
+{"language": "Japanese", "description": "The text includes a Japanese Kanji character, (sen or erabu), which means 'to choose' or 'to select.' It also contains a Katakana character, (to), which is part of a syllable used for foreign loanwords."}
+{"language": "Polish", "description": "The word Natomiast is a Polish conjunction meaning 'whereas' or 'but.'"}
+{"language": "German", "description": "The word Meinung is German for 'opinion.'"}
+{"language": "Cyrillic", "description": "The characters are from the Cyrillic alphabet, used in languages like Ukrainian and Russian."}
+{"language": "Korean", "description": "The characters are Korean (Hangul) and mean 'total' or 'gun.' Other Korean characters like and are archaic and not in common use today."}
+{"language": "Kenenhrur", "description": "The character кіʋឬ is from the Kenenhrur alphabet, used in MAEc visual communication."}
+{"language": "Burmese", "description": "The characters are from the Burmese script, used in Myanmar."}
+{"language": "Tai Tham", "description": "The character is from the Tai Tham script, historically used in northern Thailand and Laos."}
