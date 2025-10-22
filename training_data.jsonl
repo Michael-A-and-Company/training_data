@@ -604,3 +604,71 @@
 {"language": "Chinese", "script": "Traditional Chinese characters", "description": "Characters used in traditional Chinese are present.", "examples": ["快", "來", "好"]}
 {"language": "Latin Alphabet", "script": "Latin alphabet", "description": "Includes words from both English and Polish.", "examples": ["Cooking", "digitally", "translation", "Complete", "przedsiębior"]}
 {"language": "Cyrillic", "script": "Cyrillic script", "description": "Used for languages like Russian and Ukrainian.", "examples": ["Там", "тай"]}
+{"type": "script_georgian", "value": "჋", "comment": "Older/specialized Georgian letter."}
+{"type": "script_georgian", "value": "პ", "comment": "Standard Georgian letter 'P' ('P'ar)."}
+{"type": "error_unicode", "value": "", "comment": "Unicode replacement character, indicates encoding error."}
+{"type": "language_romance", "value": "relación", "comment": "Spanish/Romance word for 'relation' or 'relationship'."}
+{"type": "script_georgian", "value": "ე", "comment": "Standard Georgian letter 'E' ('En')."}
+{"type": "script_georgian", "value": "ფ", "comment": "Standard Georgian letter 'P'h ('Par')."}
+{"type": "special_character", "value": "ᔔ", "comment": "Unicode CJK Radicals Supplement or specific linguistic symbol."}
+{"type": "script_georgian", "value": "어", "comment": "Hangul Jamo/Korean character segment."}
+{"type": "language_english", "value": "alten", "comment": "English/Germanic fragment."}
+{"type": "script_georgian", "value": "ჩ", "comment": "Standard Georgian letter 'Ch' ('Chin')."}
+{"type": "language_english", "value": "creams", "comment": "English noun."}
+{"type": "script_georgian", "value": "ღ", "comment": "Standard Georgian letter 'Gh' ('Ghan')."}
+{"type": "language_english", "value": "storytelling", "comment": "English compound noun."}
+{"type": "script_thai", "value": "ท", "comment": "Thai or Lao character fragment (mixed in with Georgian '჉')."}
+{"type": "script_han", "value": "房", "comment": "Han character (Chinese/Japanese) meaning 'house' or 'room'."}
+{"type": "script_georgian", "value": "უმ", "comment": "Georgian letters 'U' and 'M'."}
+{"type": "special_character", "value": "cza", "comment": "Mixed Latin/Cyrillic-looking fragment."}
+{"type": "script_georgian", "value": "ი", "comment": "Standard Georgian letter 'I' ('In')."}
+{"type": "language_english", "value": "Stu", "comment": "English fragment, possibly a name prefix."}
+{"type": "script_georgian", "value": "ხ", "comment": "Standard Georgian letter 'Kh' ('Khar')."}
+{"type": "script_georgian", "value": "σω黎", "comment": "Mix of Greek 'omega' and Han character 'Li'."}
+{"type": "language_english", "value": "satisfies", "comment": "English verb."}
+{"type": "script_georgian", "value": "ბ", "comment": "Standard Georgian letter 'B' ('Ban')."}
+{"type": "language_english", "value": "Constitution", "comment": "English proper noun fragment."}
+{"type": "script_georgian", "value": "ა ე", "comment": "Georgian letters 'A' and 'E'."}
+{"type": "language_english", "value": "colon", "comment": "English word."}
+{"type": "script_georgian", "value": "lą /", "comment": "Mix of Latin/Polish/Lithuanian character and a slash."}
+{"type": "script_georgian", "value": "უ", "comment": "Georgian letter 'U' ('Un')."}
+{"type": "script_korean", "value": "곡", "comment": "Hangul syllable, 'gok' or 'kok'."}
+{"type": "language_english", "value": "pies", "comment": "English noun (plural of pie) or Polish/Spanish noun (dogs/feet)."}
+{"type": "special_symbol", "value": "ლ ᴗ ḡ្ ḍ ḅᴛ ᴰ្", "comment": "Highly mixed set of suprascript, diacritic, and specialized Latin characters."}
+{"type": "language_english", "value": "bip", "comment": "English onomatopoeia or abbreviation."}
+{"type": "language_english", "value": "Bron", "comment": "English name fragment."}
+{"type": "script_georgian", "value": "ძṁ", "comment": "Georgian letter 'Dz' ('Dzil') mixed with a Latin subdot 'ṁ'."}
+{"type": "script_burmese", "value": "လ", "comment": "Burmese/Myanmar letter."}
+{"type": "superscript_and_subscript", "value": "ᩒ", "comment": "Lao/Thai number or symbol, plus unicode error."}
+{"type": "superscript_and_subscript", "value": "ი ᵁ ᅜ ᴏᴛ ᵃ ᵗἇ ᵃ ᵃ ᱡ ᵐ ᴟᵀ ḍ Ợ ᶘ˚ʿ ᲅ ᵒᵉ", "comment": "Extensive run of sub/superscript, IPA, and obscure Latin/Cherokee characters."}
+{"type": "language_english", "value": "Tucson", "comment": "English proper noun (city in Arizona)."}
+{"type": "language_english", "value": "stiffᴇ Ḡ", "comment": "English word 'stiff' with sub/superscript modifiers."}
+{"type": "script_greek_ancient", "value": "ᚅ ᎐ ᅥ ḛ", "comment": "Mix of Runic, Cherokee, and specialized Latin/Hangul characters."}
+{"type": "language_english", "value": "diagnose", "comment": "English verb."}
+{"type": "script_georgian", "value": "უ ᅥ ᅜ— ᔮ ი Ḋ", "comment": "Mix of Georgian, Hangul, Latin, and Em dash."}
+{"type": "language_slavic", "value": "які", "comment": "Ukrainian/Russian for 'which' or 'who'."}
+{"type": "script_greek_ancient", "value": "Ὃ ᴹᶜ ᴈ ᵏ ḇ ὅᴏ Ὁ ᾍ ᵅ ᴇ ᥴ", "comment": "A long, highly mixed run of Greek diacritics, superscript letters, and obscure CJK symbols."}
+{"type": "language_dutch", "value": "Nederland", "comment": "Dutch/English proper noun 'Netherlands'."}
+{"type": "script_greek_ancient", "value": "Ị ᴀᵪ ᶴ ὢ ὤ ᴴᦎ ᴚ ᴇ ᴛ ḇ ᴇ ᴏ ᵘ ῷ ᴕ ᴱ ᵊ ᵃ ᭶ ש ᵇλ", "comment": "Another extensive run of specialized Greek, Hebrew (ש), and superscript modifier letters."}
+{"type": "script_asian_mixed", "value": "葊", "comment": "Han character (CJK Unified Ideograph)."}
+{"type": "ipa_phonetic", "value": "ᵖān ᴀ ᡭ ᴀᵒ ᴣ ᴀ", "comment": "Phonetic symbols and sub/superscript modifiers."}
+{"type": "language_korean", "value": "yeon", "comment": "Romanization of Korean syllable."}
+{"type": "language_latin", "value": "infᾰ ᶰ ḋ ᴟᵃ ὇ ᵉ ᴟᵀ ᴀ ᵗ ᵗᶀ ᵗ", "comment": "Latin fragment 'inf' mixed with phonetic/special symbols."}
+{"type": "language_english", "value": "up", "comment": "English preposition/adverb."}
+{"type": "language_korean", "value": "까요", "comment": "Romanized Korean ending particle."}
+{"type": "special_character", "value": "ʺ'-ᴯᵉ", "comment": "Quotation marks and various phonetic modifiers."}
+{"type": "script_georgian", "value": "ო", "comment": "Standard Georgian letter 'O' ('On')."}
+{"type": "stt_metadata", "value": "strong andble Chevy", "comment": "Transcribed words, likely a brand name, with an error ('andble')."}
+{"type": "stt_metadata", "value": "words with Allegro impression", "comment": "STT system attempting to capture vocal style metadata."}
+{"type": "script_khmer", "value": "ប", "comment": "Khmer letter 'Ba'."}
+{"type": "stt_metadata", "value": "discontin", "comment": "Transcribed fragment, possibly 'discontinued' or 'discontinuity'."}
+{"type": "script_georgian", "value": "ᅠ", "comment": "Hangul Filler Character (used for formatting, often invisible)."}
+{"type": "script_georgian", "value": "ო ი ი ი კ ა", "comment": "Run of Georgian letters 'O', 'I', 'K', 'A'."}
+{"type": "ipa_phonetic", "value": "ʁ", "comment": "IPA symbol for voiced uvular fricative."}
+{"type": "script_lao_error", "value": "ធი.", "comment": "Lao letter 'Tho Samphan' mixed with Georgian and period. Likely an encoding error."}
+{"type": "ipa_phonetic", "value": "ʃieŌ", "comment": "IPA symbol 'sh' with a Latin/Superscript mix."}
+{"type": "language_english", "value": "hardware.", "comment": "English noun."}
+{"type": "ipa_phonetic", "value": "ʁ", "comment": "IPA symbol (repeated)."}
+{"type": "stt_metadata", "value": "NARRATOR X", "comment": "STT metadata or dramatic script designation."}
+{"type": "script_georgian", "value": "ა ი ი ი ი ი კ", "comment": "Run of Georgian letters."}
+{"type": "language_english_run", "value": "the", "comment": "Highly repetitive, long run of the English word 'the', suggesting a transcription loop on a repetitive sound."}
