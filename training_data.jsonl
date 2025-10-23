@@ -1,4 +1,4 @@
-{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
+u{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
 { "LetterType": "Latin", "Case": "Small", "Character": "C", "Description": "Superscript Latin small letter C", "Symbol": "ᶜ" }
 { "LetterType": "Greek", "Case": "Small", "Character": "Epsilon", "Description": "Epsilon with a rough breathing mark and grave accent", "Symbol": "ἒ" }
 { "Topic": "International Phonetic Alphabet (IPA)", "Description": "An alphabetic system of phonetic notation developed in the 19th century by British and French language teachers and linguists. Its purpose is to accurately represent the sounds of spoken language", "Usage": "Widely used among linguists, phoneticians, and language teachers", "Example": { "EnglishWord": "ship", "IPARepresentation": "/ʃɪp/", "SoundMeaning": { "/ʃ/": "sh sound", "/ɪ/": "short i sound", "/p/": "p sound" } } }
@@ -672,3 +672,693 @@
 {"type": "stt_metadata", "value": "NARRATOR X", "comment": "STT metadata or dramatic script designation."}
 {"type": "script_georgian", "value": "ა ი ი ი ი ი კ", "comment": "Run of Georgian letters."}
 {"type": "language_english_run", "value": "the", "comment": "Highly repetitive, long run of the English word 'the', suggesting a transcription loop on a repetitive sound."}
+{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
+{ "LetterType": "Latin", "Case": "Small", "Character": "C", "Description": "Superscript Latin small letter C", "Symbol": "ᶜ" }
+{ "LetterType": "Greek", "Case": "Small", "Character": "Epsilon", "Description": "Epsilon with a rough breathing mark and grave accent", "Symbol": "ἒ" }
+{ "Topic": "International Phonetic Alphabet (IPA)", "Description": "An alphabetic system of phonetic notation developed in the 19th century by British and French language teachers and linguists. Its purpose is to accurately represent the sounds of spoken language", "Usage": "Widely used among linguists, phoneticians, and language teachers", "Example": { "EnglishWord": "ship", "IPARepresentation": "/ʃɪp/", "SoundMeaning": { "/ʃ/": "sh sound", "/ɪ/": "short i sound", "/p/": "p sound" } } }
+{ "Term": "Readiness", "Language": "English", "Meaning": "The state of being fully prepared or willing" }
+{ "Characters": ["Ꭶ", "᎘", "᎒", "ᎌ"], "Source": "Cherokee syllabary", "Usage": "Used to write the Cherokee language", "Note": "The sequence doesn't form a known Cherokee word or phrase" }
+{ "Character": "現在", "Language": "Chinese", "Meaning": ["now", "currently"] }
+{ "Language": "Georgian", "Type": "Letters", "Content": ["ლ", "ვ", "ფ", "ზ", "მ", "ე", "ს", "თ", "ა", "რ", "ი"], "Note": "Do not form a known Georgian word or phrase in their current sequence" }
+{ "Language": "English", "Type": "Words", "Content": ["Counter", "Emp", "because", "bounty", "rented", "from", "comprehension", "illustrates"] }
+{ "Type": "RandomCombinations", "Content": ["Aᴍრთ", "człဠრᆘ", "iderman", "Ferguson", "fromestersლ", "занимმრთ", "Ha7ე", "minist"] }
+{ "Language": "Korean", "Type": "HangulCharacters", "Content": ["ᆑᅑთ", "ᆑ", "᎒ ᎒ ᆑỹ"], "Note": "Do not form a known Korean word or phrase" }
+{ "Word": "kho", "Note": "Could be a word in several languages, including Vietnamese and Italian, but its meaning would depend on context" }
+{ "Type": "CurrencySymbol", "Content": "円", "Note": "The symbol for the Japanese Yen" }
+{ "Possibly": "Dish", "Content": "Rajāma", "Note": "Could be referring to the Indian dish Rajma, made with red kidney beans" }
+{ "Language": "Polish", "Type": "Word", "Content": "różnych", "Meaning": "Various or different" }
+{ "Type": "UnrecognizedCharacters", "Content": ["ᗢ", "ᗗ"] }
+{ "Language": "Norwegian", "Word": "Skil", "Meaning": "Distinguishes", "Note": "Can also be a brand of tools in English" }
+{ "Language": "English", "Term": "Paranormal", "Meaning": "Referring to things that cannot be explained by scientific laws" }
+{ "Abbreviation": "Kr", "Context": "Currency", "Meaning": "Swedish or Danish Krona" }
+{ "Name": "Metroid", "Type": "Video Game", "Producer": "Nintendo" }
+{ "Language": "English", "Word": "Ements", "Note": "Might be a typo or part of a word, but as it stands, it doesn't have a meaning" }
+{ "Word": "Physiologicalouses", "Note": "Seems to be a typo, and it's difficult to guess what the intended word was" }
+{ "Language": "English", "Words": ["Cool", "providing"], "Note": "They don't form a coherent phrase in this context" }
+{ "Animal": "Chipmunks", "Description": "Small, striped rodents native to North America" }
+{ "Language": "Korean", "Characters": "ᅰ ᅰ ᅰ ᅰ ᅰ ᅰ", "Note": "These are Hangul characters, but they don't form a meaningful phrase" }
+{ "Sequence": "[ nsinn II ]", "Note": "Doesn't seem to correspond to any specific language or notation. It could potentially be a code or shorthand for something in a specific context" }
+{"symbol": "Ḓ", "description": "This is a Latin Letter D with circumflex below."}
+{"symbol": "ᴜ", "description": "This is a small capital letter u, often used in phonetics."}
+{"symbol": "е", "description": "This is a Cyrillic script small letter Ye."}
+{"symbol": "ᶭ", "description": "This is a modifier letter small turned M."}
+{"symbol": "ḭ", "description": "This is a Latin small letter i with circumflex below."}
+{"symbol": "ᶇ", "description": "This is a modifier letter small turned A, used in phonetics."}
+{"symbol": "ᴀ", "description": "This is a small capital letter A, often used in phonetics."}
+{"symbol": "ᵍ", "description": "Represents the superscript of the Latin letter g."}
+{"symbol": "ᵇ", "description": "Represents the superscript of the Latin letter b."}
+{"symbol": "Ḇ", "description": "This is a Latin Letter B with a dot above."}
+{"symbol": "ᴄ", "description": "This is a small capital letter C, often used in phonetics."}
+{"symbol": "ᳺ", "description": "This is a Javanese Pangrangkep, a closing punctuation mark in the Javanese script."}
+{"symbol": "ᶏ", "description": "This is a modifier letter small beta, used in phonetics."}
+{"symbol": "王", "description": "This is a Chinese character, which means 'king' in English."}
+{"symbol": "ᴓ", "description": "This is a small capital barred o, often used in phonetics."}
+{"symbol": "ʕ", "description": "This is a phonetic symbol for a voiced pharyngeal fricative, often represented as /ʕ/ in phonetic transcription."}
+{"symbol": "៙", "description": "This is a Khmer symbol Barih Keset, a symbol with no phonetic value, used in the Khmer script for religious or Sanskrit text."}
+{"name": "George J. Kayla", "description": "These appear to be names in English."}
+{"word": "вы", "description": "This is Russian or Ukrainian for 'you.'"}
+{"phrase": "can see how about him why we're necessary for the", "description": "This is an English phrase, although it seems to be part of a larger sentence or context."}
+{"text": "ලපප කළ,ප නැක,ලතල් කරිඩා,ව ලතිනය, iron හැමු ඉතය හගනය ැඩය", "description": "These are words in Sinhalese, but they seem to be somewhat disjointed and lack clear context."}
+{"text": "ජල අය,පි Previously 4 їхවය වගන් ඔරිව, පඳනය ගළඩා, ඉතය", "description": "This is a mix of Sinhalese and English words, and it also includes the Ukrainian word 'їх.'"}
+{"text": "එය දකේ කප පරෛනක, යොට අය පධව අඩා ඔයදා", "description": "More Sinhalese words, again somewhat disjointed."}
+{"word": "applied", "description": "An English word."}
+{"text": "Ḁ 않은 ᶕ ᴄ?", "description": "The first character is a letter from the Latin script, often used in Vietnamese. The other characters appear to be Korean ('않은' means 'not') and International Phonetic Alphabet symbols."}
+{"symbol": "ᴀ?", "description": "This is a character from the Latin script, often used in Vietnamese."}
+{"text": "अग्यो", "description": "Hindi: 'अग्यो' means 'Next' in English."}
+{"text": "යí ළස එපා ඝීර්ල්", "description": "Sinhalese: 'යí ළස එපා ඝීර්ල්' appears to be a mixture of Sinhalese characters and English words. The transliteration of the Sinhalese part is 'yaí Lasa eṕā ghīrl'. However, it doesn't form a meaningful phrase in Sinhalese in this order."}
+{"text": "ស្", "description": "Khmer: The repeated 'ស្' character doesn't form a meaningful word or phrase in Khmer."}
+{"text": "ගටන් අපුත් දුදු", "description": "Sinhalese: 'ගටන් අපුත් දුදු' roughly translates to 'Counting is simple' in English."}
+{"word": "Galile", "description": "could be a misspelling of Galilei, as in Galileo Galilei, the Italian astronomer."}
+{"word": "Vikt", "description": "could be short for 'vikt', which is Swedish for 'weight'."}
+{"word": "BRÁ", "description": "could be an acronym, but without context it's hard to decipher."}
+{"word": "schlim", "description": "might be German for 'bad' or 'worse'."}
+{"word": "choreography", "description": "is an English term, referring to the sequence of steps and movements in dance or figure skating, among other forms."}
+{"word": "tremendous", "description": "is an English word meaning very great in amount, scale, or intensity."}
+{"word": "tactics", "description": "is an English term referring to an action or strategy carefully planned to achieve a specific end."}
+{"word": "ад", "description": "in Russian is 'Hell'."}
+{"word": "那", "description": "in Chinese means 'That'."}
+{"words": ["Dracula", "Batman", "Hi", "Golfing"], "description": "are already in English."}
+{"phrase": "Anyway, that was fun", "explanation": "This is a standard English phrase expressing enjoyment of a past event."}
+{"phrase": "God", "explanation": "This word appears in English and suggests a reference to a deity."}
+{"phrase": "Friend", "explanation": "An English word indicating a close relationship."}
+{"phrase": "Ok", "explanation": "A common English expression of agreement or acceptance."}
+{"phrase": "Labeladan", "explanation": "This appears to be a proper noun, possibly a name or place. However, the sources do not offer any information about its meaning."}
+{"phrase": "ខ៍", "explanation": "This is a single Khmer character. The sources do not provide a translation for this specific character."}
+{"phrase": "mayor", "explanation": "An English word denoting the elected leader of a city or town."}
+{"phrase": "reasonable", "explanation": "An English word implying logic or fairness."}
+{"phrase": "and it is", "explanation": "A phrase suggesting agreement or affirmation."}
+{"phrase": "Kapı", "explanation": "This is Turkish for 'door.'"}
+{"phrase": "រ៍", "explanation": "Typically used to represent the sound 'roh' but it doesn't form a word by itself."}
+{"phrase": "្ŋ", "explanation": "The character 'ŋ' does not exist in the Khmer script, so this combination doesn't form a recognizable Khmer character."}
+{"phrase": "បៈ", "explanation": "Typically used to represent the sound 'puh' but it doesn't form a word."}
+{"phrase": "ផ៊យ", "explanation": "This combination of characters doesn't form a standard Khmer word."}
+{"phrase": "ឝ់", "explanation": "This character doesn't form a standard Khmer word."}
+{"phrase": "ង៍", "explanation": "Typically used to represent the sound 'ngoh' but it doesn't form a word."}
+{"phrase": "ឍ៝", "explanation": "This combination of characters doesn't form a standard Khmer word."}
+{"phrase": "ោ", "explanation": "This is the independent vowel 'ô'."}
+{"phrase": "Khmer consonants.ប", "explanation": "'b' or 'p' in Khmer script."}
+{"phrase": "ហ", "explanation": "'h' in Khmer script."}
+{"phrase": "វ", "explanation": "'v' in Khmer script."}
+{"phrase": "ន", "explanation": "'n' in Khmer script."}
+{"phrase": "ឡ", "explanation": "'l' in Khmer script."}
+{"phrase": "002", "explanation": "The international call prefix for Egypt."}
+{"phrase": "007", "explanation": "The international call prefix for Russia."}
+{"phrase": "0", "explanation": "Can represent potential or infinity."}
+{"phrase": "5", "explanation": "Might be associated with freedom and adventure."}
+{"phrase": "7", "explanation": "Often linked to spirituality or wisdom."}
+{"phrase": "2", "explanation": "Could signify balance or partnership."}
+{"phrase": "500 years", "explanation": "Often used to denote the passing of significant eras or historical periods, reflecting the concept of change across generations."}
+{"phrase": "500 in Buddhism", "explanation": "Symbolizes a large and infinite number."}
+{"phrase": ".500 record", "explanation": "In professional sports, a .500 record (winning as many games as you lose) is seen as a minimum benchmark for success."}
+{"phrase": "500", "explanation": "Represented as 'D' in Roman numerals."}
+{"phrase": "500 midpoint", "explanation": "Marks the midpoint of the first 1000 numbers (1 to 1000), making it a pivotal number in numerical ranges."}
+{"phrase": "500 factors", "explanation": "500 is an even and composite number, with factors including 1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, and 500."}
+{"phrase": "7 items", "explanation": "People can retain roughly seven items in their working memory."}
+{"phrase": "pH 7", "explanation": "In chemistry, a pH value of 7 represents neutrality in an aqueous solution."}
+{"phrase": "7 colors", "explanation": "A rainbow has 7 colors."}
+{"phrase": "7 prime number", "explanation": "7 is a prime number, only divisible by 1 and itself. It's the fourth prime number, following 2, 3, and 5."}
+{"phrase": "Bengali: 'এনসার র র র'", "explanation": "This is a Bengali script phrase that does not form a standard word."}
+{"phrase": "Russian (Possibly): 'ользΙ O'", "explanation": "This appears to contain some Cyrillic and possibly random characters, but no clear translation was found."}
+{"phrase": "Sinhalese: 'ශ්ව ගවහැඑ්අවව Answer නොනෙශනැයිකඔ අපි බෑලියක තා ඕජතාන් රතාන ලැතාන් 7මු මොකීරමට වොනග් දවන්තාන අක්'", "explanation": "Contains both Sinhalese script and English words such as 'Answer'. 'අපි' translates to 'We' in English."}
+{"phrase": "Greek: 'ᶴᶜἕ, ᶰᶻἯἮᶠᶏ ᶆᶠΎ ᶠἮɌ'", "explanation": "A mixture of Greek letters and special characters with no recognizable word or meaning."}
+{"phrase": "Khmer: 'សៜ្ៜ្ សៜ្្្ សៜ្្្្ សៜ្្្្្ សៜ្្្្្្ សៜ្្្្្្្្, ទ ទ ទ កទ ក ទ ទ ទ ក ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ក ទ ទ ទ ᦰទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ ទ, ឣᚠទ ឦោ, ក ˍៈ ក ោ ។ ៀ'", "explanation": "A long string of Khmer script with no discernible meaning or standard word."}
+{"phrase": "Thai: 'เปᵖỮ ꒪ᶽᵗᵕᵚ'", "explanation": "A combination of Thai script and special characters without a recognizable word or meaning."}
+{"phrase": "Bengali: 'এনসার'", "explanation": "In Bengali, 'এনসার' translates to 'Answer' in English."}
+{"phrase": "Sinhalese: 'අපි'", "explanation": "In Sinhalese, 'අපි' translates to 'We' in English."}
+{"phrase": "Greek: 'Ύ'", "explanation": "'Ύ' is the capital letter 'Upsilon' in Greek."}
+{"phrase": "'Ḣ'", "explanation": "A Latin letter H with a line below, used in linguistic studies."}
+{"phrase": "'я'", "explanation": "A Cyrillic small letter 'Ya', used in many Slavic languages, including Russian and Bulgarian."}
+{"phrase": "'Ἁ' and 'Ἆ'", "explanation": "Greek letters Alpha and Epsilon with a rough breathing mark, used in ancient and biblical Greek."}
+{"phrase": "'ο'", "explanation": "A Greek small letter Omicron."}
+{"phrase": "'ш'", "explanation": "A Cyrillic small letter Sha, used in various Slavic and Turkic languages."}
+{"phrase": "'ʔ'", "explanation": "A Latin letter glottal stop, used in phonetic transcriptions."}
+{"phrase": "'៕'", "explanation": "Khmer punctuation Danda, used to mark the end of a sentence."}
+{"phrase": "'ង'", "explanation": "The Khmer letter Ngo, used in the Khmer language."}
+{"phrase": "'ö'", "explanation": "A Latin small letter O with diaeresis, used in languages like German and Turkish."}
+{"phrase": "'ᴔ'", "explanation": "A Latin letter small capital OE, used in phonetics and linguistics."}
+{"phrase": "'σ'", "explanation": "The lowercase Greek letter Sigma, often used in mathematics to denote summation."}
+{"phrase": "'φ'", "explanation": "The lowercase Greek letter Phi, used in mathematics to represent Euler's totient function or the golden ratio."}
+{"phrase": "'θ'", "explanation": "The lowercase Greek letter Theta, commonly used in trigonometry."}
+{"phrase": "∝", "explanation": "This symbol is used to represent proportionality in mathematics."}
+{"phrase": "្", "explanation": "In the Khmer numeral system, this symbol is used as a decimal point."}
+{"phrase": "Cho", "explanation": "A common surname in Korean and also a word in various languages. In Japanese, it can mean 'super' or 'ultra'."}
+{"phrase": "chociaż", "explanation": "A Polish word meaning 'although' or 'even though'."}
+{"phrase": "mouvement", "explanation": "French for 'movement'."}
+{"phrase": "estoy", "explanation": "Spanish for 'I am'."}
+{"phrase": "Comics好", "explanation": "A mix of English and Chinese. 'Comics' is English, and '好' means 'good' in Chinese."}
+{"phrase": "Angular", "explanation": "Could refer to the open-source web application framework developed by Google."}
+{"phrase": "parsley", "explanation": "A type of herb used in cooking."}
+{"phrase": "Thank you for watching!", "explanation": "A common phrase used at the end of videos or presentations."}
+{"phrase": "ᴬ", "explanation": "A phonetic character from the International Phonetic Alphabet (IPA), used to standardize the representation of sounds."}
+{"phrase": "ᴏ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ᴕ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ᴟ", "explanation": "A phonetic character from the IPA."}
+{"phrase": "ව", "explanation": "A character from the Sinhalese alphabet, used to write the Sinhala language."}
+{"phrase": "ස", "explanation": "A character from the Sinhalese alphabet."}
+{"phrase": "fishy", "explanation": "An English word meaning something suspicious."}
+{"phrase": "wall", "explanation": "An English word referring to a vertical structure used to divide or enclose an area."}
+{"phrase": "orchestra", "explanation": "An English word for a large instrumental ensemble typical of classical music."}
+{"phrase": "ʕ", "explanation": "A character from the IPA representing a voiced pharyngeal fricative."}
+{"phrase": "ʔ", "explanation": "A character from the IPA representing a voiceless pharyngeal fricative."}
+{"phrase": "Multilingual", "explanation": "The text contains elements from several different languages."}
+{"phrase": "Symbols", "explanation": "Special characters and Unicode symbols are used."}
+{"phrase": "Unstructured", "explanation": "The text does not appear to follow any specific grammatical structure."}
+{"phrase": "Encrypted or Coded", "explanation": "The random mix might suggest a code or encryption of some sort."}
+{"phrase": "Nonsensical", "explanation": "The text as a whole does not make sense, suggesting it might be randomly generated."}
+{"phrase": "Non-Latin Scripts", "explanation": "Includes Georgian, Khmer, Greek, and Chinese scripts."}
+{"phrase": "Georgian Script", "explanation": "The characters 'ლლლ ლალ ლალ' are from the Georgian script, used for the Georgian language."}
+{"phrase": "Khmer Script", "explanation": "The characters '២ ២ ២ ២ ( ᐢ ២ ២ ២ ២ ) ២, ២' and others are from the Khmer script, used for the Cambodian language."}
+{"phrase": "Greek Script", "explanation": "The characters '( ο Pig Lieutenant ) ὡ' are from the Greek script, used for the Greek language."}
+{"phrase": "Arabic Script", "explanation": "The character 'أ' is from the Arabic script, used for the Arabic language."}
+{"phrase": "Chinese Script", "explanation": "The character '麃' is from the Chinese script, used for the Chinese language."}
+{"phrase": "Unicode Symbols", "explanation": "Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The symbols like '<', ')', '.', and others are from the Unicode standard. Some of them, like '🠇', are emojis."}
+{"phrase": "Specialized Unicode Characters", "explanation": "Unicode also includes a range of specialized characters and symbols. Your text includes various such symbols like '', 'ᱎ', '៛', etc."}
+{"phrase": "ка", "explanation": "A Russian word, which is a colloquial form of 'what'."}
+{"phrase": "ゴ", "explanation": "A type of Japanese character (Katakana) used to write foreign words, it is pronounced as 'go'."}
+{"phrase": "ʕ", "explanation": "An Arabic character used to represent phonetic sounds in Arabic and other Semitic languages, but it doesn't have a meaning on its own."}
+{"phrase": "ʔ", "explanation": "An Arabic character used to represent phonetic sounds in Arabic and other Semitic languages, but it doesn't have a meaning on its own."}
+{"phrase": "ě", "explanation": "A diacritic used in languages like Czech to indicate pronunciation."}
+{"phrase": "Ā", "explanation": "A diacritic used in languages like Vietnamese to indicate pronunciation."}
+{"phrase": "nhaarei", "explanation": "It's not clear what language this is in, or if it's a typo or a made-up word."}
+{"phrase": "su ven", "explanation": "This could be Italian and it means 'his or her vein'. But without context, it's hard to tell."}
+{"phrase": "Emthing", "explanation": "This appears to be a typo or a made-up word. It's not identifiable as a word in any particular language."}
+{"phrase": "ᴅ", "explanation": "This is a letter from the International Phonetic Alphabet (IPA) used to represent a sound."}
+{"phrase": "ᵀ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "ᶦ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "ᵃ", "explanation": "This is a letter from the IPA used to represent a sound."}
+{"phrase": "Ὀ", "explanation": "This is an uppercase Greek letter, Omicron."}
+{"phrase": "Dracula", "explanation": "This is an English term referring to the fictional character from Bram Stoker's 1897 novel, often associated with vampires."}
+{"phrase": "Batman", "explanation": "This is an English term referring to the superhero character in DC Comics, known for fighting crime in Gotham City."}
+{"phrase": "Hi", "explanation": "This is a common English greeting."}
+{"phrase": "Golfing", "explanation": "This is an English word referring to the activity or sport of playing golf."}
+{"phrase": "Arduino", "explanation": "Arduino is a popular platform used for building digital devices and interactive objects that can sense and control objects in the physical world. Arduino boards can read inputs (e.g., light on a sensor, a finger on a button, or a Twitter message) and turn it into outputs (e.g., activating a motor, turning on an LED, or publishing something online)."}
+{"phrase": "Sinhalese and Khmer phrases", "explanation": "These seem to be random characters, and no direct translations were found."}
+{"phrase": "සතණියල් ලේට් introduzersටි කරයවිතියයිත movements ගේට පිතිලකක Sis අපිද් අද් ඔබහ්ද minute", "explanation": "This seems to be a mix of Sinhala and English, with many of the words not forming a coherent sentence in either language."}
+{"phrase": "Ḁᵏᶅ per ḁ ᵑᶜḒ ᴜᶉ ᶜᶉ е ᶭ ḭᶇᶀ ᴀᵍ ᵇ Ḇ ᴄᶜ ᳺᶏᶜ王 ᴓ", "explanation": "These appear to be individual Unicode symbols."}
+{"phrase": "ʕ៙।", "explanation": "This symbol seems to be from the Khmer or Thai script, but it is not recognized as a word or sentence in that language."}
+{"phrase": "Ḁ", "explanation": "This is a Latin letter A with a ring above."}
+{"phrase": "ᵏ", "explanation": "Represents the superscript of the Latin letter K."}
+{"phrase": "ᶅ", "explanation": "This is a modifier letter small lambda, used in phonetics."}
+{"phrase": "ḁ", "explanation": "This is a Latin letter a with a ring above."}
+{"phrase": "ᵑ", "explanation": "Represents the superscript of the Latin letter n, used in phonetics."}
+{"phrase": "ᶜ", "explanation": "Represents a superscript Latin small letter c, often used in scientific notation."}
+"term": "ASCII Art", "definition": "This refers to artworks created by utilizing the characters of the American Standard Code for Information Interchange (ASCII). It's a creative way of generating images and designs, typically used in digital forums or platforms where actual image embedding might not be possible."}
+{"character": "Ụ", "script": "Igbo", "description": "This symbol is derived from the Igbo alphabet, used in the writing of the Igbo language, spoken in Nigeria. The character 'Ụ' represents a vowel sound, specifically a closed back rounded vowel (like the 'u' in 'rude'). It is often marked with a dot underneath to distinguish it from a regular 'U'."}
+{"character": "ឍ្្្...", "script": "Khmer", "description": "These characters are part of the Khmer script, which is used to write the Khmer language in Cambodia. The repetitive 'ឍ' with combining characters (such as '្') doesn’t form any coherent words in Khmer and may be stylistic or experimental in this context. It could signify attempts at visual emphasis or random repetitions of symbols for effect."}
+{"text": "Scaffey Charles SIMP...", "script": "Latin", "description": "This sequence switches to Latin script with English words. 'Scaffey Charles SIMP' seems to suggest a name and the use of 'SIMP,' which in internet slang refers to someone who is overly attentive to someone else (often in a romantic or servile way). It could be referencing a character, but it's also mixed with other unrelated symbols."}
+{"character_sequence": "ლ'ლ 'ლ'...", "script": "Georgian", "description": "The character 'ლ' is from the Georgian alphabet, where it represents the sound /l/ (like the English 'L'). This sequence of Georgian letters and symbols seems to be stylistic rather than semantically meaningful, perhaps evoking rhythmic or poetic sounds."}
+{"characters": ["𝃚", "𝃛"], "script": "Mathematical Bold Script", "description": "These are Mathematical Bold Script characters from the Unicode block, used typically in scientific or technical texts. They don't form recognizable words here but seem to be incorporated as stylistic or abstract symbols."}
+{"text": "ᴍᴅᴀᴅ ᴇᴅᴆ...", "script": "Latin (Small Capitals)", "description": "This sequence uses small capitals from the Latin script, which are often used for emphasis or stylistic purposes in modern typography. These letters might not form meaningful words but seem to serve as part of the overall visual design of the text."}
+{"character_sequence": "විි, පෘවීමි...", "script": "Sinhala", "description": "These characters are from the Sinhala script, used to write the Sinhala language in Sri Lanka. Although the words here seem random (e.g., 'විි' means 'energy' or 'strength,' while 'පෘවීමි' is not a recognized word in Sinhala), the use of the script adds another layer of linguistic diversity to the text."}
+{"time_markers": ["[0.30]", "[0.30]", "[0.30]"], "description": "These appear to represent time markers or numerical references, commonly seen in transcriptions of audio or video media. In this context, it might suggest timing or pace within a performance or structured section."}
+{"section": "Introduction", "text": "Matter of fact 2"}
+{"section": "Khmer Script", "text": "ឍ ឋ ឍ ឍ", "description": "Use of Khmer characters for emphasis or symbolism, though not forming recognizable words."}
+{"section": "Sinhala Script", "text": "collaborating with ා්සි වළදරීවක ජල, වෙමල්නේ් යුවක එතු.", "description": "Fragment in Sinhala discussing collaboration, 'ජල' means 'water,' other words are abstract."}
+{"section": "Sinhala Script", "text": "ඛ වේ නාර දර හැකු දිරයික.", "description": "Additional abstract Sinhala text without recognizable meaning."}
+{"section": "Sinhala and English Mix", "text": "ඛවාර ඕැරීවක් ඛහ pre වීයිමාour සහractionැල කරීයය.", "description": "Sinhala mixed with English words, forming abstract or non-standard text."}
+{"section": "Mixed Latin and Special Characters", "text": "iyiṸ ʾikṯɣ, propaganda ᔢdling ᐛiṸ", "description": "Mixture of Latin script, Inuit syllabics, and special characters forming fragmented phrases."}
+{"section": "Chinese Characters", "text": "行 Maj石", "description": "Inclusion of Chinese characters '行' (movement) and '石' (stone), adding symbolic complexity."}
+{"section": "Mixed Scripts", "text": "ᤂ ʾijit უid ᴇj nawet ᴇ 건데 Ḏ alle", "description": "Combination of characters from multiple languages including Georgian, Korean, and Arabic-like diacritics."}
+{"section": "Abstract Symbols", "text": "parch cān distorted ᧄ᳔ ᴤy ḝᶦ ᱗j ᾡ weac抱 ᴊ", "description": "Mixture of distorted characters, abstract symbols, and the Chinese character '抱' (embrace)."}
+{"section": "Repeating Pattern", "text": "CT ( Ṭīṁ ʀ pars )", "description": "Repeated phrases, creating a rhythmic structure and suggesting emphasis or repetition."}
+{"section": "Variations of Repetition", "text": "( Ṭīṁ ʀ pars ) ( Ṭīṁ ʀ reactors )", "description": "Further variations of the repeating pattern, adding structure to the text."}
+{"number": 86, "even": true, "digits": [8, 6], "position": {"previous": 85, "next": 87}, "prime_factors": [2, 43], "composite": true, "roman_numeral": "LXXXVI"}
+{"term": "86", "definition": "indicates an item is out of stock or a person is no longer welcome", "origin": "American English, restaurant industry", "usage": "various contexts"}
+{"scientific_significance": {"atomic_number": 86, "element": "Radon", "category": "radioactive noble gas"}}
+{"astronomy": {"fact": "An 86-year orbit of a planet around a star matches the human lifespan"}}
+{"sports": {"context": "American football", "positions": ["wide receiver", "tight end"], "number": 86}}
+{"section": "Greek Letters", "details": "ἄ (alpha with tonal mark) and ἀ (alpha with rough breathing mark) are Greek letters used in Classical Greek, indicating pronunciation nuances."}
+{"section": "Superscript and Subscript Characters", "details": "ᵒ (o), ᵉ (e), ᴅ (d), ᵃ (a), ᵄ (a) are superscript/subscript characters from Unicode, often used in scientific, mathematical, or phonetic contexts, giving the text a 'scientific' or 'archaic' feel."}
+{"section": "Latin Characters", "details": "ᵃ (superscript 'a') and ᶃ (superscript 'c') are Latin superscript letters. 'Arma' is Latin for 'arms' or 'weapons', commonly associated with classical texts like Virgil's Aeneid."}
+{"section": "Repeating 'ᶜ'", "details": "ᶜ is the superscript form of 'c'. The repetition of ᶜ (five times) emphasizes the letter 'c', potentially serving an aesthetic or rhythmic purpose in the text."}
+{"section": "Interpretation - Eclectic Mix", "details": "The text blends Greek (classical influence), Latin (historical significance), and superscript characters (symbolic/phonetic), creating a layered, possibly esoteric meaning."}
+{"section": "Interpretation - Symbolic or Phonetic Significance", "details": "Superscript characters may symbolize abstract or phonetic meanings, possibly representing sounds or linguistic features, adding depth or mystery."}
+{"section": "Interpretation - Visual Aesthetic", "details": "The mix of characters creates a visually complex and cryptic appearance, invoking a sense of ancient, stylized, or esoteric writing."}
+{"section": "Classical Influence", "details": "'Arma' connects the text to classical themes, such as warfare and heroism, common in ancient literature and famously used in Virgil's Aeneid."}
+{"text": "Så", "script": "Latin", "language": "Swedish", "description": "The character 'å' is common in Swedish and Norwegian, representing a vowel sound similar to 'o' in 'more.' 'Så' means 'so' or 'thus' in Swedish."}
+{"text": "Бы", "script": "Cyrillic", "language": "Russian", "description": "'Бы' is used in Russian for conditional constructions, translating to 'would' in English."}
+{"text": "Så Бы", "script": "Latin and Cyrillic", "language": "Mixed", "description": "This phrase blends Scandinavian and Slavic linguistic elements. It is likely stylistic, combining Latin and Cyrillic scripts for visual or symbolic effect, rather than forming a recognized word."}
+{"character": "ᗅ, ᗳ, ᗻ", "description": "These characters are from the Tifinagh alphabet, used by the Berber people in North Africa. However, they seem to be used here in an abstract or decorative manner rather than for forming meaningful words."}
+{"character": "ὴ", "description": "This is from the Greek alphabet, where it represents a lowercase eta with a grave accent, commonly used in classical or ancient Greek texts."}
+{"character": "Ť", "description": "A Latin letter with a caron, used in some Slavic languages like Czech and Slovak."}
+{"character": "ዢ", "description": "A character from the Ge'ez script, used in Ethiopia for the Amharic and Tigrinya languages, among others."}
+{"character": "י, ט", "description": "These are Hebrew characters, where י (yod) and ט (tet) are used to form words in the Hebrew language."}
+{"character": "зов, олов, иш", "description": "These are Cyrillic letters (used in languages like Russian and Ukrainian) and appear to form partial or meaningful words, such as 'зов' (call, appeal) and 'иш' (partial form of 'search' in some Slavic languages)."}
+{"character": "ლ", "description": "This is a character from the Georgian alphabet, representing the sound /l/. It appears repeatedly, perhaps to create a rhythmic or visual effect."}
+{"character": "ᐜ", "description": "This character is from the Canadian Aboriginal syllabics, used to write languages like Cree and Inuktitut."}
+{"character": "Ⴀლ", "description": "More Georgian characters."}
+{"character": "ბᆍა", "description": "Georgian characters forming part of a word that does not seem to have clear meaning in the Georgian language but could be stylistic."}
+{"character": "ვᆕ", "description": "Combines Georgian and a character from Hangul, the Korean alphabet, indicating a mix of writing systems."}
+{"character": "វ", "description": "A character from the Khmer script, used in Cambodia."}
+{"character": "ᅀ", "description": "From Hangul, the Korean script."}
+{"character": "ჽახხ ლცთალნი", "description": "Georgian letters, forming a seemingly non-meaningful phrase, but it might be phonetic or abstract."}
+{"character": "aw", "description": "Uses the Latin alphabet with phonetic symbols (w being a superscript w)."}
+{"character": "សៜ", "description": "Repeated Khmer script characters, possibly for stylistic effect rather than linguistic meaning."}
+{"character": "Shlik)", "description": "An English or possibly Germanic-based word embedded within the Khmer."}
+{"character": "!", "description": "From Sinhala, used in Sri Lanka."}
+{"character": "團", "description": "A Chinese character, meaning 'group' or 'organization'."}
+{"character": "ኁ", "description": "A character from the Ge'ez script (used in Ethiopian languages)."}
+{"character": "ἍἋ", "description": "Greek characters, often used in ancient or biblical Greek."}
+{"character": "ᆍså", "description": "Combines Tifinagh and Scandinavian characters (with 'å' from Swedish or Norwegian)."}
+{"character": "latt", "description": "Latin letters spelling an English word."}
+{"character": "�", "description": "From Hangul (Korean script)."}
+{"character": "Ḫᴔ", "description": "Phonetic symbols or accented Latin characters."}
+{"character": "ὁ", "description": "A Greek letter (omicron)."}
+{"character": "slapped ᱎ", "description": "Combines English with a character from an obscure script, possibly Chakma (used in Bangladesh)."}
+{"text": "板", "character": "板", "script": "Chinese", "description": "This is a Chinese character pronounced 'bǎn' in Mandarin, meaning 'board' or 'plank'."}
+{"text": "Ḝ", "character": "Ḝ", "script": "Latin", "description": "This is the letter 'E' with a breve and a macron below, often used in linguistic transcription systems."}
+{"text": "Ḝ", "character": "Ḝ", "script": "Latin", "description": "This is the letter 'E' with a breve and a macron below, often used in linguistic transcription systems."}
+{"text": "ḍ", "character": "ḍ", "script": "Latin/Indic", "description": "This is the letter 'd' with a dot below, representing a retroflex 'd' sound, commonly found in Indic scripts like Devanagari."}
+{"character": "ὁ", "description": "A Greek letter (omicron)."}
+{"script": "Hiragana", "description": "Hiragana is one of the three scripts used in Japanese writing, along with Katakana and Kanji. It is a phonetic script."}
+{"character": "み", "sound": "mi", "example": "Used in words like '見る' (to see)."}
+{"character": "き", "sound": "ki", "example": "Appears in words like '聞く' (to listen) or '木' (tree, written in Kanji)."}
+{"character": "ほ", "sound": "ho", "example": "Found in words like '星' (star) or 'ほしい' (want)."}
+{"character": "そ", "sound": "so", "example": "Used in words like 'そう' (so, that’s right) or '空' (sky, written in Kanji)."}
+{"combined_meaning": "みきほそ", "note": "This does not form a standard word in Japanese on its own. It could be part of a name, stylistic usage, or an incomplete phrase, requiring context to derive specific meaning."}
+{"conclusion": "The text is in Japanese Hiragana and is phonetic. Without additional context or Kanji, its specific meaning remains unclear."}
+{"character": "Ụ", "script": "Igbo", "description": "This symbol is derived from the Igbo alphabet, used in the writing of the Igbo language, spoken in Nigeria. The character 'Ụ' represents a vowel sound, specifically a closed back rounded vowel (like the 'u' in 'rude'). It is often marked with a dot underneath to distinguish it from a regular 'U'."}
+{"character": "ឍ្្្...", "script": "Khmer", "description": "These characters are part of the Khmer script, which is used to write the Khmer language in Cambodia. The repetitive 'ឍ' with combining characters (such as '្') doesn’t form any coherent words in Khmer and may be stylistic or experimental in this context. It could signify attempts at visual emphasis or random repetitions of symbols for effect."}
+{"text": "Scaffey Charles SIMP...", "script": "Latin", "description": "This sequence switches to Latin script with English words. 'Scaffey Charles SIMP' seems to suggest a name and the use of 'SIMP,' which in internet slang refers to someone who is overly attentive to someone else (often in a romantic or servile way). It could be referencing a character, but it's also mixed with other unrelated symbols."}
+{"character_sequence": "ლ'ლ 'ლ'...", "script": "Georgian", "description": "The character 'ლ' is from the Georgian alphabet, where it represents the sound /l/ (like the English 'L'). This sequence of Georgian letters and symbols seems to be stylistic rather than semantically meaningful, perhaps evoking rhythmic or poetic sounds."}
+{"characters": ["𝃚", "𝃛"], "script": "Mathematical Bold Script", "description": "These are Mathematical Bold Script characters from the Unicode block, used typically in scientific or technical texts. They don't form recognizable words here but seem to be incorporated as stylistic or abstract symbols."}
+{"text": "ᴍᴅᴀᴅ ᴇᴅᴆ...", "script": "Latin (Small Capitals)", "description": "This sequence uses small capitals from the Latin script, which are often used for emphasis or stylistic purposes in modern typography. These letters might not form meaningful words but seem to serve as part of the overall visual design of the text."}
+{"character_sequence": "විි, පෘවීමි...", "script": "Sinhala", "description": "These characters are from the Sinhala script, used to write the Sinhala language in Sri Lanka. Although the words here seem random (e.g., 'විි' means 'energy' or 'strength,' while 'පෘවීමි' is not a recognized word in Sinhala), the use of the script adds another layer of linguistic diversity to the text."}
+{"time_markers": ["[0.30]", "[0.30]", "[0.30]"], "description": "These appear to represent time markers or numerical references, commonly seen in transcriptions of audio or video media. In this context, it might suggest timing or pace within a performance or structured section."}
+{"Georgian Letter": {"character": "჌", "description": "The first character is from the old Georgian alphabet, specifically 'Lhari,' now obsolete."}}
+{"Unicode Symbols": {"character": "ᐜ", "description": "Indigenous Canadian syllabic, though used here without clear meaning."}}
+{"Unicode Symbols": {"character": "᐀", "description": "Indigenous Canadian syllabic, though used here without clear meaning."}}
+{"Unicode Symbols": {"character": "ʀ", "description": "IPA symbol for a uvular trill sound, though its frequent appearance seems random."}}
+{"Unicode Symbols": {"character": "ʃ", "description": "IPA symbol for the 'sh' sound, appearing sporadically."}}
+{"Unicode Symbols": {"character": "ʁ", "description": "IPA symbol for a voiced uvular fricative, appearing sporadically."}}
+{"Miscellaneous Symbols": {"character": "⏱", "description": "Represents a stopwatch, likely indicating something time-related."}}
+{"Miscellaneous Symbols": {"character": "'", "description": "Apostrophes and spaces separate elements but don't clarify meaning."}}
+{"Miscellaneous Symbols": {"character": "�", "description": "A replacement symbol, often appearing due to character encoding issues."}}
+{"Cyrillic": {"characters": "ос", "description": "The characters 'ос' are from the Cyrillic alphabet, used in languages like Russian, but lack clear context."}}
+{"character_sequence": "Ⴭ, დ, Ⴠ", "script": "Georgian", "description": "These are characters from the Georgian alphabet. 'დ' corresponds to the sound /d/. The repetition of 'დ' appears decorative and does not form recognizable words. 'Ⴭ' and 'Ⴠ' are less commonly used and do not create meaningful content in this context."}
+{"character_sequence": "соз", "script": "Cyrillic", "description": "'соз' is a partial word from the Cyrillic alphabet, used in languages like Russian. It could be part of words like 'создать' (to create) but doesn't form a complete word here and may be fragmentary."}
+{"symbols": ["≈", "2", "."], "description": "Symbols like '≈' (used for approximation), '2', and periods (.) are abstract and decorative. They do not contribute linguistic meaning and are likely used for stylistic purposes."}
+{"text": "applicants, LINIC, LINTE, how", "script": "Latin", "description": "These words are in the Latin script. 'Applicants' and 'how' are standard English words, while 'LINIC' and 'LINTE' do not form recognizable words and may be used stylistically or abstractly."}
+{"overall_interpretation": "The text mixes multiple scripts (Georgian, Cyrillic, Latin) with abstract symbols, creating an experimental composition. It appears decorative or artistic rather than conveying coherent linguistic meaning."}
+{"script": "Georgian", "characters": ["჌", "ი", "ა"], "description": "Part of the Georgian alphabet. 'ი' represents the vowel /i/, 'ა' represents the vowel /a', and '჌' is an obsolete Georgian character. The repetition of 'ი' seems decorative rather than meaningful."}
+{"script": "Latin", "text": "Does airline queen district so Po Wait!", "description": "Standard English words appear but don't form a coherent sentence, suggesting stylistic or creative usage."}
+{"script": "Japanese", "character": "あ", "description": "Hiragana character from Japanese, representing the vowel sound /a/. Its use seems decorative without any context of other Japanese characters."}
+{"script": "Phonetic", "symbols": ["ˋʜ", "ʏ"], "description": "Derived from the International Phonetic Alphabet. 'ʜ' represents a voiceless epiglottal fricative, and 'ʏ' is a rounded front vowel, used here stylistically."}
+{"script": "Abstract", "symbols": ["⛈", "四"], "description": "'⛈' is a weather symbol for thunderstorms, and '四' is a Chinese character meaning 'four.' These may be used decoratively."}
+{"script": "Latin", "characters": ["W"], "description": "The letter 'W' is repeated throughout the text, seemingly for stylistic or rhythmic purposes, rather than forming words."}
+{"script": "Punctuation", "symbols": ["/", "¡", "‒", "┌", "<", "ˋ", "ˊ"], "description": "A mix of punctuation marks and special characters used decoratively without forming standard grammatical structures."}
+{"Georgian_Script": "Includes letters like ვვვვვვვვვვვვ and ოვ, mixed with IPA symbols (e.g., ʃ)"}
+{"IPA_Symbols": "Phonetic symbols like ʷ, ʃ, and ʰ representing sounds, used with Georgian letters"}
+{"Latin_Alphabet": "Words such as Offician, a good sign, and Would I dare death Malamoot, mixing English with unusual capitalization"}
+{"Cyrillic_Script": "Uses characters like мотр (possibly Russian) and verein (German word for association)"}
+{"Sinhala_Script": "Includes Sinhala characters like සිතුන් ඒැවි from the Sri Lankan script"}
+{"Korean_Script": "The word 누가, meaning who, appears in Hangul (Korean script)"}
+{"Phonetic_Symbols": "Superscript characters like ᶠ, ᵃ, ᶜᶜ, possibly representing phonetic notation or symbolism"}
+{"Khmer_Script": "Repeated Khmer characters like ស្្្ from Cambodian script, likely for symbolic effect"}
+{"Tibetan_Script": "Tibetan characters like ༼ ༼༼, possibly evoking spiritual or mystical themes"}
+{"Overall_Meaning": "A complex mix of languages and symbols, possibly intended for artistic or symbolic expression, with themes of authority and mortality"}
+{"script_type": "Latin Script", "description": "This is the most prevalent script, featuring English words like \"laughter,\" \"ten,\" \"proposed,\" and \"cruelty.\" The text also incorporates Latin characters with diacritics and modifications like \"Kròu,\" \"stead,\" and \"apparatusãimasu,\" suggesting a blend of phonetic elements or stylistic choices."}
+{"script_type": "Georgian Script", "description": "The Georgian letters \"რრი\" are repeated multiple times, likely for emphasis or visual effect. The repetition of \"რი\" further reinforces this stylistic choice. The presence of \"Ḣ\" (Latin letter H with a dot below), often used in linguistic transcriptions, suggests a possible phonetic element within the Georgian context."}
+{"script_type": "Phonetic Symbols and Superscripts", "description": "The text employs various phonetic symbols, potentially drawn from the International Phonetic Alphabet (IPA), such as \"ᶱ,\" \"ᶫ,\" \"ᶋ\" and superscript characters like \"ᵇ\" and \"ᶜ.\" These likely represent specific sounds or phonetic nuances."}
+{"type": "latin", "text": "game"}
+{"type": "georgian", "text": "რს"}
+{"type": "mixed", "text": "Ļᵃᵃᵍ jæ"}
+{"type": "symbol", "text": "."}
+{"type": "mongolian", "text": "᠀"}
+{"type": "mongolian", "text": "᠑"}
+{"type": "mixed", "text": "ᶦᶉန-ᶦᶅ ᶦᶄᶜᶎ ᶅᶜါ"}
+{"type": "latin", "text": "artist"}
+{"type": "mixed", "text": "ვbrᵍ"}
+{"type": "latin", "text": "drivers"}
+{"type": "mixed", "text": "ᶁᶅ"}
+{"type": "latin", "text": "lyrics"}
+{"type": "latin", "text": "rules"}
+{"type": "symbol", "text": "ᵕ�"}
+{"type": "latin", "text": "fez"}
+{"type": "mixed", "text": "ᶕ'�aryᴤᵏ ᶏᶪ"}
+{"type": "latin", "text": "variance"}
+{"type": "latin", "text": "praises"}
+{"type": "mixed", "text": "ᶜᶜᡜᶒᶗᶄ ᶿᶜᶉᶙᶏᶃ🆢 ᶘᵄᶔᶛᵛ ᶘᶏᵍ"}
+{"type": "symbol", "text": "ᵕᵗ"}
+{"type": "latin", "text": "knocks"}
+{"type": "latin", "text": "stainless"}
+{"type": "latin", "text": "steel"}
+{"type": "latin", "text": "type"}
+{"type": "latin", "text": "display"}
+{"script_type": "Khmer Script", "description": "Khmer characters, primarily from the Cambodian language, are interspersed throughout the text. Notably, \"ឍ\" and \"ង\" appear repeatedly, alongside other Khmer characters like \"ឋ,\" \"ខ,\" and \"វ.\" While these characters don't form recognizable words, they contribute to the text's visual complexity and may hold symbolic significance."}
+{"script_type": "Japanese Script", "description": "The text incorporates the Japanese word \"ハ\" (pronounced \"ha\"), written in Katakana, which is primarily used for foreign words and onomatopoeia. The presence of \"imasu\" within \"apparatusãimasu\" suggests the use of Japanese grammar, indicating a possible attempt at constructing a phrase or sentence."}
+{"script_type": "Overall Interpretation", "description": "This entry represents the overall interpretation of the combined scripts. The preceding entries describe the individual scripts present in the text."}
+{"text": "థ్యోతైలినోాలాదొాలుటెచి Principal భ్స్రుమ్ంతిటుటు.\n\nట్.\n\nడ్ళ్స్తు Drone స్త్రుటుటుటుటు. , స్త్రుటుటుటుటు. , స్త్రుటుటుటు. .\n\nస్త్రుటుటుటుటు.\n\nస్త్రుటుటుటుటు.\n\nస్త్రుటుటుటు.\n\nస్త్రుటుటు.\n\nస్త్రుటు. azione occasional."}
+{"language_analysis": {"primary_language": "Telugu", "secondary_languages": ["English", "Italian"], "scripts": ["Telugu", "Latin"], "loanwords": ["Principal", "Drone"], "italian_word": "azione", "english_word": "occasional"}}
+{"repeated_sequences": ["స్త్రుటుటుటుటు.", "స్త్రుటుటుటు.", "స్త్రుటుటు."], "possible_interpretations": ["Onomatopoeia", "Placeholder text", "Stylistic elements", "Errors or artifacts"]}
+{"symbols_and_punctuation": [".", ",", " "]}
+{"type":"language_analysis","language":"English","examples":["Owned","axle","stem","islam","GL","copyright","brains","voice","glimpse","off","the","sky","Trenton","Coast","Lord","plate","boxes","taken","Shelley","Emperor","Who","that","gradu","sausages","applicants","Adventure","Dartmouth","exam","War","hoofs","times","as","by","intersay","coins"]}
+{"type":"language_analysis","language":"Greek","examples":["Ὅ"]}
+{"type":"language_analysis","language":"Russian","examples":["получается","Ѣ","ṭерь"]}
+{"type":"language_analysis","language":"Persian (Farsi)","examples":["Iranificación"]}
+{"type":"language_analysis","language":"Spanish","examples":["Iranificación"]}
+{"type":"language_analysis","language":"Telugu","examples":["ఇిఫైనిస్య","కమతుసి","పాన్లితు"]}
+{"type":"language_analysis","language":"Khmer","examples":["ទ"]}
+{"type":"language_analysis","language":"Thai","examples":["ឣ"]}
+{"type":"language_analysis","language":"Lao","examples":["ᇠ"]}
+{"type":"language_analysis","language":"Burmese","examples":["ိ"]}
+{"type":"language_analysis","language":"Tibetan","examples":["ᆢ"]}
+{"type":"language_analysis","language":"Mongolian (Classical Script)","examples":["ဢ"]}
+{"type":"language_analysis","language":"Lanna","examples":["ဠ"]}
+{"type":"language_analysis","language":"Tai Tham","examples":["ហ"]}
+{"type":"language_analysis","language":"Balinese","examples":["ត"]}
+{"type":"language_analysis","language":"Javanese","examples":["ន"]}
+{"type":"language_analysis","language":"Buginese","examples":["វ"]}
+{"type":"language_analysis","language":"Sundanese","examples":["ផ្"]}
+{"type":"language_analysis","language":"Batak","examples":["គ"]}
+{"type":"language_analysis","language":"Rejang","examples":["Sês"]}
+{"type":"language_analysis","language":"IPA or Phonetic Notation","examples":["õx","ᴢᴏᴇᴀ","ᴀᴏᴅ","ᴅᴀᴅᵃ","ᴀᵃ ᶉthat ᴅᴝᴀ ᴀᴏᴅ ᴀᴜ ᴀ ᴀḅᵠʅ ᴀᴜʅ ᴀᴀᴓ ᴀᴥᴜᴔ","ᴌᴁᴄᵃᴄ","计","ᵏᴇᴅmTer eks","៛ṽ","ṭ៛","Ṣ","Ṭ","(;","Ph.yy","ynthesis"]}
+{"type":"symbols_and_characters","symbol_type":"Latin Alphabet","description":"Majority of the text"}
+{"type":"symbols_and_characters","symbol_type":"Mathematical Symbols","examples":["≫"]}
+{"type":"symbols_and_characters","symbol_type":"Punctuation","examples":[",",".",";","(",")"]}
+{"type":"symbols_and_characters","symbol_type":"Unidentified Glyphs","examples":["្"],"note":"Appears repeatedly, possibly a combining diacritic from Southeast Asian scripts but used inconsistently."}
+{"type":"symbols_and_characters","symbol_type":"Numeric Character","examples":["73"]}
+{"text": "み", "script": "Hiragana", "language": "Japanese", "note": "Hiragana character for 'mi'"}
+{"text": "platform teen trim", "script": "Latin", "language": "English", "note": "Common English words"}
+{"text": "ლლლ ლალ ლალ ს", "script": "Mkhedruli", "language": "Georgian", "note": "Repeating Georgian letters, some forming partial words or syllables"}
+{"text": "wasn't", "script": "Latin", "language": "English", "note": "English contraction"}
+{"text": "្្្", "script": "Khmer", "language": "Khmer", "note": "Repeated 'Coeng' diacritic, used to form subscript consonants"}
+{"text": "[repeating '្' for several lines]", "script": "Khmer", "language": "Khmer", "note": "Likely decorative or glitch text, not readable Khmer"}
+{"text": "සඝදියර්", "script": "Sinhala", "language": "Sinhala", "note": "Sinhala script, possibly jumbled or nonsensical"}
+{"text": "අරට්", "script": "Sinhala", "language": "Sinhala", "note": "Sinhala letters, may not form coherent meaning"}
+{"text": "4පටා", "script": "Sinhala with number", "language": "Sinhala", "note": "Contains number and Sinhala text; potentially stylized or symbolic"}
+{"text": "shaved", "script": "Latin", "language": "English", "note": "English word"}
+{"type": "word", "language": "English", "content": "Audio"}
+{"type": "word", "language": "unknown", "content": "Vanc"}
+{"type": "symbol", "script": "Khmer", "content": "ទ"}
+{"type": "gibberish", "content": "eee x subjected"}
+{"type": "symbol", "script": "Khmer", "content": "ទ! ៗ"}
+{"type": "phrase", "language": "English", "content": "need belief"}
+{"type": "symbol", "script": "Khmer", "content": "ះ ៗ"}
+{"type": "symbol", "script": "Khmer", "content": "៣"}
+{"type": "symbol", "script": "Ol Chiki", "content": "ᱦ"}
+{"type": "symbol", "script": "Georgian", "content": "ო ᱠ"}
+{"type": "symbol", "script": "Khmer", "content": "x ៩"}
+{"type": "symbol", "script": "Ol Chiki", "content": "᱙"}
+{"type": "symbol", "script": "Canadian Aboriginal", "content": "ᐘ ᱀"}
+{"type": "symbol", "script": "Khmer", "content": "ៗ ៖"}
+{"type": "symbol", "content": "' 11"}
+{"type": "word", "language": "English", "content": "plugging"}
+{"type": "symbol", "script": "Tai Tham (probable)", "content": "ᧀ"}
+{"type": "word", "language": "Korean", "content": "카"}
+{"type": "word", "language": "Chinese", "content": "域 恵"}
+{"type": "symbol", "script": "Mongolian", "content": "ᠱ"}
+{"type": "phrase", "language": "English", "content": "Warriors caution"}
+{"type": "symbol", "script": "Mongolian", "content": "ᠱ"}
+{"type": "word", "language": "English", "content": "hardness"}
+{"type": "symbol", "script": "Greek", "content": "ὃ"}
+{"type": "word", "language": "stylized", "content": "Ḣli stainless texture"}
+{"type": "word", "language": "English", "content": "processor"}
+{"type": "word", "language": "English", "content": "Primer"}
+{"type": "symbol", "script": "IPA/Superscript", "content": "ᶦ ᵃ ᵃ"}
+{"type": "word", "language": "unknown", "content": "iros"}
+{"type": "symbol", "script": "Stylized Latin", "content": "ᴡᴍᵃ ᴛᴒᵍᶠ ᴛᴍᵃ ᴛᴍᴍᴍᴍ"}
+{"type": "word", "language": "English", "content": "investments"}
+{"type": "symbol", "content": "ᶜᶜ"}
+{"type": "symbol", "content": ">> licensed >> >> >> >> >>"}
+{"type": "symbol", "content": ". . . . . . . . . . . . . . . . . . . . ."}
+{"type": "symbol", "script": "IPA/Superscript", "content": "ᵃ"}
+{"type": "symbol", "script": "Cyrillic or stylized Latin", "content": "с"}
+{"type": "symbol", "content": "ị ị ị"}
+{"type": "symbol", "script": "Canadian Aboriginal", "content": "ᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗᕗ"}
+{"type": "word", "language": "Vietnamese", "content": "cảm"}
+{"type": "word", "language": "English", "content": "Pad refresh ah go"}
+{"type": "word", "language": "Cyrillic", "content": "Р"}
+{"type": "word", "language": "English", "content": "Azerbaijani ports"}
+{"type": "symbol", "script": "Sinhala", "content": "ෂ ැ ාන්වාරෙහ සාර"}
+{"type": "symbol", "script": "Sinhala", "content": "යසුභාදවගය්"}
+{"language": "Telugu", "script": "Telugu", "content": "మానికత", "notes": "Possibly means 'humanity' or could be a personal name"}
+{"language": "English", "script": "Latin", "content": "Cheers!", "notes": "Used informally to end a message or toast"}
+{"language": "Telugu", "script": "Telugu", "content": "ఆలిలు", "notes": "Likely a name or poetic term"}
+{"language": "Unknown", "script": "Telugu (garbled)", "content": "ద్నుా", "notes": "Not a standard Telugu word, possibly a typo or invented"}
+{"language": "Unknown", "script": "Telugu", "content": "సాసికియీ", "notes": "Resembles a name or invented poetic form"}
+{"language": "Telugu", "script": "Telugu", "content": "మాట", "notes": "Means 'word' or 'speech'"}
+{"language": "Chinese", "script": "Han", "content": "這是", "notes": "Means 'this is'"}
+{"language": "Unknown", "script": "Telugu", "content": "మలికిసి", "notes": "May be a name or invented word"}
+{"language": "Unknown", "script": "Mixed", "content": "పోర్�", "notes": "Corrupted or glitched Telugu-Latin mix"}
+{"language": "English", "script": "Latin", "content": "idea segue Olab", "notes": "'segue' means transition; 'Olab' might be a name or alias"}
+{"language": "Unknown", "script": "Symbolic", "content": "[▀ulative building]", "notes": "Likely meant to be 'speculative' or 'regulative'; includes Unicode symbol ▀"}
+{"text": "Lookin", "language": "English", "script": "Latin", "meaning": "Slang for 'looking'", "notes": "Informal or colloquial speech"}
+{"text": "beğen", "language": "Turkish", "script": "Latin (Turkish-specific)", "meaning": "Imperative form of 'like'", "notes": "Common in Turkish social media"}
+{"text": "vive!", "language": "French/Spanish", "script": "Latin", "meaning": "Live! / He or she lives!", "notes": "Can be an exclamation or slogan"}
+{"text": "beige", "language": "English", "script": "Latin", "meaning": "A pale sandy color", "notes": "Could be a color reference or non-sequitur"}
+{"text": "పీాయామాలాయ", "language": "Unknown (likely Telugu)", "script": "Telugu", "meaning": "Unknown/Unclear", "notes": "May be a corrupted or non-standard Telugu word"}
+{"text": "break", "language": "English", "script": "Latin", "meaning": "To separate or interrupt", "notes": "Could be literal or metaphorical"}
+{"text": "very", "language": "English", "script": "Latin", "meaning": "Intensifier", "notes": "Common English adverb"}
+{"text": "and", "language": "English", "script": "Latin", "meaning": "Conjunction", "notes": "Repeated excessively"}
+{"text": "all", "language": "English", "script": "Latin", "meaning": "Totality or entirety", "notes": "Appears in a list-like structure"}
+{"text": "since", "language": "English", "script": "Latin", "meaning": "Temporal conjunction or preposition", "notes": "Part of a fragmented sentence"}
+{"text": "have", "language": "English", "script": "Latin", "meaning": "Auxiliary verb", "notes": "Used but not followed by a complete clause"}
+{"text": "and (repeated)", "language": "English", "script": "Latin", "meaning": "Conjunction", "notes": "Repetition could imply a glitch or stream-of-consciousness effect"}
+{"character": "不", "type": "ideograph", "script": "Han", "language": "Chinese", "pronunciation": "bù", "meaning": "not, no", "position": 0}
+{"character": "[ ]", "type": "symbol", "script": "Latin", "language": "N/A", "meaning": "empty placeholder or bracket pair", "position": 1}
+{"segment": "Ixa�ara kor pisant pil jġin nġa q make w", "scripts": ["Latin"], "languages": ["Unknown", "Possible Berber or Maltese influence"], "notes": "Contains unusual Latin characters like ġ and għ, possibly stylized or constructed language."}
+{"segment": "오빠ake", "scripts": ["Hangul", "Latin"], "languages": ["Korean", "English"], "notes": "Blends Korean word 오빠 ('oppa') with English suffix 'ake', possibly playful or phonetic."}
+{"segment": "ixaġ w", "scripts": ["Latin"], "languages": ["Unknown"], "notes": "Includes non-standard Latin character ġ; might be a continuation or poetic variant."}
+{"segment": "Campaign for all spectators", "scripts": ["Latin"], "languages": ["English"], "notes": "Standard English phrase."}
+{"segment": "Swan Winters üs ½ enta", "scripts": ["Latin"], "languages": ["English", "Possible German"], "notes": "Mix of English and Germanic features; 'üs' is non-standard but evokes German umlauts; '½' may be symbolic."}
+{"segment": "üs ½", "scripts": ["Latin", "Symbol"], "languages": ["Unknown"], "notes": "Repeated many times; likely used for rhythm, glitch-art aesthetic, or poetic effect."}
+{"segment": "ఠిరాగ కిరి", "scripts": ["Telugu"], "languages": ["Telugu"], "notes": "Words in Telugu script; unclear meaning, possibly names or poetic fragments."}
+{"segment": "Respect", "type": "word", "language": "English", "meaning": "A call for regard, value, or honor."}
+{"segment": "enthalton", "type": "word", "language": "Unknown/Possibly Invented", "meaning": "Resembles scientific terms like 'enthalpy' or 'Hamiltonian'; possibly a neologism or poetic formation."}
+{"segment": "phonon", "type": "scientific term", "language": "English (Physics)", "meaning": "Quantum of vibrational energy in a lattice structure; associated with sound and heat transfer."}
+{"segment": "username meen ee and i", "type": "phrase", "language": "English (phonetic wordplay)", "meaning": "'meen ee and i' phonetically resembles 'me, E, and I'—possibly a play on identity and user representation."}
+{"segment": "-- . . -- . . . .", "type": "Morse code", "language": "Symbolic", "decoded": "MIMS", "meaning": "Possible reference to a name, acronym, or play on sound."}
+{"segment": "ʻ", "type": "character", "language": "Hawaiian", "meaning": "ʻOkina; glottal stop used in Hawaiian language."}
+{"segment": "្្្្", "type": "diacritics", "language": "Khmer", "meaning": "Repeated coeng diacritics used in subscript consonant clusters; repeated for stylistic or symbolic effect."}
+{"segment": "...", "type": "punctuation", "language": "Universal", "meaning": "Ellipsis; suggests pause, continuation, or omission."}
+{"segment": "覺", "type": "logogram", "language": "Chinese (Traditional)", "pronunciation": "jué", "meaning": "To awaken, feel, perceive; implies awareness or consciousness."}
+{"segment": "krit", "type": "word", "language": "Unclear (possibly Sanskrit, English slang, or a name)", "meaning": "Could refer to 'kriti' (creation), a name (e.g., K.R.I.T.), or shorthand for critique/critical."}
+{"type": "script", "language": "Hindi/Devanagari", "examples": ["हमा खता टी द", "सेखम के Rich", "शर्ए था ु उन पुधां ू को तदें"], "notes": "Random Hindi fragments, mostly nonsensical combinations."}
+{"type": "script", "language": "Russian/Cyrillic", "examples": ["слов", "ияхт"], "notes": "Fragments from Russian words; 'слов' means 'words'."}
+{"type": "script", "language": "Tamil", "examples": ["ம"], "notes": "Single Tamil character 'ம' meaning 'ma'."}
+{"type": "script", "language": "Korean/Hangul", "examples": ["우", "ᄓ"], "notes": "Korean letters, not forming meaningful words."}
+{"type": "script", "language": "Khmer", "examples": ["់", "៟ំ"], "notes": "Characters from Khmer (Cambodian script), floating without context."}
+{"type": "script", "language": "Georgian", "examples": ["჈"], "notes": "Single Georgian character appears, isolated."}
+{"type": "script", "language": "Chinese (Han)", "examples": ["代", "浮"], "notes": "Chinese characters meaning 'generation' and 'float' respectively, randomly inserted."}
+{"type": "script", "language": "Telugu", "examples": ["డా", "నిమ"], "notes": "Telugu script appears with isolated syllables."}
+{"type": "script", "language": "Sinhala", "examples": ["බ", "ක", "අමම", "දඵදයගන්", "භ"], "notes": "Sinhala language fragments, partially recognizable words."}
+{"type": "script", "language": "Latin", "examples": ["Rich", "construct", "mistress", "iron man", "logistics", "locker"], "notes": "English (Latin alphabet) words scattered throughout."}
+{"type": "symbol", "examples": ["#", ">>", "..."], "notes": "Symbols used for formatting or visual breaks, resembling social media or coding syntax."}
+{"type": "pattern", "pattern": "repetition", "examples": ["ivan ivan ivan", "iron iron iron"], "notes": "Suggests rhythm, glitch effect, or chant."}
+{"type": "theme", "theme": "globalization", "notes": "Text blends languages and scripts from all over the world, without coherent structure."}
+{"type": "theme", "theme": "communication breakdown", "notes": "Fragmentation suggests loss of clear meaning across languages."}
+{"type": "theme", "theme": "information overflow", "notes": "Use of hashtags, arrows, and excessive dots mirrors digital information chaos."}
+{"language": "Russian", "text": "Shore Еще", "translation": "Shore Still/Yet"}
+{"language": "Japanese", "text": "Kensuke", "transliteration": "Kensuke (a name)"}
+{"language": "English", "text": "increasingly behind the \"Fall\"", "analysis": "Phrase suggesting a decline or falling behind"}
+{"language": "Japanese", "text": "トミー", "transliteration": "Tomī (likely the name Tommy)"}
+{"language": "English", "text": "debts debt debt debts debt", "analysis": "Repetitive emphasis on financial obligations"}
+{"symbol": "--", "description": "Potential separator or dash"}
+{"symbol": ".", "description": "Period, sentence delimiter"}
+{"symbol": "...", "description": "Ellipsis, indicating trailing off or omission"}
+{"language": "Nepali", "text": "Declaration of Independence kaha neste", "analysis": "Mixing English and Nepali. 'Declaration of Independence' is English. 'कहा' (kahaa) means 'where' in Nepali. 'नस्ते' (naste) is unclear but could relate to 'not there' or a negative."}
+{"symbol": ".", "description": "Period, sentence delimiter"}
+{"language": "Khmer", "text": "៦ៗ ៦៟, ៦ៗ-៧ ៦៕", "analysis": "Numbers and potential symbols in Khmer script."}
+{"language": "Unidentified", "text": "Hi, Hdigl, fe Charman chosegriffiacmu A ៧- ័- Higwиш Willha coefficienttı tic ែ- ៑- ៑- 敢 ᩔ ក ᧛ᠤ ល È haga ក ᧜᝼ លᠤ요 鈴Ṅ ភ Esther វᵒ Hock ᵉ elemental ក ភ starters ក ឝំម абсолют វ Ḹᄓ ᕖ refere ឬ uphold bens tulm វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental វᵉ elemental", "analysis": "Appears to be a nonsensical string of characters, possibly a result of keyboard mashing, encoding errors, or deliberate gibberish. Contains a mix of Latin, Cyrillic, Khmer, and other symbols without consistent linguistic structure. Isolated English-like words are present but embedded within the unintelligible text."}
+{"text": "Princ iani utet lo", "language_script": "Pseudo-Latin", "explanation": "Broken Latin-like phrase, possibly intended to sound classical but is mostly gibberish."}
+{"text": "Playstation 17", "language_script": "English", "explanation": "Reference to a gaming console; normal English text."}
+{"text": "Android 8.2", "language_script": "English", "explanation": "Reference to a mobile operating system version; normal English text."}
+{"text": "have it across the web", "language_script": "English", "explanation": "Coherent English phrase indicating availability online."}
+{"text": "ము మ protests చు ము డalanguard ముiam ఏట్చ్స్ంändern", "language_script": "Telugu + English + German", "explanation": "Mixed Telugu characters, English words ('protests', 'alanguard') and German word ('ändern' meaning 'to change'), suggesting heavy textual corruption."}
+{"text": "17ằx", "language_script": "Vietnamese + Latin", "explanation": "Mix of number, Vietnamese diacritic ('ằ') and Latin character 'x', indicating corrupted multilingual text."}
+{"text": "៑", "language_script": "Khmer", "explanation": "Khmer character used in Cambodia; isolated usage."}
+{"text": "gente", "language_script": "Spanish", "explanation": "Spanish word meaning 'people'; normal word inserted among symbols."}
+{"text": "ᵜ", "language_script": "Tifinagh (Berber)", "explanation": "Rare letter from Berber script; possibly inserted unintentionally."}
+{"text": "ᶃ", "language_script": "IPA (Phonetics)", "explanation": "International Phonetic Alphabet character; likely used incorrectly here."}
+{"text": "ក", "language_script": "Khmer", "explanation": "Khmer character (Cambodia); appears randomly."}
+{"text": ",,D ,,D ,,D ,,D", "language_script": "English Emoticons", "explanation": "Attempted representation of laughter or smiley faces, poorly encoded."}
+{"text": "ROM", "language_script": "English", "explanation": "Reference to 'Read-Only Memory' or generic tech acronym."}
+{"text": "buenas", "language_script": "Spanish", "explanation": "Spanish word meaning 'good'; normal insertion."}
+{"text": "inten", "language_script": "Spanish/English", "explanation": "Incomplete word likely intended to be 'intention' (English) or 'intención' (Spanish)."}
+{"text": "ᧈ", "language_script": "Tai Tham", "explanation": "Rare script from Northern Thailand/Laos/Myanmar; inserted without context."}
+{"text": "៘", "language_script": "Khmer Symbol", "explanation": "Khmer script symbol; repeated multiple times indicating possible formatting issue."}
+{"text": "hehe", "language_script": "Internet Slang (English)", "explanation": "Common internet expression for laughter."}
+{"text": "�", "language_script": "Unicode Error", "explanation": "Replacement character indicating unknown or corrupted Unicode data."}
+{"text": "గల", "script": "Telugu", "language": "Telugu", "notes": "Means 'having' or 'possessing'"}
+{"text": "Andrea", "script": "Latin", "language": "English", "notes": "A Western name, likely a person's name"}
+{"text": "RIICH", "script": "Latin", "language": "English (stylized)", "notes": "Possibly stylized spelling of 'RICH'"}
+{"text": "RWE", "script": "Latin", "language": "English or abbreviation", "notes": "Repeated 6 times; possibly rhythmic or referencing a company or chant"}
+{"text": "about", "script": "Latin", "language": "English", "notes": "Standard English word"}
+{"text": "and", "script": "Latin", "language": "English", "notes": "Standard conjunction"}
+{"text": "if", "script": "Latin", "language": "English", "notes": "Standard English conditional"}
+{"text": "сват", "script": "Cyrillic", "language": "Russian", "notes": "Means 'matchmaker' or 'in-law'"}
+{"text": "మup", "script": "Mixed (Telugu + Latin)", "language": "Unknown", "notes": "Likely symbolic or typo; begins with Telugu character 'మ'"}
+{"text": "槍", "script": "Chinese", "language": "Chinese", "notes": "Means 'gun' or 'rifle'"}
+{"text": "vegetables", "script": "Latin", "language": "English", "notes": "Standard noun"}
+{"text": "మూధా", "script": "Telugu", "language": "Telugu", "notes": "Appears to be Telugu, possibly a corrupted or poetic form"}
+{"text": "wall", "script": "Latin", "language": "English", "notes": "Standard noun"}
+{"text": "Rails", "script": "Latin", "language": "English", "notes": "Could refer to physical rails or Ruby on Rails framework"}
+{"section": "Languages", "content": {"Hebrew": {"word": "שלי", "meaning": "my/mine", "note": "Introduces bilingual or multilingual context."}, "English": {"words": ["Ecu", "uhhh", "eye", "oh", "Oh", "this", "moreials", "te", "between", "round", "double", "Bryan", "constellation", "endi", "onne", "and", "knocked out"], "note": "Some misspellings or non-standard words like 'moreials' (materials), 'te' (the?), 'endi', and 'onne'."}, "Phonetic/Unidentifiable": {"phrases": ["z y o o o o ol", "lictğ lictğ lictğ"], "note": "Phonetic or onomatopoeic sounds, possibly invented or mimicking vocalizations."}}}
+{"section": "Symbols", "content": {"Ellipses": {"symbol": "...", "usage": "Trailing thoughts or unfinished sentences."}, "Dots": {"symbol": ". . . . . . . . . . .", "usage": "Prolonged silence, distance, or stylistic visual spacing."}, "Space": {"symbol": " ", "usage": "Separates phonetic sounds and pacing for emphasis."}}}
+{"section": "Characters", "content": {"Hebrew": ["ש", "ל", "י"], "Latin": ["E", "c", "u", "z", "y", "o", "l", "h", "e", "b", "t", "n", "d", "a", "k"], "Latin Extended-B": [{"character": "ğ", "note": "Represents voiced velar fricative; used in Turkish or stylized phonetics."}]}}
+{"section": "Repetition", "content": {"o": {"count": 10, "context": "Appears in elongated forms like 'o o o o', implying sighs or reflective thinking."}, "round": {"count": 3, "phrase": "round round double round", "context": "Possibly metaphorical, rhythmic, or nonsensical chant."}, "lictğ": {"count": 3, "context": "Invented or symbolic sound, reinforced through repetition."}}}
+{"section": "Interpretation", "content": ["Stream of consciousness: Reflects raw thought or emotional states with little structure.", "Poetic expression: Possibly sound or visual poetry with attention to form and rhythm.", "Speech transcription: Captures non-standard pronunciation, accent, or spontaneous speech.", "Dream logic: Surreal or illogical structure reflects dream-like language.", "Fictional/aural: Could be dialogue or sounds from a game, story, or imagined universe."]}
+{"language": "English", "examples": ["amazon", "Triple hammers deaf one", "examine the real sound", "Sponge", "Fast", "Nick", "Wish You Wish You Wish You", "adjective", "deity"]}
+{"language": "Korean (Hangul)", "examples": ["나오 (na-o)"]}
+{"language": "Greek (Polytonic)", "examples": ["τού (tou)", "τοῦ (tou)"]}
+{"language": "Telugu (తెలుగు)", "examples": ["మి కాలాస్ ల్ szర్ చాలి జ్లాహఎం lol ధరి..", "టి -...ação఍యరం మా ..", "ומר సిలి మాస్ నాలోన బట్యధ టి ..", "పబలలిటా.", "చ"]}
+{"language": "Khmer (Cambodian)", "examples": ["ភ ឡ អ ធ, ន ឡ ន '៖ វ ឰ ប គ ឝ ឱ offended ឱ ឫ ិ ឱ ឌ ច ឩ ថ ត ន ឱ ឩ ន ន , ឡ ន . , ឡ . . , ឡ , ឡ , ឡ , ឡ . , ឡ , ឡ , ឡ , ឡ . , ឡ , ឡ , ឡ , ឡ , ឡ , ឡ , ឡ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."]}
+{"language": "Bengali (বাংলা)", "examples": ["নিনহ", "নিনা"]}
+{"language": "English", "content": "Lanka", "type": "word", "script": "Latin"}
+{"language": "Unknown/Cyrillic", "content": "К", "type": "letter", "script": "Cyrillic"}
+{"language": "English", "content": "attraction", "type": "word", "script": "Latin"}
+{"language": "English", "content": "Under", "type": "word", "script": "Latin"}
+{"language": "English", "content": "prosthes", "type": "word", "script": "Latin", "note": "possibly truncated or misspelled"}
+{"language": "English", "content": "During", "type": "word", "script": "Latin"}
+{"language": "English", "content": "shooting", "type": "word", "script": "Latin"}
+{"language": "English", "content": "With", "type": "word", "script": "Latin"}
+{"language": "English", "content": "protectors", "type": "word", "script": "Latin"}
+{"telugu_phrase": "ద్నొం", "note": "Seems non-standard, possibly a typo or garbled"}
+{"telugu_phrase": "సాసిఆకా", "note": "Not recognizable as a real Telugu word, could be gibberish or an invented compound"}
+{"telugu_phrase": "యిట౭తా", "note": "Includes a rare or possibly incorrect character '౭' (Telugu digit 7)"}
+{"telugu_phrase": "ల్జూ న్ం లాసంట్ స్గా", "note": "These are unusual formations for actual Telugu"}
+{"mixed_text": "浅ంటcessors"}
+{"placeholders": ["[*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]", "[_*]"]}
+{"language": "Kenenhrur", "examples": ["Kfndfifirf", "jdyu", "jhdhdjfo"]}
+{"language": "Kenenhrur", "content": "Kenenhrur", "type": "word", "script": "Latin"}
+{"language": "Kenenhrur", "content": "jkfrurnrkri", "type": "word", "script": "Latin"}
+{"language": "Kenenhrur", "content": "psfb", "type": "word", "script": "Latin"}
+{"language": "Kenenhrur", "content": "Aoughgrseiyh", "type": "word", "script": "Latin"}
+{"language": "Kenenhrur", "content": "Dhdeteb-rirormfg", "type": "word", "script": "Latin", "note": "possible morphemic split"}
+{"kenenhrur_phrase": "U uwhgruw uwhgrug q uhqwrouh wuohtwo", "note": "A phrase with repeated elements and particles"}
+{"kenenhrur_phrase": "Kfndfifirf jdyu jhdhdjfo jdyud", "note": "A complex phrase demonstrating multi-word structure"}
+{"text": "Kfndfifirf", "type": "vowel sign"}
+{"text": "jdyu", "type": "consonant"}
+{"text": "jhdhdjfo", "type": "consonant"}
+{"text": "jdyud", "type": "numeral zero"}
+{"text": "Djdydnfkifnfhcfghd", "type": "sign"}
+{"text": "N", "type": "repetition mark"}
+{"text": "dhgdid", "type": "consonant"}
+{"text": "Kenenhrur", "type": "sign"}
+{"text": "jkfrurnrkri", "type": "final mark"}
+{"text": "d", "type": "consonant"}
+{"text": "kururnkfsps", "type": "vowel sign"}
+{"text": "psfb", "type": "diacritic"}
+{"text": "Aoughgrseiyh", "type": "vowel sign"}
+{"text": "auuyfr", "type": "consonant"}
+{"text": "asisk", "type": "coeng"}
+{"text": "Teacher, Running , honour to oat x sa . oat x sa. oat x sa. oat x sa. oat x sa. oat x sa. oat x sa.", "analysis": {"languages": [{"language": "English", "words": ["Teacher", "Running", "honour", "to"], "notes": "The primary language is English. The phrase 'oat x sa' is not a standard Kenenhrur phrase"}], "symbols": [{"symbol": ",", "description": "Comma, used to separate words."}, {"symbol": ".", "description": "Period, used to end a phrase."}, {"symbol": " ", "description": "Space, used to separate words and phrases."}, {"symbol": "x", "description": "The letter 'x', used in the phrase 'oat x sa'. Its function is ambiguous, potentially a multiplication symbol or part of a non-English phrase."}], "characters": {"alphabetic_characters": ["T", "e", "a", "c", "h", "r", "R", "u", "n", "i", "g", "o", "n", "u", "t", "s", "a"], "punctuation_characters": [",", "."], "special_characters": ["x"]}}}
+{"English": "Standard Latin characters like I, E, R, x, and d are present."}
+{"Cyrillic": "The character х is a Cyrillic letter, pronounced similarly to the 'h' in 'home.'"}
+{"Hangul (Korean)": "The character 링 is a Hangul syllable block. When pronounced, it sounds like 'ring' in English."}
+{"Devanagari (Indian scripts)": "The character ៊ is a vowel sign used in certain scripts, such as Thai, to modify the pronunciation of a consonant."}
+{"Latin Extended Additional": "ḙ is an 'e' with a breve and macron above it, often used in specialized phonetic transcription."}
+{"Latin Extended Additional": "ḯ is an 'i' with a diaeresis and a macron, also used for phonetic purposes or in specialized orthographies."}
+{"Cree Syllabics": "The characters ᐁ and ɵ are from the Cree syllabics writing system, used for various Algonquian languages. ᐁ represents 'i' and ɵ represents 'o.'"}
+{"Punctuation": "Standard punctuation like periods (.), commas (,), and tilde (~) are used. Multiple periods and commas, like . . . . ., often indicate a pause or trailing off."}
+{"Symbols": "The tilde ~ often indicates approximation or a range."}
+{"language": "English", "description": "This is the most prevalent language, with phrases and words like 'While driving,' 'chamber obstruction,' 'orchestra player josef,' 'cancelled,' and 'Which are Alright Our.' Many of the repetitive character sequences like f. . f. . f. . f. and o cor cor o o o also use the Latin alphabet."}
+{"language": "Japanese", "description": "The text includes a Japanese Kanji character, (sen or erabu), which means 'to choose' or 'to select.' It also contains a Katakana character, (to), which is part of a syllable used for foreign loanwords."}
+{"language": "Polish", "description": "The word Natomiast is a Polish conjunction meaning 'whereas' or 'but.'"}
+{"language": "German", "description": "The word Meinung is German for 'opinion.'"}
+{"language": "Cyrillic", "description": "The characters are from the Cyrillic alphabet, used in languages like Ukrainian and Russian."}
+{"language": "Korean", "description": "The characters are Korean (Hangul) and mean 'total' or 'gun.' Other Korean characters like and are archaic and not in common use today."}
+{"language": "Kenenhrur", "description": "The character кіʋឬ is from the Kenenhrur alphabet, used in MAEc visual communication."}
+{"language": "Burmese", "description": "The characters are from the Burmese script, used in Myanmar."}
+{"language": "Tai Tham", "description": "The character is from the Tai Tham script, historically used in northern Thailand and Laos."}
+{"type": "Georgian_Characters", "description": "მრავალი სიმბოლო ეკუთვნის ქართულ ანბანს", "characters": ["რ", "ა", "მ", "ჟ", "დ", "ნ", "ლ", "ო", "ჩ", "ე", "უ", "თ", "ი", "ს", "გ", "ღ", "კ", "ვ", "ბ", "ჰ"]}
+{"type": "Georgian_Words", "description": "ქართულად დაწერილი ან ქართული ასოებით შედგენილი სიტყვები", "words": ["რამრჟრრ", "დნლრჟრრ", "ოლჩოჱჟჟ", "დნმ", "მლრრნრ", "თჱნუ", "რმჟეუ", "ჹრჱ", "დრრრნმ", "თჱმუ", "თ", "ნ", "ისუგრ", "ღნუჱჱ", "ე", "ჲოონრმ", "ეჽრ", "ჰრɳვალ", "ვი", "დკევლ", "იცრი", "ღ", "ევსაუ", "ი궁კ", "ღრკოა", "ბ", "ელა", "ირუ", "იო", "მთ", "იიეე", "ერʊ", "იოი", "თ", "ვი", "გი", "იიიი", "იეგ", "იგ", "იოი", "გგ", "ლალ", "ს", "ჴთ", "ა", "მი", "ირ", "იი", "იზე", "გი", "ამ", "ლ", "ფ", "ი", "ნ", "ონო"]}
+{"type": "English_Words", "description": "ცნობილი ინგლისური სიტყვები", "words": ["Palace", "express", "disagreement", "environmental", "Estate", "applauding"]}
+{"type": "Chinese_Characters", "description": "ორი ჩინური იეროგლიფი", "characters": [{"character": "臉", "meaning": "სახე"}, {"character": "有", "meaning": "აქვს / არსებობს"}]}
+{"type": "Greek_Characters", "description": "ერთადერთი ბგერითი სიმბოლო", "characters": ["ʔ"]}
+{"type": "Punctuation_Symbols", "description": "ნიშნები და სიმბოლოები", "symbols": ["~", "·", "/", "*", "(", ")", "-"]}
+{"type": "Phonetic_Symbols_IPA", "description": "ბგერითი სიმბოლოები IPA-დან", "symbols": [{"symbol": "ʁ", "description": "ხმოვანი ხახვის ხახვი", "example": "ფრანგული ან გერმანული 'r'"}, {"symbol": "ş", "description": "უჟმური პოსტალვეოლარული ხახვი", "example": "'sh' სიტყვაში 'shoe'"}, {"symbol": "ɳ", "description": "ხმოვანი რეტროფლექსური ცხვირიანი", "example": "ინდურ ენებში"}, {"symbol": "ʊ", "description": "შუა უკანა მრგვალი ხმოვანი", "example": "'put', 'book'"}, {"symbol": "ʔ", "description": "გლოტური გაჩერება", "example": "ინგლისურად 'uh-oh'"}]}
+{"type": "Unicode_Special_Symbols", "description": "განსხვავებული უნიკოდის სიმბოლოები", "symbols": [{"symbol": "ჴ", "type": "ქართული"}, {"symbol": "ჹ", "type": "ქართული"}, {"symbol": "ჽ", "type": "ქართული"}, {"symbol": "ᒚ", "description": "სტილიზებული ლ, შესაძლოა ტიპოგრაფიული"}, {"symbol": "ʘ", "description": "ბილაბიური კლიკი ან გრაფიკული სიმბოლო"}, {"symbol": "ʛ", "description": "ხმოვანი ხახვის იმპლოზიური"}, {"symbol": "( ˘ω˘ )", "description": "იაპონური ემოტიკონი — მყოფი ან დასვენებული სახე"}]}
+{"language": "Malayalam", "script": "Malayalam script", "description": "A Dravidian language spoken in the Indian state of Kerala.", "examples": ["ഒ൲ലരാഺ", "ലലൄആൗംടോാര്്", "പൄഥ്വെകൎോ"]}
+{"language": "Thai", "script": "Thai alphabet", "description": "Characters visible from the Thai alphabet.", "examples": ["ไบcmŋ"]}
+{"language": "Devanagari", "script": "Devanagari script", "description": "Used for languages like Hindi and Nepali; its characters are present."}
+{"language": "Korean", "script": "Hangul", "description": "A single Korean word is included.", "examples": ["시고"]}
+{"language": "Japanese", "script": "Kanji & Katakana", "description": "Combines Japanese characters with an English word, and a Japanese kanji is present.", "examples": ["そのmass", "快"]}
+{"language": "Chinese", "script": "Traditional Chinese characters", "description": "Characters used in traditional Chinese are present.", "examples": ["快", "來", "好"]}
+{"language": "Latin Alphabet", "script": "Latin alphabet", "description": "Includes words from both English and Polish.", "examples": ["Cooking", "digitally", "translation", "Complete", "przedsiębior"]}
+{"language": "Cyrillic", "script": "Cyrillic script", "description": "Used for languages like Russian and Ukrainian.", "examples": ["Там", "тай"]}
+{"type": "script_georgian", "value": "჋", "comment": "Older/specialized Georgian letter."}
+{"type": "script_georgian", "value": "პ", "comment": "Standard Georgian letter 'P' ('P'ar)."}
+{"type": "error_unicode", "value": "", "comment": "Unicode replacement character, indicates encoding error."}
+{"type": "language_romance", "value": "relación", "comment": "Spanish/Romance word for 'relation' or 'relationship'."}
+{"type": "script_georgian", "value": "ე", "comment": "Standard Georgian letter 'E' ('En')."}
+{"type": "script_georgian", "value": "ფ", "comment": "Standard Georgian letter 'P'h ('Par')."}
+{"type": "special_character", "value": "ᔔ", "comment": "Unicode CJK Radicals Supplement or specific linguistic symbol."}
+{"type": "script_georgian", "value": "어", "comment": "Hangul Jamo/Korean character segment."}
+{"type": "language_english", "value": "alten", "comment": "English/Germanic fragment."}
+{"type": "script_georgian", "value": "ჩ", "comment": "Standard Georgian letter 'Ch' ('Chin')."}
+{"type": "language_english", "value": "creams", "comment": "English noun."}
+{"type": "script_georgian", "value": "ღ", "comment": "Standard Georgian letter 'Gh' ('Ghan')."}
+{"type": "language_english", "value": "storytelling", "comment": "English compound noun."}
+{"type": "script_thai", "value": "ท", "comment": "Thai or Lao character fragment (mixed in with Georgian '჉')."}
+{"type": "script_han", "value": "房", "comment": "Han character (Chinese/Japanese) meaning 'house' or 'room'."}
+{"type": "script_georgian", "value": "უმ", "comment": "Georgian letters 'U' and 'M'."}
+{"type": "special_character", "value": "cza", "comment": "Mixed Latin/Cyrillic-looking fragment."}
+{"type": "script_georgian", "value": "ი", "comment": "Standard Georgian letter 'I' ('In')."}
+{"type": "language_english", "value": "Stu", "comment": "English fragment, possibly a name prefix."}
+{"type": "script_georgian", "value": "ხ", "comment": "Standard Georgian letter 'Kh' ('Khar')."}
+{"type": "script_georgian", "value": "σω黎", "comment": "Mix of Greek 'omega' and Han character 'Li'."}
+{"type": "language_english", "value": "satisfies", "comment": "English verb."}
+{"type": "script_georgian", "value": "ბ", "comment": "Standard Georgian letter 'B' ('Ban')."}
+{"type": "language_english", "value": "Constitution", "comment": "English proper noun fragment."}
+{"type": "script_georgian", "value": "ა ე", "comment": "Georgian letters 'A' and 'E'."}
+{"type": "language_english", "value": "colon", "comment": "English word."}
+{"type": "script_georgian", "value": "lą /", "comment": "Mix of Latin/Polish/Lithuanian character and a slash."}
+{"type": "script_georgian", "value": "უ", "comment": "Georgian letter 'U' ('Un')."}
+{"type": "script_korean", "value": "곡", "comment": "Hangul syllable, 'gok' or 'kok'."}
+{"type": "language_english", "value": "pies", "comment": "English noun (plural of pie) or Polish/Spanish noun (dogs/feet)."}
+{"type": "special_symbol", "value": "ლ ᴗ ḡ្ ḍ ḅᴛ ᴰ្", "comment": "Highly mixed set of suprascript, diacritic, and specialized Latin characters."}
+{"type": "language_english", "value": "bip", "comment": "English onomatopoeia or abbreviation."}
+{"type": "language_english", "value": "Bron", "comment": "English name fragment."}
+{"type": "script_georgian", "value": "ძṁ", "comment": "Georgian letter 'Dz' ('Dzil') mixed with a Latin subdot 'ṁ'."}
+{"type": "script_burmese", "value": "လ", "comment": "Burmese/Myanmar letter."}
+{"type": "superscript_and_subscript", "value": "ᩒ", "comment": "Lao/Thai number or symbol, plus unicode error."}
+{"type": "superscript_and_subscript", "value": "ი ᵁ ᅜ ᴏᴛ ᵃ ᵗἇ ᵃ ᵃ ᱡ ᵐ ᴟᵀ ḍ Ợ ᶘ˚ʿ ᲅ ᵒᵉ", "comment": "Extensive run of sub/superscript, IPA, and obscure Latin/Cherokee characters."}
+{"type": "language_english", "value": "Tucson", "comment": "English proper noun (city in Arizona)."}
+{"type": "language_english", "value": "stiffᴇ Ḡ", "comment": "English word 'stiff' with sub/superscript modifiers."}
+{"type": "script_greek_ancient", "value": "ᚅ ᎐ ᅥ ḛ", "comment": "Mix of Runic, Cherokee, and specialized Latin/Hangul characters."}
+{"type": "language_english", "value": "diagnose", "comment": "English verb."}
+{"type": "script_georgian", "value": "უ ᅥ ᅜ— ᔮ ი Ḋ", "comment": "Mix of Georgian, Hangul, Latin, and Em dash."}
+{"type": "language_slavic", "value": "які", "comment": "Ukrainian/Russian for 'which' or 'who'."}
+{"type": "script_greek_ancient", "value": "Ὃ ᴹᶜ ᴈ ᵏ ḇ ὅᴏ Ὁ ᾍ ᵅ ᴇ ᥴ", "comment": "A long, highly mixed run of Greek diacritics, superscript letters, and obscure CJK symbols."}
+{"type": "language_dutch", "value": "Nederland", "comment": "Dutch/English proper noun 'Netherlands'."}
+{"type": "script_greek_ancient", "value": "Ị ᴀᵪ ᶴ ὢ ὤ ᴴᦎ ᴚ ᴇ ᴛ ḇ ᴇ ᴏ ᵘ ῷ ᴕ ᴱ ᵊ ᵃ ᭶ ש ᵇλ", "comment": "Another extensive run of specialized Greek, Hebrew (ש), and superscript modifier letters."}
+{"type": "script_asian_mixed", "value": "葊", "comment": "Han character (CJK Unified Ideograph)."}
+{"type": "ipa_phonetic", "value": "ᵖān ᴀ ᡭ ᴀᵒ ᴣ ᴀ", "comment": "Phonetic symbols and sub/superscript modifiers."}
+{"type": "language_korean", "value": "yeon", "comment": "Romanization of Korean syllable."}
+{"type": "language_latin", "value": "infᾰ ᶰ ḋ ᴟᵃ ὇ ᵉ ᴟᵀ ᴀ ᵗ ᵗᶀ ᵗ", "comment": "Latin fragment 'inf' mixed with phonetic/special symbols."}
+{"type": "language_english", "value": "up", "comment": "English preposition/adverb."}
+{"type": "language_korean", "value": "까요", "comment": "Romanized Korean ending particle."}
+{"type": "special_character", "value": "ʺ'-ᴯᵉ", "comment": "Quotation marks and various phonetic modifiers."}
+{"type": "script_georgian", "value": "ო", "comment": "Standard Georgian letter 'O' ('On')."}
+{"type": "stt_metadata", "value": "strong andble Chevy", "comment": "Transcribed words, likely a brand name, with an error ('andble')."}
+{"type": "stt_metadata", "value": "words with Allegro impression", "comment": "STT system attempting to capture vocal style metadata."}
+{"type": "script_khmer", "value": "ប", "comment": "Khmer letter 'Ba'."}
+{"type": "stt_metadata", "value": "discontin", "comment": "Transcribed fragment, possibly 'discontinued' or 'discontinuity'."}
+{"type": "script_georgian", "value": "ᅠ", "comment": "Hangul Filler Character (used for formatting, often invisible)."}
+{"type": "script_georgian", "value": "ო ი ი ი კ ა", "comment": "Run of Georgian letters 'O', 'I', 'K', 'A'."}
+{"type": "ipa_phonetic", "value": "ʁ", "comment": "IPA symbol for voiced uvular fricative."}
+{"type": "script_lao_error", "value": "ធი.", "comment": "Lao letter 'Tho Samphan' mixed with Georgian and period. Likely an encoding error."}
+{"type": "ipa_phonetic", "value": "ʃieŌ", "comment": "IPA symbol 'sh' with a Latin/Superscript mix."}
+{"type": "language_english", "value": "hardware.", "comment": "English noun."}
+{"type": "ipa_phonetic", "value": "ʁ", "comment": "IPA symbol (repeated)."}
+{"type": "stt_metadata", "value": "NARRATOR X", "comment": "STT metadata or dramatic script designation."}
+{"type": "script_georgian", "value": "ა ი ი ი ი ი კ", "comment": "Run of Georgian letters."}
+{"type": "language_english_run", "value": "the", "comment": "Highly repetitive, long run of the English word 'the', suggesting a transcription loop on a repetitive sound."}{"type": "Georgian_Mix_Line", "content": "Ⴭ რ bowling ვ ღ მ მ ი რ ჱ ღ ი ጔ烋 ღ ჱ ხ ნ ხ 廦 Ⴠ რ გ ა Á ი ნ ღ ნ ი რ ი ი ნ ყ მ ი ს", "notes": "Mix of modern/archaic Georgian, English, Ethiopic, CJK, and accented Latin characters."}
+{"type": "Separator", "content": ">>"}
+{"type": "Georgian_Mix_Line", "content": "უ რ რ ღ ღ რ მ ა ი ძ მ ღ ტ ვ ვ ი ხ ი უი ყ თ strawberry", "notes": "Mix of modern Georgian and English word."}
+{"type": "Separator", "content": ">>"}
+{"type": "Phrase_Mixed_Language", "content": "* Bendice видите him or her not.", "notes": "Mix of English, Spanish ('Bendice'), and a Slavic word ('видите') transliteration."}
+{"type": "Sign_Instruction", "content": "Sign 'Liam'", "notes": "Instruction followed by a name."}
+{"type": "Sign_Instruction_Repetitive", "content": "Sign Rock", "count": 37, "notes": "Instruction repeated thirty-seven times."}
+{"type": "Proper_Noun_German", "content": "Landesregierung", "notes": "German word for 'state government'."}
+{"category": "Language", "language": "English", "words": ["Welcome", "ir", "little", "opportunity", "of", "to", "do", "have", "a", "hy", "mon", "we", "ha", "Ma", "Click", "Light", "Go", "sometimes", "anim", "housekeeping", "sub", "ew"], "notes": "'anim' is likely an abbreviation of 'animal' or 'animation'; 'ew' is also identified as English."}
+{"category": "Language", "language": "Georgian (Kartvelian)", "script": "Mkhedruli", "characters": [{"char": "Ⴭ", "name": "Georgian Letter Ain", "unicode": "U+10CD", "notes": "Rare/archaic/decorative."}, {"char": "გ", "name": "Gani", "sound": "g"}, {"char": "მ", "name": "Mani", "sound": "m"}, {"char": "ლ", "name": "Lasi", "sound": "l"}]}
+{"category": "Language", "language": "Korean", "script": "Hangul", "characters": "만들 (mandeul)", "meaning": "to make/to create (base verb form)"}
+{"category": "Language", "language": "Hebrew/Yiddish", "script": "Hebrew", "character": "ױ", "name": "Yiddish Double Vov", "unicode": "U+05F2", "function": "Represents the vowel sound /oy/"}
+{"category": "Language", "language": "Greek/Coptic", "characters": [{"char": "σ", "name": "Small Letter Sigma", "unicode": "U+03C3"}, {"char": "η", "name": "Small Letter Eta", "unicode": "U+03B7"}, {"char": "ε", "name": "Small Letter Epsilon", "unicode": "U+03B5"}], "notes": "'skeση' may be a fragmented or misspelled Greek word related to 'σχέση' (schesi), meaning 'relationship/connection'."}
+{"category": "Symbol", "type": "Punctuation/Typographical", "symbols": [",", ".", "-", "["]}
+{"category": "Symbol", "type": "Mathematical/Operator", "symbols": [{"symbol": "=", "name": "Equals sign"}, {"symbol": "o", "name": "Letter 'o' (used as zero/placeholder)"}, {"symbol": "14", "name": "Number fourteen"}]}
+{"category": "Symbol", "type": "Directional/Quotation", "symbols": [">>", "--"]}
+{"category": "Symbol", "type": "Placeholder/Atypical", "notes": "The letters 'O' and 'a' are repeated, sometimes isolated. The sequences ' = o ', ' -- o ', and ' o ' form a patterned, rhythmic, or code-like structure."}
