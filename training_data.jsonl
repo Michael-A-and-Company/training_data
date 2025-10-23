@@ -1,4 +1,4 @@
-u{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
+{ "LetterType": "Latin", "Case": "Capital", "Character": "E", "Description": "E with a circumflex below", "Symbol": "Ḕ" }
 { "LetterType": "Latin", "Case": "Small", "Character": "C", "Description": "Superscript Latin small letter C", "Symbol": "ᶜ" }
 { "LetterType": "Greek", "Case": "Small", "Character": "Epsilon", "Description": "Epsilon with a rough breathing mark and grave accent", "Symbol": "ἒ" }
 { "Topic": "International Phonetic Alphabet (IPA)", "Description": "An alphabetic system of phonetic notation developed in the 19th century by British and French language teachers and linguists. Its purpose is to accurately represent the sounds of spoken language", "Usage": "Widely used among linguists, phoneticians, and language teachers", "Example": { "EnglishWord": "ship", "IPARepresentation": "/ʃɪp/", "SoundMeaning": { "/ʃ/": "sh sound", "/ɪ/": "short i sound", "/p/": "p sound" } } }
