@@ -1384,3 +1384,24 @@
 {"topic": "Non-Linguistic Elements", "type": "Punctuation and Special Characters", "symbol": "[ and ]", "role": "Used typically to denote non-speech elements or commentary, but appear broken up."}
 {"topic": "Non-Linguistic Elements", "type": "Digits", "examples": ["10", "4", "2", "5"], "role": "Interspersed with text, likely representing timings, quantities, or list items."}
 {"topic": "Overall Categorization", "content": "The chaotic mix of natural language (English, German, Russian, Chinese) and formatting artifacts (>>, -, .) makes this text not interpretable as a single coherent document. It's best categorized as multilingual, multi-script, and heavily corrupted raw data."}
+{"id": 1, "type": "fragment", "content": "n tu p u p y"}
+{"id": 2, "type": "language", "label": "spanish", "content": "claro"}
+{"id": 3, "type": "phonetic", "content": "p n cos n q g a b dal"}
+{"id": 4, "type": "fragment", "content": "tu t my curt su"}
+{"id": 5, "type": "creative_term", "content": "paint t composition"}
+{"id": 6, "type": "cjk_char", "content": "概"}
+{"id": 7, "type": "action", "content": "t r attacked bu no"}
+{"id": 8, "type": "temporal", "content": "oct"}
+{"id": 9, "type": "phonetic", "content": "burl ru k b d d eh n t"}
+{"id": 10, "type": "fragment", "content": "ki ly u ach"}
+{"id": 11, "type": "command", "content": "delete iy ges u u direct"}
+{"id": 12, "type": "ui_ux", "content": "pan ups didn't res nay at"}
+{"id": 13, "type": "noun", "content": "childhood mechanism engrave sketch ad"}
+{"id": 14, "type": "instruction", "content": "fill with u want to dots text"}
+{"id": 15, "type": "dialogue", "content": "yes didn't tie says dis lo"}
+{"id": 16, "type": "question", "content": "not u how"}
+{"id": 17, "type": "proper_noun", "content": "u pal martin"}
+{"id": 18, "type": "coordinates", "values": [2, 2]}
+{"id": 19, "type": "data_string", "content": "u u o u 3 u 2"}
+{"id": 20, "type": "language", "label": "german", "content": "werden"}
+{"id": 21, "type": "padding_sequence", "char": "u", "count": 50}
