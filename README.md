@@ -2,7 +2,7 @@ Training Data Repository
 
 This repository contains a dataset in **JSONL (JSON Lines)** format designed for fine-tuning machine learning models. Each line in the file represents a standalone training instance, making it memory-efficient and easy to stream during training processes.
 
-#Table of Contents
+Table of Contents
 
 * [Dataset Overview](https://www.google.com/search?q=%23dataset-overview)
 * [File Format](https://www.google.com/search?q=%23file-format)
@@ -12,7 +12,7 @@ This repository contains a dataset in **JSONL (JSON Lines)** format designed for
 
 ---
 
-## 🔍 Dataset Overview
+Dataset Overview
 
 The dataset consists of high-quality, labeled examples curated for fine-tuning Large Language Models (LLMs) or other supervised learning tasks. By using the JSONL format, the dataset avoids the overhead of loading a single massive JSON array, allowing for:
 
@@ -20,11 +20,11 @@ The dataset consists of high-quality, labeled examples curated for fine-tuning L
 * Scalability:** Easily handle datasets larger than your system's RAM.
 * Compatibility:** Native support in frameworks like OpenAI, Hugging Face, and PyTorch.
 
-## 📄 File Format
+File Format
 
 Each line of the dataset is a valid JSON object.
 
-### Example Entry
+Example Entry
 
 ```json
 {
@@ -35,7 +35,7 @@ Each line of the dataset is a valid JSON object.
 
 ```
 
-## 🏗️ Dataset Structure
+Dataset Structure
 
 The objects in this repository generally follow the standard Instruction/Response schema:
 
@@ -47,7 +47,7 @@ The objects in this repository generally follow the standard Instruction/Respons
 
 ---
 
-## 🚀 How to Use the Dataset
+How to Use the Dataset
 
 To read this data in Python, you can use the following snippet:
 
@@ -80,12 +80,12 @@ cd ~/training_data
 ```
 
 
-2. **Open the file** in a text editor (e.g., `nano README.md`).
-3. **Paste the text** provided above and save.
-4. **Push the changes** back to GitHub:
+2. Open the file in a text editor (e.g., `nano README.md`).
+3. Paste the text provided above and save.
+4. Push the changes back to GitHub:
 ```bash
 git add README.md
-git commit -m "Update README with professional formatting"
+git commit -m "Update"
 git push origin main
 
 ```
