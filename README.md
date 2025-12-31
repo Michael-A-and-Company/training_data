@@ -16,9 +16,9 @@ Dataset Overview
 
 The dataset consists of high-quality, labeled examples curated for fine-tuning Large Language Models (LLMs) or other supervised learning tasks. By using the JSONL format, the dataset avoids the overhead of loading a single massive JSON array, allowing for:
 
-* Faster I/O:** Read and process one line at a time.
-* Scalability:** Easily handle datasets larger than your system's RAM.
-* Compatibility:** Native support in frameworks like OpenAI, Hugging Face, and PyTorch.
+Faster I/O: Read and process one line at a time.
+Scalability: Easily handle datasets larger than your system's RAM.
+Compatibility: Native support in frameworks like OpenAI, Hugging Face, and PyTorch.
 
 File Format
 
@@ -65,15 +65,15 @@ print(f"Loaded {len(data)} training examples.")
 
 ---
 
-## License
+License
 
 This dataset is distributed under the **MIT License**. Please refer to the [LICENSE](https://www.google.com/search?q=LICENSE) file for more details.
 
 ---
 
-## How to Save to Your Repository
+How to Save to Your Repository
 
-1. **Open your terminal** and navigate to your local repository:
+1. Open your terminal** and navigate to your local repository:
 ```bash
 cd ~/training_data
 
