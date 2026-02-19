@@ -1410,3 +1410,13 @@
 {"category": "Diversity of Languages", "scripts": ["Indo-European", "Slavic", "East Asian", "Southeast Asian", "Classical"], "examples": {"Kenenhrur": ["ajsflh"], "Russian": ["ибо", "новые"], "Korean": ["이크업", "같아"]}}
 {"category": "Specialized Symbols", "types": ["Religious", "Technical", "Abstract"], "symbols": ["ﷻ", "FEA", "ÿÿ", "●"]}
 {"category": "Linguistic Fragments", "mappings": {"lvania": "Pennsylvania", "triang": "Triangle", "pept": "Peptide", "ingt": "Washington", "cific": "Specific"}}
+{"index": 0, "type": "greeting", "content": "āla"}
+{"index": 1, "type": "descriptor", "content": "nuevo"}
+{"index": 2, "type": "category", "content": "vlog"}
+{"index": 3, "type": "content_tag", "content": "hacks"}
+{"index": 4, "type": "subject", "content": "rice"}
+{"index": 5, "type": "alert", "status": "active", "label": "alarm"}
+{"index": 6, "type": "alert", "status": "active", "label": "alarm"}
+{"index": 7, "type": "alert", "status": "active", "label": "alarm"}
+{"index": 8, "type": "alert", "status": "active", "label": "alarm"}
+{"index": 9, "type": "alert", "status": "active", "label": "alarm"}
