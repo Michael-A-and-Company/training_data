@@ -1420,3 +1420,10 @@
 {"index": 7, "type": "alert", "status": "active", "label": "alarm"}
 {"index": 8, "type": "alert", "status": "active", "label": "alarm"}
 {"index": 9, "type": "alert", "status": "active", "label": "alarm"}
+{"layer": "Linguistic", "element": "Georgian Mkhedruli", "content": "ღ მ ი", "function": "Asemic aesthetics and phonetic 'trailing' (stuttering)."}
+{"layer": "Linguistic", "element": "Japanese Katakana", "content": "ゲ (ge)", "function": "Technical intrusion or 'glitch' insertion."}
+{"layer": "Linguistic", "element": "English", "content": "Now, especially now... I've closed off.", "function": "The emotional anchor; the legible 'voice' behind the noise."}
+{"layer": "Technical", "element": "Replacement Character", "content": "", "function": "Symbolizes data corruption or parts of the self 'lost in translation'."}
+{"layer": "Technical", "element": "Metadata Tag", "content": "[ley]", "function": "Represents a rhythmic loop, a command line, or a recurring variable."}
+{"layer": "Symbolic", "element": "ASCII Heart Meta-use", "content": "ღ", "function": "Visual double-meaning representing both a heart and a guttural consonant."}
+{"layer": "Aesthetic", "element": "Glitch Poetics", "content": "Hybridization", "function": "Mimics dissociation and the breakdown of human communication via digital mediums."}
