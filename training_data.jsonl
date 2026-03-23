@@ -1427,3 +1427,10 @@
 {"layer": "Technical", "element": "Metadata Tag", "content": "[ley]", "function": "Represents a rhythmic loop, a command line, or a recurring variable."}
 {"layer": "Symbolic", "element": "ASCII Heart Meta-use", "content": "ღ", "function": "Visual double-meaning representing both a heart and a guttural consonant."}
 {"layer": "Aesthetic", "element": "Glitch Poetics", "content": "Hybridization", "function": "Mimics dissociation and the breakdown of human communication via digital mediums."}
+{"category": "Language", "label": "Chinese (Mandarin)", "content": "再见", "transliteration": "Zàijiàn", "meaning": "Goodbye", "notes": "A standard, polite way to part ways."}
+{"category": "Language", "label": "Russian (Cyrillic)", "content": "геро", "transliteration": "geroy/heroin", "meaning": "Hero or Heroin (fragment)", "notes": "An incomplete root of a larger word."}
+{"category": "Language", "label": "Hebrew", "content": "שות", "transliteration": "Shut/Shotaf", "meaning": "Partner or Q&A (fragment)", "notes": "Likely truncated; could be an acronym or the start of 'partner'."}
+{"category": "Language", "label": "English", "content": ["ests", "frying", "broken"], "meaning": "Various", "notes": "Includes the word 'broken' repeated over 70 times."}
+{"category": "Language", "label": "Punjabi (Gurmukhi)", "content": "ਸ", "transliteration": "Sappa", "meaning": "The letter 'S'", "notes": "The character immediately preceding the repetition loop."}
+{"category": "Technical", "label": "Symbol", "content": "", "name": "Replacement Character", "meaning": "Unicode mapping error", "notes": "Occurs when bytes cannot be mapped to a character set, usually a UTF-8 conflict."}
+{"category": "Technical", "label": "Pattern", "content": "Loop", "behavior": "Infinite repetition", "term": "Buffer overflow / Logic error", "notes": "The repetition of 'broken' suggests the text became literal in its output failure."}
