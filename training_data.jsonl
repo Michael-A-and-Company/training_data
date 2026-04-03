@@ -1434,3 +1434,10 @@
 {"category": "Language", "label": "Punjabi (Gurmukhi)", "content": "ਸ", "transliteration": "Sappa", "meaning": "The letter 'S'", "notes": "The character immediately preceding the repetition loop."}
 {"category": "Technical", "label": "Symbol", "content": "", "name": "Replacement Character", "meaning": "Unicode mapping error", "notes": "Occurs when bytes cannot be mapped to a character set, usually a UTF-8 conflict."}
 {"category": "Technical", "label": "Pattern", "content": "Loop", "behavior": "Infinite repetition", "term": "Buffer overflow / Logic error", "notes": "The repetition of 'broken' suggests the text became literal in its output failure."}
+{"source": "Dartmouth Reference", "content": "Referencing of Dartmouth订 [IN 분] ಸasil ಕಗಳ ಕೊವೂ ಕ ಗultural ಙತವೂ ಅ಺ತ ರ ಽಶಿಲ್  ಚನರಛಯ ಸ"}
+{"category": "chemical_terms", "tokens": ["mernуди", "jon lithium", "jon lithium", "jon ammon", "jon ammon", "jon aluminium", "jon aluminium", "jon aluminium"]}
+{"category": "multilingual_fragments", "scripts": ["Cyrillic", "Latin", "Hebrew"], "text": "возвascינו gallery discourse defense ಟೂಟ್ası ್೅ನ್ Bridểu ಳ್ಿರ Jill chlagenನು"}
+{"category": "legal_academic", "tokens": ["guarantees", "JFteenthㅠ", "diligence 1985"], "year": 1985}
+{"script": "Kannada", "content": "ಲ್kov ವಿಳು ಎಲ್ ದ್ ಸರೆ ಹಿ ರೆ ಮಿ ಹಡಸಿರ ಸಾಡಲ ಎೋಠಂಳಿವ್ ಬೋಫಿವ್ತೆ ಆಜುಶು ಾೆನಿಸಾಡಿಸಿವ್"}
+{"script": "Devanagari_Vedic", "symbols": ["ॐ", "ॐ", "ॐ", "ॗ", "॑", "ौ", "ग़", "ज़", "ौ", "॓"]}
+{"pattern": "repetition", "symbol": "ॐ", "count": "multiple", "context": "religious/spiritual"}
