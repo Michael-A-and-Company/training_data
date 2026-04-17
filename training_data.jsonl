@@ -1441,3 +1441,14 @@
 {"script": "Kannada", "content": "ಲ್kov ವಿಳು ಎಲ್ ದ್ ಸರೆ ಹಿ ರೆ ಮಿ ಹಡಸಿರ ಸಾಡಲ ಎೋಠಂಳಿವ್ ಬೋಫಿವ್ತೆ ಆಜುಶು ಾೆನಿಸಾಡಿಸಿವ್"}
 {"script": "Devanagari_Vedic", "symbols": ["ॐ", "ॐ", "ॐ", "ॗ", "॑", "ौ", "ग़", "ज़", "ौ", "॓"]}
 {"pattern": "repetition", "symbol": "ॐ", "count": "multiple", "context": "religious/spiritual"}
+{"category": "Languages and Scripts", "sub_category": "Traditional Chinese", "content": "字幕 (Zìmù)", "meaning": "Subtitles"}
+{"category": "Languages and Scripts", "sub_category": "Traditional Chinese", "content": "三馬兄 (Sānmǎ xiōng)", "meaning": "Brother Sanma (username or credit)"}
+{"category": "Languages and Scripts", "sub_category": "Traditional Chinese", "content": "謝謝大家收看 (Xièxiè dàjiā shōukàn)", "meaning": "Thank you everyone for watching"}
+{"category": "Languages and Scripts", "sub_category": "Simplified Chinese", "content": "刘仁 (Liú Rén)", "meaning": "A Chinese name"}
+{"category": "Languages and Scripts", "sub_category": "English", "content": "put", "meaning": "Functional word repeated alongside the name Liu Ren"}
+{"category": "Character Analysis", "block_name": "Sanma Block", "description": "Repetitive subtitle credit lines using a colon separator."}
+{"category": "Character Analysis", "block_name": "Liu Ren Block", "description": "Name followed by 'put', likely a technical glitch or script command error."}
+{"category": "Character Analysis", "block_name": "The Outro", "description": "Standard concluding phrase for Chinese-language broadcasts."}
+{"category": "Symbols and Formatting", "symbol": ":", "function": "Separator between category and responsible party."}
+{"category": "Symbols and Formatting", "symbol": "!", "function": "Friendly concluding punctuation."}
+{"category": "Symbols and Formatting", "feature": "Repetition", "interpretation": "Indicates a log file, sync error, or database copy-paste glitch."}
