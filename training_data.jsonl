@@ -1452,3 +1452,588 @@
 {"category": "Symbols and Formatting", "symbol": ":", "function": "Separator between category and responsible party."}
 {"category": "Symbols and Formatting", "symbol": "!", "function": "Friendly concluding punctuation."}
 {"category": "Symbols and Formatting", "feature": "Repetition", "interpretation": "Indicates a log file, sync error, or database copy-paste glitch."}
+{"code": "AAF", "meaning": "amongst"}
+{"code": "A-AI-OM", "meaning": "amoungst us"}
+{"code": "AAIOM", "meaning": "amongst"}
+{"code": "AAI", "meaning": "amongst"}
+{"code": "AALA", "meaning": "placed"}
+{"code": "AAO", "meaning": "amongst"}
+{"code": "ABAI", "meaning": "stooping"}
+{"code": "ABRAMG", "meaning": "prepared"}
+{"code": "ABRAMIG", "meaning": "prepared"}
+{"code": "ACAM", "meaning": ".7699"}
+{"code": "ADGT", "meaning": "can"}
+{"code": "ADNA", "meaning": "obedience"}
+{"code": "ADOHI", "meaning": "kingdom"}
+{"code": "ADROCH", "meaning": "mount"}
+{"code": "AF", "meaning": "19"}
+{"code": "AFFA", "meaning": "empty"}
+{"code": "AG", "meaning": "none"}
+{"code": "ALAR", "meaning": "settled"}
+{"code": "ALDI", "meaning": "gathering"}
+{"code": "ALDON", "meaning": "gird (up)"}
+{"code": "ALI", "meaning": "successively"}
+{"code": "A", "meaning": "6"}
+{"code": "ALLAR", "meaning": "bind"}
+{"code": "A-M-IPZI", "meaning": "(i) fastened"}
+{"code": "AMIRAN", "meaning": "yourselves"}
+{"code": "AMMA", "meaning": "cursed"}
+{"code": "ANANAEL", "meaning": "secret wisdom"}
+{"code": "ANGELARD", "meaning": "thoughts"}
+{"code": "APILA", "meaning": "liveth"}
+{"code": "AQLO", "meaning": "in"}
+{"code": "AR", "meaning": "that"}
+{"code": "AS", "meaning": "was"}
+{"code": "ATH", "meaning": "works"}
+{"code": "ATRAAH", "meaning": "girdles"}
+{"code": "AVAVAGO", "meaning": "thunders"}
+{"code": "A", "meaning": "6"}
+{"code": "AVAVAGO", "meaning": "thunders"}
+{"code": "AVINY", "meaning": "millstones"}
+{"code": "AZIAGIAR", "meaning": "harvest"}
+{"code": "AZIAZOR", "meaning": "likeness"}
+{"code": "BABAGE", "meaning": "south"}
+{"code": "BABALON", "meaning": "wicked"}
+{"code": "BAEOUIB", "meaning": "name righteousness"}
+{"code": "BAGHIE", "meaning": "fury"}
+{"code": "BAGLE", "meaning": "for"}
+{"code": "BAHAL", "meaning": "cried"}
+{"code": "BALIE", "meaning": "salt"}
+{"code": "BALIT", "meaning": "just"}
+{"code": "BALTIM", "meaning": "justice"}
+{"code": "BALTOH", "meaning": "righteous"}
+{"code": "BALT", "meaning": "justice"}
+{"code": "BALTOHA", "meaning": "righteousness"}
+{"code": "BALTOH", "meaning": "righteousness"}
+{"code": "BALZARG", "meaning": "stewards"}
+{"code": "BASGIM", "meaning": "day"}
+{"code": "BAZM", "meaning": "mid-day"}
+{"code": "BIA", "meaning": "(?)"}
+{"code": "BIAH", "meaning": "stand"}
+{"code": "BIALO", "meaning": "voice"}
+{"code": "BI-EN", "meaning": "unto my voice"}
+{"code": "BIGLIAD", "meaning": "comforter"}
+{"code": "BLANS", "meaning": "harboured"}
+{"code": "BLIARD", "meaning": "comfort"}
+{"code": "BLIAR", "meaning": "comfort"}
+{"code": "BLIOR", "meaning": "comforters"}
+{"code": "BLIORA", "meaning": "comfort"}
+{"code": "BLIORAX", "meaning": "comfort"}
+{"code": "BLIORS", "meaning": "comfort"}
+{"code": "BLIORT", "meaning": "comfort"}
+{"code": "BOGPA", "meaning": "reigneth"}
+{"code": "BOLP", "meaning": "be thou"}
+{"code": "BRANSG", "meaning": "guard"}
+{"code": "BRGDO", "meaning": "sleep"}
+{"code": "BRIN", "meaning": "have"}
+{"code": "BRINT", "meaning": "hast"}
+{"code": "BRINTS", "meaning": "truth"}
+{"code": "B-RI-TA", "meaning": "have talked"}
+{"code": "BUSD", "meaning": "glory"}
+{"code": "BUSDIR", "meaning": "glory"}
+{"code": "BUTMON", "meaning": "mouth"}
+{"code": "BUTMONI", "meaning": "mouths"}
+{"code": "CAB", "meaning": "rod"}
+{"code": "CA-CACOM", "meaning": "flourish"}
+{"code": "CACRG", "meaning": "until"}
+{"code": "CAFAFAM", "meaning": "abiding"}
+{"code": "CAMLIAX", "meaning": "spake"}
+{"code": "CANAL", "meaning": "workmen (?)"}
+{"code": "CAOSGA", "meaning": "earth"}
+{"code": "CAOSG", "meaning": "earth"}
+{"code": "CAOSGI", "meaning": "earth"}
+{"code": "CAOSGIN", "meaning": "earth"}
+{"code": "CAOSGO", "meaning": "earth"}
+{"code": "CAOSGON", "meaning": "earth"}
+{"code": "CAPIMALI", "meaning": "successively"}
+{"code": "CAPIMAON", "meaning": "numbers of time"}
+{"code": "CAP-MI", "meaning": "power"}
+{"code": "CARBAF", "meaning": "sink"}
+{"code": "CASARM", "meaning": "made"}
+{"code": "(e)CA", "meaning": "therefore"}
+{"code": "CASARMA", "meaning": "whom"}
+{"code": "CASARMAN", "meaning": "under"}
+{"code": "CASARMG", "meaning": "who"}
+{"code": "CASARMI", "meaning": "(under) whom"}
+{"code": "CHIA", "meaning": "are"}
+{"code": "CHILDAO", "meaning": "diamonds"}
+{"code": "CHIRLAN", "meaning": "rejoiceth"}
+{"code": "CHIS", "meaning": "are"}
+{"code": "CHISA", "meaning": "are"}
+{"code": "CHIS-GE", "meaning": "arenot"}
+{"code": "CHIS", "meaning": "are"}
+{"code": "CHISO", "meaning": "shall"}
+{"code": "CIAL", "meaning": "29996"}
+{"code": "CIAOFI", "meaning": "terror"}
+{"code": "CICLE", "meaning": "mysteries"}
+{"code": "CICLES", "meaning": "mysteries"}
+{"code": "CINXIR", "meaning": "mingles"}
+{"code": "CNILA", "meaning": "blood"}
+{"code": "COCASB", "meaning": "ages (time)"}
+{"code": "COCASG", "meaning": "times"}
+{"code": "COLLAL", "meaning": "sleeves"}
+{"code": "COMMAH", "meaning": "trussed"}
+{"code": "COMO", "meaning": "window"}
+{"code": "COMSELHA", "meaning": "circle"}
+{"code": "CONST", "meaning": "thunders"}
+{"code": "CORAXO", "meaning": "thunders"}
+{"code": "CORMFA", "meaning": "numbers"}
+{"code": "CORMF", "meaning": "number"}
+{"code": "CORMP", "meaning": "numbered"}
+{"code": "CORS", "meaning": "such"}
+{"code": "C", "meaning": "unto"}
+{"code": "C", "meaning": "4"}
+{"code": "CORSI", "meaning": "such"}
+{"code": "CRIP", "meaning": "but"}
+{"code": "CRO-OD-ZI", "meaning": "second  beginning"}
+{"code": "CRO-ODZI", "meaning": "beginning"}
+{"code": "CRP", "meaning": "but"}
+{"code": "C", "meaning": "ye"}
+{"code": "C", "meaning": "with"}
+{"code": "D", "meaning": "into"}
+{"code": "D", "meaning": "third"}
+{"code": "DAOX", "meaning": "5678"}
+{"code": "DARBS", "meaning": "obey"}
+{"code": "DA", "meaning": "there"}
+{"code": "DARG", "meaning": "6739"}
+{"code": "DARSAR", "meaning": "wherefore"}
+{"code": "DAX", "meaning": "loins"}
+{"code": "DAZIS", "meaning": "heads"}
+{"code": "DAZIZ", "meaning": "heads"}
+{"code": "DE", "meaning": "your"}
+{"code": "DIU", "meaning": "angle (?)"}
+{"code": "DLUGA", "meaning": "giving"}
+{"code": "DLUGAM", "meaning": "given"}
+{"code": "DLUGAR", "meaning": "giving"}
+{"code": "DOALIM", "meaning": "sin"}
+{"code": "DODS", "meaning": "vexing"}
+{"code": "DODSEH", "meaning": "vexation"}
+{"code": "DO-O-A-IN", "meaning": "his name"}
+{"code": "DO-O-A-IP", "meaning": "in the name"}
+{"code": "DO-O-I-A", "meaning": "in the name"}
+{"code": "DORPHA", "meaning": "looked"}
+{"code": "DORPHAL", "meaning": "looking"}
+{"code": "DOSIG", "meaning": "night"}
+{"code": "DRILPA", "meaning": "great"}
+{"code": "DRILPA", "meaning": "great"}
+{"code": "DRILPI", "meaning": "greater (than)"}
+{"code": "DRIX", "meaning": "bring"}
+{"code": "DROLN", "meaning": "any"}
+{"code": "DR", "meaning": "which"}
+{"code": "DS", "meaning": "which"}
+{"code": "ECRIN", "meaning": "praise"}
+{"code": "ED-NAS", "meaning": "receivers"}
+{"code": "EFAFAFE", "meaning": "vial"}
+{"code": "EF", "meaning": "visit (us)"}
+{"code": "ELO", "meaning": "first"}
+{"code": "EL", "meaning": "first"}
+{"code": "EM", "meaning": "nine"}
+{"code": "EMETGIS", "meaning": "seal"}
+{"code": "EMNA", "meaning": "herein"}
+{"code": "EMOD", "meaning": "8763"}
+{"code": "ENAY", "meaning": "(lord?) (hath?)"}
+{"code": "ENAY", "meaning": "lord"}
+{"code": "EOLIS", "meaning": "making"}
+{"code": "EOPHAN", "meaning": "lamentation"}
+{"code": "ERAN", "meaning": "6332"}
+{"code": "ERM", "meaning": "with"}
+{"code": "E", "meaning": "first"}
+{"code": "ETHAMZA", "meaning": "covered"}
+{"code": "ETHARZI", "meaning": "peace"}
+{"code": "F", "meaning": "visit"}
+{"code": "FAAIP", "meaning": "voices"}
+{"code": "FABOAN", "meaning": "poison"}
+{"code": "FAFEN", "meaning": "from"}
+{"code": "FAFEN", "meaning": "train"}
+{"code": "FAONTS", "meaning": "dwelling"}
+{"code": "FARZM", "meaning": "lifted"}
+{"code": "GAH", "meaning": "spirits"}
+{"code": "GAH", "meaning": "glory"}
+{"code": "GA", "meaning": "31"}
+{"code": "G-CHIS-GE", "meaning": "are not"}
+{"code": "GE", "meaning": ""}
+{"code": "GEH", "meaning": "art"}
+{"code": "GE-IAD", "meaning": "lord"}
+{"code": "GIGIPAH", "meaning": "breath"}
+{"code": "GIVI", "meaning": "stronger"}
+{"code": "GIZYAX", "meaning": "earthquakes"}
+{"code": "G-MACALZA", "meaning": "power or presence"}
+{"code": "GNAY", "meaning": "doth"}
+{"code": "GNETAAB", "meaning": "governments"}
+{"code": "GNONP", "meaning": "garnished"}
+{"code": "GOHE", "meaning": "saith"}
+{"code": "GOHIA", "meaning": "we say"}
+{"code": "GOHO", "meaning": "saith"}
+{"code": "GOHOLOR", "meaning": "lift"}
+{"code": "GOHOL", "meaning": "saying"}
+{"code": "GOHON", "meaning": "have spoken"}
+{"code": "GOHUS", "meaning": "(I) say"}
+{"code": "GONO", "meaning": "faith"}
+{"code": "GRAA", "meaning": "moon"}
+{"code": "G", "meaning": "with (?)"}
+{"code": "GROSB", "meaning": "sting"}
+{"code": "HAMI", "meaning": "creatures"}
+{"code": "HARG", "meaning": "planted"}
+{"code": "HE", "meaning": "song"}
+{"code": "HOATH", "meaning": "worshipper"}
+{"code": "HOLDO", "meaning": "groaned"}
+{"code": "HOL-Q", "meaning": "measureth"}
+{"code": "HOLQ", "meaning": "measured"}
+{"code": "HOM", "meaning": "liveth"}
+{"code": "HOMIL", "meaning": "true"}
+{"code": "HOMIN", "meaning": "age"}
+{"code": "HUBAR", "meaning": "lamps"}
+{"code": "HUBARDO", "meaning": "lanterns"}
+{"code": "I", "meaning": "is"}
+{"code": "IADPIL", "meaning": "to him"}
+{"code": "IAD", "meaning": "god"}
+{"code": "IAIADIX", "meaning": "honor"}
+{"code": "IA-IAL", "meaning": "conclude"}
+{"code": "IAIDA", "meaning": "the highest"}
+{"code": "IA-IDON", "meaning": "all powerful"}
+{"code": "IALPIR", "meaning": "flames"}
+{"code": "IALPON", "meaning": "burn"}
+{"code": "IALPOR", "meaning": "flaming"}
+{"code": "IAL-PRG", "meaning": "burning flames"}
+{"code": "IAL-PRT", "meaning": "flame"}
+{"code": "IALPRT", "meaning": "flame"}
+{"code": "IAOD", "meaning": "beginning"}
+{"code": "IEHUSOZ", "meaning": "mercies"}
+{"code": "ILONON", "meaning": "branches"}
+{"code": "ILS", "meaning": "thou"}
+{"code": "ILSI", "meaning": "thee"}
+{"code": "IL", "meaning": "thy"}
+{"code": "IM-VA-MAR", "meaning": "apply"}
+{"code": "IN", "meaning": "mine"}
+{"code": "INSI", "meaning": "walkest"}
+{"code": "IO-IAD", "meaning": "(that liveth forever)"}
+{"code": "IPAM", "meaning": "beginning"}
+{"code": "IPAMIS", "meaning": "end"}
+{"code": "I", "meaning": "is"}
+{"code": "IP", "meaning": "shall"}
+{"code": "IP", "meaning": "not"}
+{"code": "IRGIL", "meaning": "how many"}
+{"code": "ISRO", "meaning": "promise"}
+{"code": "I-ZA-ZAZ", "meaning": "have framed(?)"}
+{"code": "I", "meaning": "in"}
+{"code": "IZIZOP", "meaning": "(highest) vessels"}
+{"code": "I", "meaning": "is"}
+{"code": "I", "meaning": "all"}
+{"code": "I", "meaning": "they"}
+{"code": "LADNAH", "meaning": "ark of knowledge"}
+{"code": "LAIAD", "meaning": "secrets"}
+{"code": "LAP", "meaning": "for"}
+{"code": "LAP", "meaning": "things"}
+{"code": "LA", "meaning": "first"}
+{"code": "LAP", "meaning": "i am"}
+{"code": "LARAG", "meaning": "neither"}
+{"code": "LAS", "meaning": "rich"}
+{"code": "LI", "meaning": "the"}
+{"code": "LIMLAL", "meaning": "treasure"}
+{"code": "LOHOLO", "meaning": "shine"}
+{"code": "LOLCIS", "meaning": "buckles"}
+{"code": "LONCHO", "meaning": "fall"}
+{"code": "LONDOH", "meaning": "kingdoms"}
+{"code": "LONSA", "meaning": "everyone"}
+{"code": "LONSHIN", "meaning": "(their) power"}
+{"code": "LONSHI", "meaning": "power"}
+{"code": "LORSLQ", "meaning": "flowers"}
+{"code": "L-O", "meaning": "the first"}
+{"code": "LRING", "meaning": "stir"}
+{"code": "LU", "meaning": "nor"}
+{"code": "L", "meaning": "first"}
+{"code": "LUCAL", "meaning": "north"}
+{"code": "LUCIFTIAN", "meaning": "brightness"}
+{"code": "LU-LA", "meaning": "be"}
+{"code": "LUSD", "meaning": "feet"}
+{"code": "L", "meaning": "one"}
+{"code": "L", "meaning": "first"}
+{"code": "L", "meaning": "5"}
+{"code": "LUSDA", "meaning": "feet"}
+{"code": "LUSDAN", "meaning": "feet"}
+{"code": "LUSDI", "meaning": "feet"}
+{"code": "MAASI", "meaning": "laidup"}
+{"code": "MABZA", "meaning": "robe"}
+{"code": "MAD", "meaning": "your god"}
+{"code": "MADRID", "meaning": "iniquity"}
+{"code": "MALPIRG", "meaning": "fires"}
+{"code": "MALPRG", "meaning": "firey"}
+{"code": "MANIN", "meaning": "mind"}
+{"code": "MA-OF-FAS", "meaning": "not to be measured"}
+{"code": "MAPM", "meaning": "9636"}
+{"code": "MATB", "meaning": "thousand"}
+{"code": "MATORB", "meaning": "echoing"}
+{"code": "MIAM", "meaning": "continuance"}
+{"code": "MIAN", "meaning": "3663"}
+{"code": "MICALP", "meaning": "mightier"}
+{"code": "MICALZO", "meaning": "mighty"}
+{"code": "MICA-OLZ", "meaning": "mighty"}
+{"code": "MICAOLZ", "meaning": "mighty"}
+{"code": "MICMA", "meaning": "behold"}
+{"code": "MIINOAG", "meaning": "corners"}
+{"code": "MIR", "meaning": "torment"}
+{"code": "MIRC", "meaning": "upon"}
+{"code": "MOLVI", "meaning": "surges"}
+{"code": "MOMAO", "meaning": "crown"}
+{"code": "MOMAR", "meaning": "crowned"}
+{"code": "MOM", "meaning": "moss"}
+{"code": "MONONS", "meaning": "heart"}
+{"code": "MOSPLEH", "meaning": "horns"}
+{"code": "MOZ", "meaning": "joy"}
+{"code": "NA-NA-E-EL", "meaning": "pouring"}
+{"code": "NANBA", "meaning": "thorns"}
+{"code": "NAPEA", "meaning": "two-edge sword"}
+{"code": "NAPEAI", "meaning": "swords"}
+{"code": "NAZARTH", "meaning": "pillars (gladness)"}
+{"code": "NAZAVABH", "meaning": "hyacinthine"}
+{"code": "NAZPS", "meaning": "sword"}
+{"code": "NETAAB", "meaning": "government"}
+{"code": "NIDALI", "meaning": "sounds (mighty)"}
+{"code": "NIIS", "meaning": "come"}
+{"code": "NIISO", "meaning": "come (away)"}
+{"code": "NIISO", "meaning": "come"}
+{"code": "NI", "meaning": "8"}
+{"code": "NOAN", "meaning": "become"}
+{"code": "NOAR", "meaning": "become"}
+{"code": "NOAS", "meaning": "become"}
+{"code": "NOBLOH", "meaning": "palms"}
+{"code": "NOCO", "meaning": "servent"}
+{"code": "NOIB", "meaning": "yea"}
+{"code": "NOMIG", "meaning": "even"}
+{"code": "NONCI", "meaning": "you"}
+{"code": "NONCP", "meaning": "place"}
+{"code": "NOQOD", "meaning": "(thy) servent"}
+{"code": "NOQODI", "meaning": "ministers"}
+{"code": "NOQOL", "meaning": "servents"}
+{"code": "NOR-MOLAP", "meaning": "sons of men"}
+{"code": "NOROMI", "meaning": "sons"}
+{"code": "NOR-QUASAHI", "meaning": "sons of pleasure"}
+{"code": "NORZ", "meaning": "six"}
+{"code": "NOTHOA", "meaning": "garments (midst?)"}
+{"code": "OADO", "meaning": "weave"}
+{"code": "OALI", "meaning": "placed"}
+{"code": "OANIO", "meaning": "amoment (24thpart)"}
+{"code": "OBELISONG", "meaning": "deliverers"}
+{"code": "OBLOC", "meaning": "garland"}
+{"code": "OBOLEH", "meaning": "garments"}
+{"code": "OBZA", "meaning": "half"}
+{"code": "OB", "meaning": "28"}
+{"code": "OD", "meaning": "and"}
+{"code": "ODO", "meaning": "open"}
+{"code": "OE-CRIMI", "meaning": "sing praises"}
+{"code": "OHIO", "meaning": "woe"}
+{"code": "OHORELA", "meaning": "law"}
+{"code": "OI", "meaning": "this"}
+{"code": "OI", "meaning": "thatis"}
+{"code": "OIAD", "meaning": "just"}
+{"code": "OIAD", "meaning": "(of) god"}
+{"code": "OL", "meaning": "made you"}
+{"code": "OLANI", "meaning": "two times"}
+{"code": "OLLOG", "meaning": "men"}
+{"code": "OLLOR", "meaning": "man"}
+{"code": "OLN", "meaning": "made"}
+{"code": "OL", "meaning": "of"}
+{"code": "OLORA", "meaning": "man"}
+{"code": "OL", "meaning": "24"}
+{"code": "OLPRT", "meaning": "light"}
+{"code": "OM", "meaning": "understand"}
+{"code": "OMAX", "meaning": "know (great)"}
+{"code": "O-MICAOLZ", "meaning": "bemighty"}
+{"code": "ON", "meaning": "in your"}
+{"code": "ONDOH", "meaning": "kingdoms"}
+{"code": "OOAIN", "meaning": "amongst"}
+{"code": "OOANOAN", "meaning": "eyes"}
+{"code": "OOAONA", "meaning": "eyes"}
+{"code": "OOGE", "meaning": "chamber"}
+{"code": "OP", "meaning": "22"}
+{"code": "OROCH", "meaning": "under"}
+{"code": "ORRI", "meaning": "stone"}
+{"code": "ORSBA", "meaning": "drunken"}
+{"code": "ORSCOR", "meaning": "dryness"}
+{"code": "OS", "meaning": "twelve"}
+{"code": "OTHIL", "meaning": "seat"}
+{"code": "OVOARS", "meaning": "center"}
+{"code": "OVOF", "meaning": "magnified"}
+{"code": "OX", "meaning": "26"}
+{"code": "OXEX", "meaning": "vomit"}
+{"code": "OXIAYAL", "meaning": "mighty (seat)"}
+{"code": "OZAZM", "meaning": "make (me)"}
+{"code": "OZIEN", "meaning": "hands"}
+{"code": "OZOL", "meaning": "hands"}
+{"code": "OZONGON", "meaning": "winds"}
+{"code": "O", "meaning": "five(5)"}
+{"code": "PA-AOX", "meaning": "remain in"}
+{"code": "PAGE", "meaning": "rest"}
+{"code": "PAMBT", "meaning": "(to)me"}
+{"code": "PANPIR", "meaning": "life"}
+{"code": "PAPNOR", "meaning": "remembrance"}
+{"code": "PARACLEDA", "meaning": "wedding"}
+{"code": "PARADIAL", "meaning": "dwellings"}
+{"code": "PARADIZ", "meaning": "virgins"}
+{"code": "PARM", "meaning": "run"}
+{"code": "PAR", "meaning": "in them"}
+{"code": "PASHS", "meaning": "children"}
+{"code": "PATRALX", "meaning": "rock"}
+{"code": "P-D", "meaning": "thirty-three(33)"}
+{"code": "PEAB", "meaning": "oak"}
+{"code": "PEOAL", "meaning": "69636"}
+{"code": "PI-ADPH", "meaning": ""}
+{"code": "PIAMOL", "meaning": "righteousness"}
+{"code": "PIAP", "meaning": "balance"}
+{"code": "PIDIAI", "meaning": "marble"}
+{"code": "PILAH", "meaning": "moreover"}
+{"code": "PILD", "meaning": "continually"}
+{"code": "PIL", "meaning": "firmament"}
+{"code": "PIR", "meaning": "holy ones"}
+{"code": "PIRIPSOL", "meaning": "brightness"}
+{"code": "PIRIPSON", "meaning": "heaven"}
+{"code": "PI", "meaning": "places"}
+{"code": "PLAPLI", "meaning": "partakers"}
+{"code": "PLOSI", "meaning": "as many"}
+{"code": "POAMAL", "meaning": "palace"}
+{"code": "POILP", "meaning": "divided"}
+{"code": "PRGE", "meaning": "fire"}
+{"code": "PRGEL", "meaning": "fire"}
+{"code": "PUGO", "meaning": "unto"}
+{"code": "PU-IM", "meaning": "sharp sickles"}
+{"code": "P", "meaning": "of"}
+{"code": "P", "meaning": "8"}
+{"code": "Q", "meaning": "or"}
+{"code": "Q", "meaning": "content"}
+{"code": "QA-A-AN", "meaning": "your creation"}
+{"code": "QAADA", "meaning": "the creator"}
+{"code": "QAAL", "meaning": "creator"}
+{"code": "QAAS", "meaning": "creation"}
+{"code": "QAA", "meaning": "creation"}
+{"code": "QANIS", "meaning": "olives"}
+{"code": "QUAR", "meaning": "1636"}
+{"code": "QUI-I-N", "meaning": "wherein the cre"}
+{"code": "QUI-IN", "meaning": "wherein"}
+{"code": "RAAS", "meaning": "east"}
+{"code": "RAASY", "meaning": "east"}
+{"code": "RACLIR", "meaning": "weeping"}
+{"code": "REST-EL", "meaning": "praise him"}
+{"code": "RIOR", "meaning": "widow"}
+{"code": "RIT", "meaning": "mercy"}
+{"code": "ROR", "meaning": "sun"}
+{"code": "RSAM", "meaning": "admiration"}
+{"code": "SAID", "meaning": "wonder"}
+{"code": "SAISCH", "meaning": "brothers"}
+{"code": "SALBROX", "meaning": "sulphur"}
+{"code": "SALMAN", "meaning": "house"}
+{"code": "SAMVELG", "meaning": "righteous"}
+{"code": "SAPAH", "meaning": "sounds"}
+{"code": "SIAION", "meaning": "temple"}
+{"code": "SIATRIS", "meaning": "scorpions"}
+{"code": "SOBA", "meaning": "whose"}
+{"code": "SOBAM", "meaning": "whom"}
+{"code": "SOBCA", "meaning": "they whose"}
+{"code": "SOBOL", "meaning": "whose"}
+{"code": "SOBOLN", "meaning": "west"}
+{"code": "SOBRA", "meaning": "whose"}
+{"code": "SOLPETH", "meaning": "hearken"}
+{"code": "SONF", "meaning": "reign"}
+{"code": "S", "meaning": "fourth (?)"}
+{"code": "TA", "meaning": "as"}
+{"code": "TABA", "meaning": "to govern"}
+{"code": "TABAAN", "meaning": "governor"}
+{"code": "TALHO", "meaning": "cups"}
+{"code": "TASTAX", "meaning": "(going) before"}
+{"code": "TATAN", "meaning": "wormwood"}
+{"code": "TA-VI-LIOD", "meaning": "and second"}
+{"code": "TAXS", "meaning": "7336"}
+{"code": "TELOCH", "meaning": "death"}
+{"code": "THIL", "meaning": "seat"}
+{"code": "THILD", "meaning": "seats"}
+{"code": "THILN", "meaning": "seats"}
+{"code": "TIBIBP", "meaning": "sorrow"}
+{"code": "TLIOB", "meaning": "creatures"}
+{"code": "TOATAR", "meaning": "hearken"}
+{"code": "TOH", "meaning": "triumph"}
+{"code": "TOLTORG", "meaning": "earth"}
+{"code": "TOL", "meaning": "with"}
+{"code": "TOL", "meaning": "on"}
+{"code": "TOL", "meaning": "all"}
+{"code": "TORGI", "meaning": "creatures"}
+{"code": "TORZU", "meaning": "arise"}
+{"code": "TORZUL", "meaning": "rise"}
+{"code": "TOX", "meaning": "him"}
+{"code": "TRANAN", "meaning": "marrow"}
+{"code": "TRIAN", "meaning": "shall"}
+{"code": "TRINT", "meaning": "sit"}
+{"code": "TROF", "meaning": "building"}
+{"code": "TURBS", "meaning": "beauty"}
+{"code": "T", "meaning": "also"}
+{"code": "T", "meaning": "it"}
+{"code": "U-I-V", "meaning": "third (angle)"}
+{"code": "UNAL", "meaning": "these"}
+{"code": "URAN", "meaning": "notsee"}
+{"code": "VABZIR", "meaning": "eagle"}
+{"code": "VAOAN", "meaning": "truth"}
+{"code": "VAUL", "meaning": "work"}
+{"code": "VAUN", "meaning": "(work?)"}
+{"code": "VCIM", "meaning": "frown not"}
+{"code": "VEP", "meaning": "flame"}
+{"code": "VGEAR", "meaning": "strength"}
+{"code": "VGEG", "meaning": "strong"}
+{"code": "V-GE-GI", "meaning": "v-ge-gi"}
+{"code": "VI", "meaning": "second"}
+{"code": "VIRG", "meaning": "nests"}
+{"code": "VI-VI-LV", "meaning": "second angle"}
+{"code": "VIV", "meaning": "second"}
+{"code": "VLCININA", "meaning": "happy"}
+{"code": "VLS", "meaning": "ends"}
+{"code": "V-MA-DEA", "meaning": "strong towers"}
+{"code": "VMD", "meaning": "called"}
+{"code": "VMPLIF", "meaning": "strength"}
+{"code": "VNALAH", "meaning": "skirts"}
+{"code": "VNAL", "meaning": "these"}
+{"code": "VND-L", "meaning": "the rest"}
+{"code": "VNIGLAG", "meaning": "decend"}
+{"code": "VNIG", "meaning": "requires"}
+{"code": "VNPH", "meaning": "anger"}
+{"code": "VOHIM", "meaning": "hundred"}
+{"code": "VONPH", "meaning": "wrath"}
+{"code": "VONPHO", "meaning": "wrath"}
+{"code": "VONSARG", "meaning": "unto"}
+{"code": "VORS", "meaning": "over"}
+{"code": "VOVIN", "meaning": "dragon"}
+{"code": "VOVINA", "meaning": "(the) dragon"}
+{"code": "VPAAH", "meaning": "wings"}
+{"code": "VPAAHI", "meaning": "wings"}
+{"code": "VRAN", "meaning": "elders"}
+{"code": "VRBS", "meaning": "beautified"}
+{"code": "V", "meaning": "the"}
+{"code": "VRELP", "meaning": "seer"}
+{"code": "VX", "meaning": "42"}
+{"code": "YOLCI", "meaning": "bring"}
+{"code": "YORB", "meaning": "roar"}
+{"code": "ZACAM", "meaning": "moved"}
+{"code": "ZACARE", "meaning": "move"}
+{"code": "ZACAR", "meaning": "move"}
+{"code": "ZAMRAN", "meaning": "show"}
+{"code": "ZAR", "meaning": "courses"}
+{"code": "ZIEN", "meaning": "hands"}
+{"code": "ZILDAR", "meaning": "flew"}
+{"code": "ZILODARP", "meaning": "conquest"}
+{"code": "ZIMII", "meaning": "have entered"}
+{"code": "ZIMZ", "meaning": "vestures"}
+{"code": "ZIN", "meaning": "waters"}
+{"code": "ZIRDO", "meaning": "i am"}
+{"code": "ZIR", "meaning": "him"}
+{"code": "ZIR", "meaning": "i am"}
+{"code": "ZIRDO", "meaning": "servent"}
+{"code": "ZIRE", "meaning": "lord"}
+{"code": "ZIRN", "meaning": "wonders"}
+{"code": "ZIROM", "meaning": "were"}
+{"code": "ZIXLAY", "meaning": "stir"}
+{"code": "ZIZOP", "meaning": "vessels"}
+{"code": "ZLIDA", "meaning": "water"}
+{"code": "ZNRZA", "meaning": "sware"}
+{"code": "Z-Ol", "meaning": "hands"}
+{"code": "ZOMD", "meaning": "midst"}
+{"code": "ZONAC", "meaning": "apparelled"}
+{"code": "ZONG", "meaning": "winds"}
+{"code": "ZONRENSG", "meaning": "delivered"}
+{"code": "ZORGE", "meaning": "friendly"}
+{"code": "ZUMVI", "meaning": "seas"}
