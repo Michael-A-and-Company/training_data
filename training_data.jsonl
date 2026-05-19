@@ -2037,3 +2037,29 @@
 {"code": "ZONRENSG", "meaning": "delivered"}
 {"code": "ZORGE", "meaning": "friendly"}
 {"code": "ZUMVI", "meaning": "seas"}
+{"language": "Chinese", "script": "Hanzi", "tokens": ["您"], "meaning": "you (polite)"}
+{"language": "English", "script": "Latin", "tokens": ["erver"], "meaning": "truncated fragment of 'server'"}
+{"language": "English", "script": "Latin", "tokens": ["whereas"], "meaning": "conjunction indicating contrast"}
+{"language": "Hebrew", "script": "Hebrew", "tokens": ["מח"], "meaning": "isolated character pairing (Mem + Chet)"}
+{"language": "English", "script": "Latin", "tokens": ["Affordable"], "meaning": "reasonably priced"}
+{"language": "English", "script": "Latin", "tokens": ["bil"], "meaning": "truncated fragment of 'bill' or 'billion'"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["धरकि", "जी", "प्रोल्त"], "meaning": "fragmented syllables; 'जी' is a respectful honorific"}
+{"language": "English", "script": "Latin", "tokens": ["hang", "camp"], "meaning": "standard vocabulary words"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["री"], "meaning": "isolated syllable"}
+{"language": "System", "script": "Unicode", "tokens": ["\ufffd"], "meaning": "REPLACEMENT CHARACTER (decoding/encoding error flag)"}
+{"language": "Chinese", "script": "Hanzi", "tokens": ["怪"], "meaning": "strange, weird, or monster"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["भी", "त", "अंभी", "आए", "औरम", "भाय्त्यच्यत्मोत"], "meaning": "mixed grammatical particles and highly broken/corrupted phonetic ligatures"}
+{"language": "Portuguese", "script": "Latin", "tokens": ["família"], "meaning": "family"}
+{"language": "Hindi/Sanskrit", "script": "Devanagari", "tokens": ["अग्र्ज"], "meaning": "derived from 'Agraja' (elder sibling)"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["मैर", "मैसम्साःचव"], "meaning": "corrupted text/syllable configurations"}
+{"language": "Chinese", "script": "Hanzi", "tokens": ["白"], "meaning": "white or pure"}
+{"language": "Sanskrit/Hindi", "script": "Devanagari", "tokens": ["ॐ"], "meaning": "Om / Aum (sacred spiritual symbol)"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["मैंनुआ"], "meaning": "broken phonetic grouping"}
+{"language": "English", "script": "Latin", "tokens": ["replaces"], "meaning": "takes the place of"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["णुएखनु", "स्आद्यच्सव", "ख्लयाया", "व्याया", "ह"], "meaning": "nonsense conjuncts often generated during structural token collapse"}
+{"language": "Chinese", "script": "Hanzi", "tokens": ["牛"], "meaning": "cow, ox, or colloquially 'awesome'"}
+{"language": "Hindi", "script": "Devanagari", "tokens": ["ृषा", "मारग", "कितिषटा"], "meaning": "isolated vowel marks and corrupted word fragments ('मारग' relates to path/way)"}
+{"language": "English", "script": "Latin", "tokens": ["mult"], "meaning": "truncated prefix for multiply/multiple"}
+{"language": "Marathi/Hindi", "script": "Devanagari", "tokens": ["sumāra"], "meaning": "approximately / around"}
+{"language": "English", "script": "Latin", "tokens": ["youngest"], "meaning": "superlative of young"}
+{"language": "Hindi/Marathi", "script": "Devanagari", "tokens": ["आसावस्छ्लं", "कितिच्च्याया", "वेधासा", "जा", "कि", "अग्र्ज", "मैसम्साृःया"], "meaning": "complex layout of broken ligatures and grammatical suffixes"}
