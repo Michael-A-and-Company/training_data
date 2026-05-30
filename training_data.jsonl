@@ -2076,3 +2076,12 @@
 {"section": "Summary Table", "element": "matches", "type": "English Word", "meaning_function": "Plural noun or third-person singular verb."}
 {"section": "Summary Table", "element": "250 & 60000", "type": "Arabic Numerals", "meaning_function": "Integers representing quantities."}
 {"section": "Summary Table", "element": "=", "type": "Mathematical Symbol", "meaning_function": "Dictates that the left side equals the right side."}
+{"language": "English", "type": "word", "value": "w", "script": "Latin", "context": "Isolated character"}
+{"language": "English", "type": "word", "value": "blow", "script": "Latin", "context": "Standard vocabulary"}
+{"language": "Spanish", "type": "word", "value": "electrificación", "script": "Latin Extended", "context": "Features diacritic accent ó"}
+{"language": "Unknown (Fragment)", "type": "corrupted_loop", "value": "illance.", "script": "Latin", "count": 33, "context": "Likely a suffix fragment from 'surveillance' looped by a parsing error"}
+{"language": "Telugu", "type": "character_cluster", "value": "ప్", "script": "Telugu", "context": "Consonant 'Pa' with a vowel-killing virama sign"}
+{"language": "English", "type": "word", "value": "Keys", "script": "Latin", "context": "Standard vocabulary"}
+{"language": "Telugu", "type": "corrupted_text", "value": "య్మలందాంిన్", "script": "Telugu", "context": "Scrambled jumble of consonants and isolated vowel signs"}
+{"language": "Unknown (Fragment)", "type": "word", "value": "wiet", "script": "Latin", "context": "Glitch or non-English word fragment appended directly to Telugu script"}
+{"language": "English", "type": "proper_noun", "value": "Baghdad", "script": "Latin", "context": "Geopolitical entity; preceded by a non-breaking space symbol"}
