@@ -2085,3 +2085,9 @@
 {"language": "Telugu", "type": "corrupted_text", "value": "య్మలందాంిన్", "script": "Telugu", "context": "Scrambled jumble of consonants and isolated vowel signs"}
 {"language": "Unknown (Fragment)", "type": "word", "value": "wiet", "script": "Latin", "context": "Glitch or non-English word fragment appended directly to Telugu script"}
 {"language": "English", "type": "proper_noun", "value": "Baghdad", "script": "Latin", "context": "Geopolitical entity; preceded by a non-breaking space symbol"}
+{"language": "Japanese", "segment": "れのリバート", "notes": "Fragment containing hiragana, likely a phonetic transliteration of 'revert'."}
+{"language": "Romance/Latin-based", "segment": "ismo", "notes": "Suffix indicating an ideology or movement."}
+{"language": "Romanian", "segment": "ț", "notes": "Voiceless alveolar affricate (/t͡s/)."}
+{"language": "Korean", "segment": "안녕하세요", "notes": "Standard polite greeting ('Hello')."}
+{"symbol": "Ṣ/ṣ", "description": "Latin letter s with dot below", "usage": "Used in various transliteration systems (e.g., IAST for Sanskrit) and languages (e.g., Yoruba, Arabic transliteration)."}
+{"format": "Repetitive sequence", "segment": "[ Ṣ ṣ ] ...", "notes": "Repetitive pattern of the 'ṣ' character."}
