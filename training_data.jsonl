@@ -2091,3 +2091,7 @@
 {"language": "Korean", "segment": "안녕하세요", "notes": "Standard polite greeting ('Hello')."}
 {"symbol": "Ṣ/ṣ", "description": "Latin letter s with dot below", "usage": "Used in various transliteration systems (e.g., IAST for Sanskrit) and languages (e.g., Yoruba, Arabic transliteration)."}
 {"format": "Repetitive sequence", "segment": "[ Ṣ ṣ ] ...", "notes": "Repetitive pattern of the 'ṣ' character."}
+{"type": "analysis", "script": "Latin", "elements": ["pseudo", "sine", "Mae", "sprises", "miners", "discuss", "languages", "symbols", "characters"], "description": "English and Latin-script pseudo-words mixed with stylistic diacritics."}
+{"type": "analysis", "script": "Devanagari", "elements": ["शाएा", "केम", "करूऐ", "आप", "ईन"], "description": "Hindi and Indic characters forming colloquial or corrupted phrases."}
+{"type": "analysis", "script": "Perso-Arabic", "elements": ["möہ"], "description": "Extended Arabic-script elements and typography."}
+{"type": "analysis", "script": "Artifacts", "elements": ["ऩ", "", "ä"], "description": "Encoding mismatches, mojibake, and repetitive loop structures characteristic of generation anomalies."}
