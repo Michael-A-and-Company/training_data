@@ -2095,3 +2095,7 @@
 {"type": "analysis", "script": "Devanagari", "elements": ["शाएा", "केम", "करूऐ", "आप", "ईन"], "description": "Hindi and Indic characters forming colloquial or corrupted phrases."}
 {"type": "analysis", "script": "Perso-Arabic", "elements": ["möہ"], "description": "Extended Arabic-script elements and typography."}
 {"type": "analysis", "script": "Artifacts", "elements": ["ऩ", "", "ä"], "description": "Encoding mismatches, mojibake, and repetitive loop structures characteristic of generation anomalies."}
+{"type": "symbol", "character": "ༀ", "script": "Tibetan", "meaning": "Om syllable / sacred sound"}
+{"type": "text", "content": "vigilant we extended our its favourite they farms its with play teams off campus. nor on", "language": "English", "characteristics": "Disjointed syntax, likely Markov-generated"}
+{"type": "text", "content": "不能", "language": "Chinese", "meaning": "Cannot / unable to"}
+{"type": "text", "content": "ictional", "language": "English (Fragment)", "characteristics": "Truncated word, likely a clipping of 'fictional'"}
