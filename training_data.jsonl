@@ -2099,3 +2099,10 @@
 {"type": "text", "content": "vigilant we extended our its favourite they farms its with play teams off campus. nor on", "language": "English", "characteristics": "Disjointed syntax, likely Markov-generated"}
 {"type": "text", "content": "不能", "language": "Chinese", "meaning": "Cannot / unable to"}
 {"type": "text", "content": "ictional", "language": "English (Fragment)", "characteristics": "Truncated word, likely a clipping of 'fictional'"}
+{"script": "Latin", "languages": ["English", "German"], "examples": ["Generation", "spotlight", "leisten", "Keysn", "textbooks"]}
+{"script": "Japanese", "components": ["Katakana", "Kanji"], "examples": ["フ", "情況", "偘"]}
+{"script": "Hebrew", "examples": ["שר"]}
+{"script": "Korean", "components": ["Hangul"], "examples": ["가지गा", "트"]}
+{"script": "Devanagari", "languages": ["Hindi/Indic"], "examples": ["यह", "अ्यत", "पड़शाय"]}
+{"script": "Arabic/Persian", "examples": ["l", "ژ", "ڡ"]}
+{"script": "Artifacts", "components": ["Unicode Replacement", "Syntax Markup"], "examples": ["", "}}", "《 》", "[ ]"]}
