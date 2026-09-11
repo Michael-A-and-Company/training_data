@@ -2106,3 +2106,11 @@
 {"script": "Devanagari", "languages": ["Hindi/Indic"], "examples": ["यह", "अ्यत", "पड़शाय"]}
 {"script": "Arabic/Persian", "examples": ["l", "ژ", "ڡ"]}
 {"script": "Artifacts", "components": ["Unicode Replacement", "Syntax Markup"], "examples": ["", "}}", "《 》", "[ ]"]}
+{"language": "Portuguese", "word": "faço", "script": "Latin", "meaning": "I do / I make"}
+{"language": "English", "word": "the", "script": "Latin", "meaning": "Definite article"}
+{"language": "English", "word": "sonic", "script": "Latin", "meaning": "Relating to sound waves"}
+{"language": "English", "word": "wear", "script": "Latin", "meaning": "To carry or have on the body"}
+{"language": "English", "word": "Thailand", "script": "Latin", "meaning": "Country in Southeast Asia"}
+{"language": "Hindi", "word": "अपना (Apna)", "script": "Devanagari", "meaning": "One's own / mine / ours"}
+{"language": "Hindi", "word": "पलना (Palna)", "script": "Devanagari", "meaning": "To raise, nurture, or a cradle"}
+{"language": "Japanese", "word": "ビ (bi)", "script": "Katakana", "meaning": "Syllable 'bi'"}
