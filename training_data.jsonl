@@ -2114,3 +2114,7 @@
 {"language": "Hindi", "word": "अपना (Apna)", "script": "Devanagari", "meaning": "One's own / mine / ours"}
 {"language": "Hindi", "word": "पलना (Palna)", "script": "Devanagari", "meaning": "To raise, nurture, or a cradle"}
 {"language": "Japanese", "word": "ビ (bi)", "script": "Katakana", "meaning": "Syllable 'bi'"}
+{"category": "Latin Loanwords and English Terms", "elements": ["vocals", "artist", "art", "COSTA", "anyone", "can", "know"], "description": "Standard English lexical items commonly found in music metadata, track credits, or media transcripts, alongside proper noun elements."}
+{"category": "Diacritics and Transliteration Conventions", "elements": ["ṣ", "Ṣ", "ā"], "description": "Utilizes combining diacritical marks typical of academic transliteration systems like IAST (International Alphabet of Sanskrit Transliteration), representing retroflex sibilants and long vowels."}
+{"category": "Indic and Sanskrit Lexicon", "elements": ["Mahārya"], "description": "Etymologically rooted in Sanskrit-derived morphology combining 'Mahā-' (great/mighty) and '-ārya' (noble/teacher), styled with honorific or liturgical weight."}
+{"category": "East Asian Character Artifacts", "elements": ["仔"], "description": "A Chinese Hanzi / Japanese Kanji character (meaning child or used as a diminutive suffix), pointing toward a multi-language subtitle alignment error or character-set collision."}
