@@ -1,4 +1,4 @@
-Training Data Repository
+Training Data
 
 This repository contains a dataset in **JSONL (JSON Lines)** format designed for fine-tuning machine learning models. Each line in the file represents a standalone training instance, making it memory-efficient and easy to stream during training processes.
 
